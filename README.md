@@ -1940,3 +1940,81 @@ https://www.irs.gov/pub/int_practice_units/IGA9560_11_06.pdf
 >
 ### ACCESSORIES
 COLUMBIA STUDENT LIST <PS-MS-STUDENTS@lists.columbia.edu>, info@ivylinecapital.com <info@ivylinecapital.com>, gs-housing@columbia.edu <gs-housing@columbia.edu>, gsdeanofstudents@columbia.edu <gsdeanofstudents@columbia.edu>, gssceboard@columbia.edu <gssceboard@columbia.edu>, gsorientation@columbia.edu <gsorientation@columbia.edu>, gs-admit@columbia.edu <gs-admit@columbia.edu>, gshealthandwellness@columbia.edu <gshealthandwellness@columbia.edu>, gsscelections@columbia.edu <gsscelections@columbia.edu>, gsstudyabroad@columbia.edu <gsstudyabroad@columbia.edu>, gsdosreception@columbia.edu <gsdosreception@columbia.edu>, gsba@lists.columbia.edu <gsba@lists.columbia.edu>, travelerresolutions@expediagroup.com <travelerresolutions@expediagroup.com>,
+
+---
+
+HEY, CAN YOU ASK THEM WHICH INVESTMENT ADVISER OWNS THE RIGHTS AT LEAST? STATE FARM LIFE INSURANCE IS A KNOWN AND MATERIALLY SUBSTANTIVE BUSINESS - THEY EVEN REPORT IT ON THEIR CRD  UNDER FIRM 43036 (WHICH STILL EXISTS)
+
+### CAN STATE FARM ADMIT THEY HAVE AN OPEN EXPOSURE (LEGAL MATTERS) AND A LETTER OF CREDIT - THEY OWN THE RIGHTS TO MY LEASE.
+
+
+>     ######    FIRM 43036, BROKER CHECK REPORT.
+>     <https://saaze2311prdsra.blob.core.windows.net/clean/51e02c06cdd7ec11a7b5000d3a1956dd/%2522[STATE%20FARM%20VP%2043036]%20STATE%20FARM%20VP%20MANAGEMENT%20CORP.pdf>
+>
+>
+>     FIRM 3487, STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY      [ OWNS 75% OF FIRM 3487 ]
+>             MICHAEL LEON TIPSORD                    [ CRD 1943922 ]
+>     AMOUNT: $10,164,850,238
+>     DATE:    2022-04-12
+>     FIRM:    STATE FARM INVESTMENT MANAGEMENT CORP.
+>     FILE:    6076541
+>     TEL:    1-309-735-0561
+>     CAUSE:    EMPLOYEE STOCK OPTIONS PLAN
+>     <https://saaze2311prdsra.blob.core.windows.net/clean/b3106d8ad1d7ec11a7b5002248307b90/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf>
+>
+>
+>
+>         FIRM 3487, STATE FARM INVESTMENT MANAGEMENT 3487,
+>             TERRENCE LUDWIG                         [ CRD 3231040 ]
+>         AMOUNT: $912,500
+>                 [ THIS WAS FILED AS EXPENSES AND BONUSES TO THE DIRECTORS ]
+>                 [ CONFIRMS A USC TITLE 18.215 BY CIK FILER 93715, AS REPORTED ]
+>         DATE:    2022-04-12
+>         FIRM:    STATE FARM VP MANAGEMENT CORP.
+>         FILE:    6076472
+>         TEL:    1-800-447-0740
+>         CAUSE:    CRD DISCLOSURE
+>      <https://saaze2311prdsra.blob.core.windows.net/clean/0466bdead1d7ec11a7b5000d3a1afadb/[STATE%20FARM%20VP%2043036]%20$3231040-2004555.pdf>
+
+
+>     FIRM 8-50128, STATE FARM INVESMENT MANAGEMENT,
+>             TERRENCE MICHAEL LUDWIG                 [ CRD 3231040 ]
+>     AMOUNT: $852,029,489.38
+>     DATE:    2022-04-12
+>     FIRM:    STATE FARM VP MANAGEMENT CORP.
+>     FILE:    6076477
+>     TEL:    1-800-447-0740
+>     CAUSE:    FRAUDULENT SCHEME
+>     <https://saaze2311prdsra.blob.core.windows.net/clean/564c7f62d2d7ec11a7b5002248307f33/[STATE%20FARM%20VP%2043036]%203231040$LUDWIG%20TERRANCE.pdf>
+>
+>
+>     FIRM 1516523, ADVISERS INVESTMENT TRUST,
+>             JOSEPH RILEY MONK                        [ CRD 1357149 ]
+>     AMOUNT: $852,029,489.38
+>     DATE:    2022-04-12
+>         FIRM:    STATE FARM VP MANAGEMENT CORP.
+>         FILE:    6076532
+>         TEL:    1-800-447-0740
+>         CAUSE:    CRD DISCLOSURE
+>     <https://saaze2311prdsra.blob.core.windows.net/clean/2df8ebfad2d7ec11a7b50022483079c1/[STATE%20FARM%20VP%2043036]Advisers%20Investment%20Trust%20[$CIK%201516523]%20MONK[CRD%201357149].pdf>
+>
+>
+>
+>
+>
+
+>
+>     ######    FIRM 43036, BROKER CHECK REPORT.
+>     <https://saaze2311prdsra.blob.core.windows.net/clean/51e02c06cdd7ec11a7b5000d3a1956dd/%2522[STATE%20FARM%20VP%2043036]%20STATE%20FARM%20VP%20MANAGEMENT%20CORP.pdf>
+>
+>
+>     FIRM 3487, STATE FARM MUTUAL AUTOMOBILE INSURANCE COMPANY      [ OWNS 75% OF FIRM 3487 ]
+>             MICHAEL LEON TIPSORD                    [ CRD 1943922 ]
+>     AMOUNT: $10,164,850,238
+>     DATE:    2022-04-12
+>     FIRM:    STATE FARM INVESTMENT MANAGEMENT CORP.
+>     FILE:    6076541
+>     TEL:    1-309-735-0561
+>     CAUSE:    EMPLOYEE STOCK OPTIONS PLAN
+>     <https://saaze2311prdsra.blob.core.windows.net/clean/b3106d8ad1d7ec11a7b5002248307b90/[sf%20VP%2043036-$3487]%201943922-%20$%20tipsord%20$%20STATE%20FARM%20mutual%20automobile%20insurance%20company-$3487.pdf>
+>
