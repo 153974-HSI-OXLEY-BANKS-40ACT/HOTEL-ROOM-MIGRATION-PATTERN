@@ -1,0 +1,196 @@
+From - Fri Sep  2 16:58:22 2022
+X-Account-Key: account1
+X-UIDL: ACF82ZxXiZnjYxIX7QXYGEnMHho
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.249.98
+ by atlas318.free.mail.ne1.yahoo.com with HTTPS; Fri, 2 Sep 2022 14:49:16 +0000
+Return-Path: <pietro.villani@icmpmusic.com>
+X-Originating-Ip: [40.107.20.78]
+Received-SPF: pass (domain of icmpmusic.com designates 40.107.20.78 as permitted sender)
+Authentication-Results: atlas318.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icmpmusic.com header.s=selector1;
+ spf=pass smtp.mailfrom=icmpmusic.com;
+ dmarc=pass(p=REJECT) header.from=icmpmusic.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 14:49:17 +0000
+X-YMailISG: A9br2M0WLDtyNVHjkp.0g5RLHbhlvD4wTZ4gRGqt5rVSa19b
+ ntFlM.h63xTTy5hoSb35fU1JURx8bG5wg0fzWOYDwz66K.SgUML4ZdAqFnDk
+ K_.WhFVoQx_dDIsP_Y7EL7AhnH6N8Y85F_vWaGRaPo00mn0FDDr0shYP3Csd
+ b7BZKv6Qehry5OwEmClIxJJ5Mwrl6wd7j04I.mIk2CGB2nqaeGR4zJhoH0us
+ tVo.cOvZXunAdXKX8jb5NHdppCxbl4albrhRn2UhddM6VdQR1lfCddvrfh4v
+ pMtMNUrbzb4fNyJDpEs9DubSdGT6SCh9UGQOdDnn1e.c0mJmuNLH2pCh3rrl
+ atmoVPNYhwik3dzOINZ48x.nCycex9o4B3GkQpsBV_Pz4JtRqomv6q7L5f0B
+ 6mz2oP8nNNPyuPm1t5xusVhVkkKagoMxYqJ9g6Olfm.nMwiWRwjVWJdXCaze
+ Mwt8HIHLJjDWpAfZqXo9JYyUaQFbfxAXDOG0i2qDvVYOU3fiZFf6IMZMIvWg
+ Vk3dFEJPzWdXl4t1Ngpx21QY1EBtJsXG11.5e4dr07QuVbVyTuXlIkTUFSpv
+ 8EgDevZRDCypQ.Nogr3artvRFzqj9RIzTUbRziCyFFg7GgPVlmLS1wBXGYW8
+ cHWo2q2ekUeHcO3j1IhJZKVbF_BKDXy3j5pyTUwoJXYgUkpujdhDNrcN5NNH
+ _cT29Dz5BKt6oHLfmMQtjnv7h5Xm7F49M40aquwaVmN2sNpLuaXSB0wYqY.E
+ Vm0BfICj_YElkZDjQKVB6T85bJ_SPAcs.0tDhUztg4Yky13P_H1v1cTEcl_5
+ M_15q8k13ipEYohamw9vkicdlppCuNJ9AxyOkny9gaP6bsNrSLeQmMWaJOJy
+ PAO5qpK5vlNjhtq6hCfP1gTLeaGW5n9mtU2hE5FaekOmPfY6M91a7oPrbwDY
+ uemkl3OlxmwdG3KsnQSDZ38BEk3cXiAnDOil0_a4QBHHVHbrb4T.IZnWs_Gr
+ 22faINceYdJ_2Ss2W4.FYDUmzFd28JvsSbQ7dY.GXfKhC6G6OkrqsG8FUuU5
+ YL4kY4xwieZNb.Fh7gmiBsvTRRsdZbesoMc8vncBMoDuEHf8doQPgp4o81bF
+ 7HDwX4_zd6OoUS3DJLhPg22z3br6e4dLB9eRUmkmsjSECbkR9Sntpyj4AmhA
+ Y9Pvdnr1dAJgaaGA_I0E6LTNelHVIYDazCjndAYHttiNmgDinIonUgkkiHP0
+ DODkiRrMnFK7JHGny5vaPb0uXTW1vfV2ZNU1j349FN11ijbHB1u8IrQS2AnJ
+ iaNX36ezYqvuGO3L8qpv3bOZnJ8MPOW3rfVKc_W1lhvqF7z6ug--
+Received: from 40.107.20.78 (EHLO EUR05-DB8-obe.outbound.protection.outlook.com)
+ by 10.223.249.98 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 14:49:16 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=T2s7tUY27HN9u5lq9Ky9iRH8FTpdcF8zkMVIq8Npt4Upc8z1s5GWOohZRc4XPNr8nGiEbRgwNuoDrQrLsrAMcBlGeBp1KlEhOHUK9Wyv5XtcJiwuff5nhnvMA3RI9VYyRWmb6/cMzfyiEgnqhvFw2mYd96bZyc977P/so7xQ0UM48SmvQpcNGQ5WO6w3DmY7K1esUgYY/ZVKfvBPb54pWCzxLGM33Sbmc8TsdxXB7p7L3rbSMDffOBVz3yi/MFY3+D50oMSpCC5FOTEoAuMNBWUs3tG/x7i+NK5oEHMY05LX9yd64W3FJ9mijH97dznFVbfIxNJP1HGwQpuejqOMOQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=ijqMHYc//x504E3shKtVJElpj8pJMezbX/OcvzN+PP8=;
+ b=dyPk7dAZ7Abrg/Cfd3dGfU4TTbAcCJorwHOhpGQjMs6MIzowLOU3fvyVuAbi/ecctQmoBkIeO0EKS/JddqNfeHEgVHLKjXRfUmmHS2IcviIWb1NJ/KqETuJ0JUxepszek0TCgKn3C8m+L/BAKW7yZCRRF/khHj+JbzMhdA3oVujqOSJP+qU1CpP83TwkN2FxPd3kh7XArnkzH/O0OY7VV+Xw3BiBv0y0J6F/AnkY8DX8Qn/QLByndZ+jX4O3k4KG2c9T9loWndfGZ35ugrK3mCIcWsdJFOCD2sRDsDmL4U8hXz7S7d0Q2pAsJbmbWGIe+sFyylkfEXCGx72ii+T86Q==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=icmpmusic.com; dmarc=pass action=none
+ header.from=icmpmusic.com; dkim=pass header.d=icmpmusic.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icmpmusic.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ijqMHYc//x504E3shKtVJElpj8pJMezbX/OcvzN+PP8=;
+ b=IM8wAA07whAAOMV7s4D/HVVkyC/8I9rWcliLfwugFgHMxjgLoaO/reXf35FQsHts6FZs58oBhP3wJY3ZABeHQHXVG5i5rgUVZopjVbCYX58RNUHenR4sm9hUe/QDlGVucL3i5/DN9+fg+fGy/Kinh8hWxIieFGygq5VesCVVfOe8YV3KULlUBygnNFSOfCDkUKOYhG8gLP0DZusrxteumo/LEoaYEu3KyOye7BPhOx94/U2FD8qyRtrd42irwA+/bnxQGYfVOrOOjZstM1L57+dfNlbBNtTVHgsQhT1KplsOHSiQYEX3yrn5i/76Y1+FJh5JAroiMCeUmtQm5j7nRA==
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com (2603:10a6:208:a::26)
+ by PAVPR05MB10238.eurprd05.prod.outlook.com (2603:10a6:102:2f9::15) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.21; Fri, 2 Sep
+ 2022 14:49:13 +0000
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788]) by AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788%3]) with mapi id 15.20.5588.014; Fri, 2 Sep 2022
+ 14:49:13 +0000
+From: Pietro Villani | ICMP <pietro.villani@icmpmusic.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: I think steve will tell. If they don't turn themselves in...
+Thread-Topic: I think steve will tell. If they don't turn themselves in...
+Thread-Index: AQHYsH9yZkSjEBGOw0Kn6B50RurTP62zWCGAgBj9MY8=
+Date: Fri, 2 Sep 2022 14:49:13 +0000
+Message-ID:
+ <AM0PR0502MB40501132749020D8BCABD8BC817A9@AM0PR0502MB4050.eurprd05.prod.outlook.com>
+In-Reply-To: <602dea81-f22d-296d-3eb8-289749f241fc@yahoo.com>
+Accept-Language: en-BE, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 1263b37a-e0bb-4ffa-045b-08da8cf24d80
+x-ms-traffictypediagnostic: PAVPR05MB10238:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ VTbstaC/WhMt7MnnRG/yEddBGT0vyNj5wOhvrIH2I7Xx0vGqqbfua3Lxk5a+krOix7hyt0W9AFo5Hf3RndHVzAcRPXUt0XNgdR8o/U0VwgV7w42CxInEpIQ2y4/ybuicbmMrYv2cYwRBgq7vJc+wAtu28Lzw4SNLLxfxKRbkcB0a5izHnCg4zZV3BY3T3Bl1l20Tk6d3XD2pLvMKT9gZLg74DGbO+iKyjRUMOSsR8jPcMHGDL5rzKyGqgePeDh8r7YlmZGMzwqazbNW6LsUsq/vCIIbbHtQOD7zXu1Z/opXtsVrXS6TV3sQmAI2Y7pbyghWWXrdXIUXJ+YdOM+Be3eu1uUefcJ5EzPghLEm0usa8KxqTE37pxCYprS/f5rcfSLExwK0B2qEvRGrg3vJNE5I0gQW0oMQKk0lLVcSQBQPKR4MapK7BNYBYsSFOP1JgfLOQewZUoHZK46Ht15dL6cSIMQQiNT5nT+cwMUZ9it55U235VOjCr+5OKcsp32BT
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AM0PR0502MB4050.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(396003)(376002)(346002)(366004)(136003)(39830400003)(9686003)(2906002)(4270600006)(38100700002)(71200400001)(122000001)(6916009)(6506007)(7696005)(86362001)(38070700005)(26005)(55016003)(316002)(64756008)(8936002)(52536014)(478600001)(66476007)(76116006)(66556008)(66946007)(8676002)(66446008)(41300700001)(186003)(621065003)(73894004)(33656002);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?DBeD7QUtTGmWOKtMkvPfe+2Dx0MFzgIqbThRYROPOBrSWwYOwZimVbidC0Jd?=
+ =?us-ascii?Q?2dv7X5frTQI2bRP2TzOnRPFPJd9lw5f+qJBv5sRHMCk+LwYrkX4BZsnwaMsL?=
+ =?us-ascii?Q?p3fEBfi23f1VWFOaZAkAt8XD1dO7yht1QFLhjlywaXzFsavGZx59urYnn7GG?=
+ =?us-ascii?Q?AUOO6rqOPLnNOGn18PmfZzRWktpc8hV99qIQKByeVy4HwxNXIbjcz9neSzQm?=
+ =?us-ascii?Q?SmcDGnbMMRJeWH8d/leYvqnY9xfDaPxhf6rPbrQUaFLVWVW1qHQh0mBFeeyZ?=
+ =?us-ascii?Q?9XkQkxXKCsKzvoPHcZn21JV+aGQyvVLwQ54dcSy7/FVc/z7yNk8jxQQob8KQ?=
+ =?us-ascii?Q?rJuz2k0LzEfQnLE0NfbRcFqFOeKAhE3t9koBYzxjxWpjkNO4kj8qtrIit2aj?=
+ =?us-ascii?Q?D5t49DRw3c5KOjyjY1tHPQQyO29idLQk5c2Nf5XR7x9WlEnlMB2zlEJTABDO?=
+ =?us-ascii?Q?6KplzYtf7xbsPhTIoKlXhenYuerpSoeYBk78ASXMRm79DuYeOVrPjgmvUV+i?=
+ =?us-ascii?Q?p6BDCitnEe0Dn0UqkPutq6wSgITVb8IWkhhMTrIHxS+JcVYdtcI12mB2P36g?=
+ =?us-ascii?Q?xg4I6QUHpa4qtCq9ihBQiNtts9enj2gSUVWGcLRd3N10pZkgUHKvjrqmI0tP?=
+ =?us-ascii?Q?eOw2BCMKRU2488j9f3/+Jfg92CVWnwMA4Ffjy2AeRfkwHY9ZzbwWLGSCbPL3?=
+ =?us-ascii?Q?a8i8cvwq22rEsqd3neWNJm9ISyU41Gn3vmgEg1Vn6QhWSBAcH27rYp7oCQz0?=
+ =?us-ascii?Q?CYe3zzB/F+WahVOdnw2PxPN0AonXgPTtkb//HgSmVdpdqTKHe517q7jRc8Mk?=
+ =?us-ascii?Q?BfZvQWEg9X19jIlIxFYGyORTgFKWOaxOM1KznhbN+K9zGgACVWGOf4cA8Hlx?=
+ =?us-ascii?Q?ZPao5b+mhKLaZzTccSrzyaz+nP7PXCH87PIBx9igGFJtcTuJ139EkTtFl3sw?=
+ =?us-ascii?Q?03hqIZki8gESkPuI0YHQt1vSZ9b6lztP+k+p8LGr8QVTlBGUFmR2PvKqejlT?=
+ =?us-ascii?Q?v+uATxQkoo4tF9Xob8DGFGHaSw0pkHJVu4Yr6Xt3aK4ukzp0rEuUgXmkPJCT?=
+ =?us-ascii?Q?9u+GHbiksgk8Tuy4pzkn+qzbvOOn62rDT2VQFEEyi2hnCes2hXixDzFdIv3G?=
+ =?us-ascii?Q?IMXdRIo4X/lTRRI9yFtXZATfQcCtowR62sA5FndNLXAl4YPYghPmyU8o8TBM?=
+ =?us-ascii?Q?z24vwkg411Kl9dP7feKV0+R57IIqfDn83YH8jHUR7WAfOZdTGm2hRpebav/f?=
+ =?us-ascii?Q?/rzDbNmud7TqPJRZnKFSW1WM5ocQua1yl1ydynZjB1v6PQnDYa+OkOYxGOTF?=
+ =?us-ascii?Q?6e5gZEvNUVMXQlgLYgvzEIvhUIhoBSiXXwiZlslIUQCjkxSGJ6yUvdyh76KL?=
+ =?us-ascii?Q?inZtOzJZWHcxcO5fLSgt4tf4KlDlUD+/mWZBWWYrsY1cDVf/+oYTN6ReJmYI?=
+ =?us-ascii?Q?mG3rZlWPp37Ly2GzHeHi7DF7+RkFefQ9XsQccQgZRm6ziBpIaVnImXyLc/Bn?=
+ =?us-ascii?Q?Cf34ouwVL5q4e7VYi/I9eMKggf9A/uA8oXhJbHMc32dXFRmUp7H5L5ZNniMI?=
+ =?us-ascii?Q?PD8NMvX+GonuoFQhS4qAKhXvAnwaEMH6fgZ8MMJY1WG6h2z0lJqgcbYdmm8D?=
+ =?us-ascii?Q?4A=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: icmpmusic.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: AM0PR0502MB4050.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1263b37a-e0bb-4ffa-045b-08da8cf24d80
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Sep 2022 14:49:13.2337
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 28a4cc59-64d7-4629-87bf-20744de61c93
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: en6XEBu3I1qOJjvw5ttaw6RHArxWOFxuBnGDGH9a/B0sFte2jxbUPVgBPFkild9nwrbuorycVSO4hsg7lKRk8oABGBMxarQI+pDOJleYjac=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PAVPR05MB10238
+Content-Length: 2064
+
+--_000_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_
+Content-Type: multipart/alternative;
+	boundary="_002_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_"
+
+--_002_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Pietro Villani | ICMP
+   Subject: Re: I think steve will tell. If they don't turn themselves in..=
+.
+   Sent: Wednesday, August 17, 2022 7:12:43 PM (UTC+01:00) Brussels, Copenh=
+agen, Madrid, Paris
+
+ was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels, Cop=
+enhagen, Madrid, Paris.
+
+--_002_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Pietro Villani | ICMP<br>
+&nbsp;&nbsp; Subject: Re: I think steve will tell. If they don't turn thems=
+elves in...<br>
+&nbsp;&nbsp; Sent: Wednesday, August 17, 2022 7:12:43 PM (UTC+01:00) Brusse=
+ls, Copenhagen, Madrid, Paris<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels=
+, Copenhagen, Madrid, Paris.</div>
+</span></font>
+</body>
+</html>
+
+--_002_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_--
+
+--_000_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; pietro.villani@icmpmusic.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: PtxiZC2IFEy7dELTzuWNTg==
+X-Display-Name: Pietro Villani | ICMP
+
+
+--_000_AM0PR0502MB40501132749020D8BCABD8BC817A9AM0PR0502MB4050_--

@@ -1,0 +1,194 @@
+From - Tue Aug 30 09:01:50 2022
+X-Account-Key: account1
+X-UIDL: AN1nOdlCQP8YYw4TygwpSHM3Xqs
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.223.249.98
+ by atlas319.free.mail.ne1.yahoo.com with HTTPS; Tue, 30 Aug 2022 13:42:34 +0000
+Return-Path: <SwainNYSDcorresp@nysd.uscourts.gov>
+X-Originating-Ip: [40.107.89.100]
+Received-SPF: pass (domain of nysd.uscourts.gov designates 40.107.89.100 as permitted sender)
+Authentication-Results: atlas319.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@fedcourts.onmicrosoft.com header.s=selector2-fedcourts-onmicrosoft-com;
+ spf=pass smtp.mailfrom=nysd.uscourts.gov;
+ dmarc=unknown header.from=nysd.uscourts.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 30 Aug 2022 13:42:34 +0000
+X-YMailISG: qvL.7.IWLDunDEdMiJ6wr01gw3f8aytGlIftk6vPMeBZxik1
+ DRV3IzVdIetUdVmzid8Kdtrd3uee_YoG.eyVTmu6cjm5mnzJVJczZBIoMUlk
+ GnhUKHs_NmcdFMrOyPRNOGodprw7zULLvRw2fnnzHyinTlw4hnyTx8gZsJsn
+ uQQolDhvXx82GSGDPza8JQxmZcDRJBt.vEMkksoP1xdbfgM5vqB3FXuCtOsn
+ jzZtYjr6r2oTIJzq12iFhtjfekcPLZl9qcxZS6q_5HPFyh4qb4MxJMMmYn_X
+ 7nUXXg7jewZMFYlkKHzFCJxgCpheHNeRe1p9SjgW55G22jsoItE.2ppURWdj
+ qpMiRfOEKgFWypB9KLICj7t86y3SYtlBZFU4Z7xsa8wJq1yiazcj35uMw7pX
+ y8hHmTOiOsHLq.ohvX42QHLmSmR84JeeXXvtfF6CrjeIygtz76W57AiVZv1g
+ 8yoaKaRlqTPA3D3IrgtNVaqAtMlXOK2TsIvJuxJtizOOO_CFMlgF7aHGzV.I
+ jvfYuqJfE_ylGuQqdieX2sUrVE_I.9M7IfauD_wYNOKCsUvwqbgYzdlr8kb7
+ DDVSFvDG8PuRaIQPlN74XnTZCn30NjJ9AczUNJtldsqirPk5I772TWQAt3NF
+ C.DadGxUWKGdhxQPQ7jOutUczjd2neTuG5.huZe3pP9vzyBjQPoFBtDG7YTd
+ S8zRK8HXLXeht5JQFJgMClmVw3MOGheDXBOv1BXtwroH8PfD27OAXbrisqb8
+ NvZQXGHxmBn1O64GaV_q7aHu5sglJn4dlv_dBAtHV.tqc1Vixc5t5RwZLD5W
+ WgFXT_0iPcqi3qaSQ6i7YgRGVSZ_qcktOFmiUZr45CQRV0zeKaMROCdWyeuW
+ XfVvXSmTuC3FMygwtpmHe7NAsJlvqYYfOPCp8a0mxG3lgVzt_G4y4TNFwlop
+ mo.Fxi70HwqQI.nid.MQZ9t.T.w13_AMaJReJQcweEnIjBJHk8XqqKpaQZue
+ UmZcIgOygE8sF4Vu97bqoJBx6DNT_dsUGOlxdJ6756C0lLsDKze7iHHxK4LH
+ u4rODQq.5Mxtib76SU1ASfw7IXkwh0guMeFH8FvWdDvEahce7eZwZiG0KJll
+ xVyeg3drvNUM8lyvxWgLG75SQgOH182HQj73jC8.07tuebZRPaPODMf.qUII
+ BUU3k2MjGjph1Nl8FUHpjMSoO6_F05rPtQQ9n9KQQjSwOlmZsmnEAKbWkHrO
+ S1QJyHnpTzL0q8GTquUw0Fty0FPNqOsrwc0NvLPhgIdBausmxZUzca5rzKin
+ 82nanRMfN._f44hTlf4PtGQV5l7hRKRG789WRFSCan92sTuWcXwvrjrb8cWH
+ XEqoU.Et8kl5GVQGVUMKJRI-
+Received: from 40.107.89.100 (EHLO GCC02-BL0-obe.outbound.protection.outlook.com)
+ by 10.223.249.98 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 30 Aug 2022 13:42:34 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=BF2LbroyIOJcKSwA9mMGnQZxvHH2MKpYKP/bzdLOL/mn+jJTEkf13ClV94bTkdss8kpjbgW7pATzcpzFbH4zNykiga2HoPVNyPklzXcOh+n4WlkQ4w0OcVRSgJeOVXgH3aw3cuO+CkFn3q5byLY2AUVLJKZqgmcxjpF9YKY4CDUd2i4ttdJrdui4jeYobx3FBfyroW/3h8+KpV8yCg1joOAsyqACeV5xhV/XWMx4ha9Cq5VdazUGZUYdhOKJ+et8919e+OCmqUTVeUB3bgqsbklfndP80bV4yZJ+ygtWYo8s9bQ7FWCqsEsH+RPIY7GSxkUy2zAjSGvNyx40Lp191g==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=UzRSvCbZTqGpLJkHZNKLLoUTBdv1QQrc6WR29ZTh4cs=;
+ b=mfnj05MQXCTgQmQzjgr8a8EDwRWPc0D4+vfW4ELEfMElbuR0dkvuEE15jLce+JFnamCspvlb20siZ6N1xZVbbMhzHojkI64D518lZBxV0bHAbxQfZrTGTiwk/XvmIAYpfz0cMdyL4PwUUu1Rj1dUH1wuUmEddFXRLTWz4NtWQoc+uJcmlfu5Ndtwzgg2jONG636CpaUsJ4LMjs1ydZX5BB1Qj3RW583LCYuxP7YJVj+S1q9zTJ3YXbTVwaKZONN7weBCfbsD2gvB27yHpou6S3LYzJcQp3KyVydSuwepAM5qABt9pQIUrrm4nO86lEIJMoIkOl6whrLh39TGaKbPYA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nysd.uscourts.gov; dmarc=pass action=none
+ header.from=nysd.uscourts.gov; dkim=pass header.d=nysd.uscourts.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=fedcourts.onmicrosoft.com; s=selector2-fedcourts-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=UzRSvCbZTqGpLJkHZNKLLoUTBdv1QQrc6WR29ZTh4cs=;
+ b=tsYt7BeSI/IGsM+jrpM0GjJkoETaeCNFDm5dgcEa+4ZZzrsIsm2GVtFWsloMy/LPhs+Xnn2Ew+/v31lMzlhaU5Dj8YjnItVDnR4l1f7Y03bLrtOUhw2REjmT1ytQgdPqNQZMxAQ7a1XNGnYTCs8zC58bOz7S9CJqfKXyi8bxvQo=
+Received: from MN2PR09MB5769.namprd09.prod.outlook.com (2603:10b6:208:21f::12)
+ by BY3PR09MB8849.namprd09.prod.outlook.com (2603:10b6:a03:349::14) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.15; Tue, 30 Aug
+ 2022 13:42:32 +0000
+Received: from MN2PR09MB5769.namprd09.prod.outlook.com
+ ([fe80::e0aa:b61e:8459:9e60]) by MN2PR09MB5769.namprd09.prod.outlook.com
+ ([fe80::e0aa:b61e:8459:9e60%6]) with mapi id 15.20.5588.010; Tue, 30 Aug 2022
+ 13:42:32 +0000
+From: NYSD Swain Corresp <SwainNYSDcorresp@nysd.uscourts.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Not read: http://ic3bbohit.pythonanywhere.com/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/
+Thread-Index: AQHYuOwe2JNC3Qn+90mjxcHWz7f3p63GXksl
+Date: Tue, 30 Aug 2022 13:42:32 +0000
+Message-ID:
+ <MN2PR09MB5769EE29DA4072B5C4C5FE7786799@MN2PR09MB5769.namprd09.prod.outlook.com>
+In-Reply-To: <a7b45776-cfe8-7636-bd90-559acbca10d4@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 69ebc288-20a3-4a5e-ca77-08da8a8d7d95
+x-ms-traffictypediagnostic: BY3PR09MB8849:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ w3uqCB1Y+lLBDVCujwBS4VCD3bWXogGqhKmnsQAiWkylKBtes0dv6usKrCcDEzaTislWprt0ADpu/iWBLexhoR+0KLFkNUZzNs4ZvlmTjuPwsGQUtSTjYiBcMPQlmBO9J4PzLapsK1B9kubdSFVPS6umdMgCyrXCAKadv3I6MSr6OU6zJ5/F/IkNgoFho/qk0r8tMH2rWQdudhwzomsJ/8lC1T/mYHgl4u90mUeWRFSl+C2C+XB65tjcMXCompccw6Tq7pvFgallWHHn2zXVGwuqiW5yxQ9VwPh4LXQl4ApZTnFes2AHjXwf6pJnaf1HZ0auaCLXEroPv0JcgUZ+eQLFmSGRtEs9U7R0P7S7V99ah3ykFj9alJlU3Tfj8LCMHvDAgJqtYkZHOZVvtHMHS78R9ZBQD5P9d62L8SoHRVXHHuD7TTijelpK038V9MZLODAs/Byb+V8RDznRfKkVXoosPyCNRgdZufQqm1oJPnB/ww6yqGdt4j/xIVbo+SLGtPxlC95DvfDxK7qo5VB8pbfdjtJmQN0FFAWj9WWBOsl1tiL+B6Lj4CtsiGOdShO+
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN2PR09MB5769.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(8212001)(7696005)(9686003)(6506007)(26005)(38070700005)(4270600006)(33656002)(122000001)(186003)(86362001)(621065003)(73894004)(498600001)(71200400001)(66476007)(55016003)(6916009)(64756008)(66446008)(66556008)(8676002)(8936002)(52536014)(66946007)(76116006)(2906002)(38100700002)(2490200003);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?IO9IavBu7SnCPewqGAIy4DHyLraIL+h4gKcRtqpmNiSDsrteU7V7oQeXcx8T?=
+ =?us-ascii?Q?uAuRw2fYJC17i2rQzp4WwyT7E9WMdj6dC4FFceRodc0A2B4k7VrTt3EoztK4?=
+ =?us-ascii?Q?gqNH1tz/Oqo5Cs7BU9APtXBkI6Km6DP6PPX16n0zMEAN9wPS9pBmYFKjK84e?=
+ =?us-ascii?Q?+40Sc/koYrS79moHxmnb40/gpRdxvPVJHeqM2OLBA9Wly9+oqedVnX1lhw6n?=
+ =?us-ascii?Q?ZREDWKiGA7WDLe7JBcOULwR0G9M8YtpnLEtKmYB5i0toujjNjE0Lcjix42Nm?=
+ =?us-ascii?Q?tpx+YjXMKUAlLs3qcegsAoP+ODd69SGihfAf3muuC3JLpXRHafLbSnNRli2C?=
+ =?us-ascii?Q?J4bnvb4uz6QUki8aOe+uxus50PV+GDw09i+myAPMWzgkYnT92ec2xjPpA0aT?=
+ =?us-ascii?Q?DAF+MdfKjLU3DUcLta/eYniol9e4ANYjKgFw5/9VSvuXA9z858dpNtJzO+lC?=
+ =?us-ascii?Q?ptD/lwYXk4ZUBmemy8DjNZIYQ48J+S5bINf+UbDCqn9KbMgkpWC2Exxv4SYm?=
+ =?us-ascii?Q?7zA29kk9l5o8GWTrUoljdgHJYoBdjV3DTs5sEJqC5Zw/JYJuAJsT8LQgl9On?=
+ =?us-ascii?Q?vb9TAr5TUfRZApLG5KSQKArxye1eNElyHT4cZ3Od1EPmtUJ+FV2YYrtU8GbU?=
+ =?us-ascii?Q?qB4IwFFR4xqUhav8HU5ZohRkGA3YeCeNQR8U3aGf8J2shyEC7dTT2m1dbnBw?=
+ =?us-ascii?Q?ePn4HVLeezoxQmiOpxfbV6LZHn3iT7e+h12d1kzz8pmv0pVQnY1yJloXbl1G?=
+ =?us-ascii?Q?gPXQqp2EI3xZ/p7vrIIKQNMwNOyQVPVhjKNyhagXao+sswGFK+1gaLW2wG+E?=
+ =?us-ascii?Q?2Zu9pioaHRuy/J6gKawEjBt/MfYgJjT1Ri60pJJipJcHg+9ZpVoOMa7Qcw6I?=
+ =?us-ascii?Q?9CVlSypRgc+la0joKWa3zIxm4IlxHEeFLJuNZJy/0i76XCtjYUjKdjE6aLfQ?=
+ =?us-ascii?Q?8ZEFywp8bsngtho8qMTr0YYqw1RlLncCf/1lc9k2qyvCteVOCp5AgUsBXfMw?=
+ =?us-ascii?Q?X+sDx99FGa1ZyNNMhY43wIIa9RQFZLBtA/DFMXVUamgIqEJ9ymz34U0p4ZOj?=
+ =?us-ascii?Q?sGOsKYccvwcgEujdD8nTWOcv86380DSM6nmIWg/Zsw5TFd2dtzasZhvFzN2W?=
+ =?us-ascii?Q?fYhJPVkaqPvRdSPI0FA72T4psFmKo4Pz4lo/X4vc2OpTKaYcP/VlwDg3rxbe?=
+ =?us-ascii?Q?zlyOyajUXL+uT6kvOs6xTT6X/zjyci1Qwsb6MxcBanS0b+1lhdWyINStzpAV?=
+ =?us-ascii?Q?dxq9ddhazOEYV42Cm1cUx2S6sDQHRajVmzfnmdhd8IVQyj9D4Lw2pK41vmpS?=
+ =?us-ascii?Q?bdViHCCo5JGU1JgkIzTaSICm1e3AWiqlmcaLMtoM6nQhVC5uEj02pVnZvPA3?=
+ =?us-ascii?Q?ZWNbgdDEXNCWzjsNG7xVMonUMlK2VRblCCLAykc1iLOAatPTBgBhR2XE3Hu6?=
+ =?us-ascii?Q?zpTZNtGPXUwkcpYeJFnUk3HuoOCdpB0Mcu5JtRYKd4bz58CFTzPKCmiY0nsv?=
+ =?us-ascii?Q?EKlODxHoNI7U4bf/JBZCkh3DRXzmWPZjdeKudyYkuYw4r+bxWWHFLD4xu80o?=
+ =?us-ascii?Q?jkBQySQ+dQ7odRTxOybME9ifdlBOOYk35vMMStjF16jcE3N3cNSxuXyRx5YK?=
+ =?us-ascii?Q?EsZVLGvje2mP8a3p6JJj1sI=3D?=
+Content-Type: multipart/report;
+	boundary="_000_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nysd.uscourts.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MN2PR09MB5769.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 69ebc288-20a3-4a5e-ca77-08da8a8d7d95
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Aug 2022 13:42:32.7712
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 1d66f037-8266-4d1c-919c-67c6543d3542
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY3PR09MB8849
+Content-Length: 2064
+
+--_000_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_
+Content-Type: multipart/alternative;
+	boundary="_002_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_"
+
+--_002_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: NYSD Swain Corresp
+   Subject: http://ic3bbohit.pythonanywhere.com/
+   Sent: Thursday, August 25, 2022 9:30:46 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was deleted without being read on Monday, August 29, 2022 4:44:01 PM (UTC-=
+05:00) Eastern Time (US & Canada).
+
+--_002_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: NYSD Swain Corresp<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/">http=
+://ic3bbohit.pythonanywhere.com/</a><br>
+&nbsp;&nbsp; Sent: Thursday, August 25, 2022 9:30:46 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was deleted without being read on Monday, August 29, 2022 4:44:01 PM =
+(UTC-05:00) Eastern Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_--
+
+--_000_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; SwainNYSDcorresp@nysd.uscourts.gov
+Disposition: automatic-action/MDN-sent-automatically; deleted
+X-MSExch-Correlation-Key: /lFfGYClu0+fRVGTsEDCPA==
+X-Display-Name: NYSD Swain Corresp
+
+
+--_000_MN2PR09MB5769EE29DA4072B5C4C5FE7786799MN2PR09MB5769namp_--

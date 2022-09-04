@@ -1,0 +1,624 @@
+From - Fri Sep  2 16:57:54 2022
+X-Account-Key: account1
+X-UIDL: AJE82slmbpxfYxEyWgFEOCNCEFo
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Thu, 1 Sep 2022 22:29:45 +0000
+Return-Path: <messages@subscribe.usaid.gov>
+X-Originating-Ip: [69.5.87.114]
+Received-SPF: pass (domain of subscribe.usaid.gov designates 69.5.87.114 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@subscribe.usaid.gov header.s=22q1;
+ spf=pass smtp.mailfrom=subscribe.usaid.gov;
+ dmarc=pass(p=REJECT) header.from=subscribe.usaid.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 22:29:45 +0000
+X-YMailAVSC: b6sAdCw3bBvFQbPh0nj2IV9LTdNU5dJ1CUBbuq_19sMPfmW
+ jwieA8nsHpiaxNpTFlVHxE43KK_GGZq8eA23Mo3tXmo4Keed3OHCf_J8JbYI
+ zjV32rrcCx5VZBncc15h5AXOQIMqdnJeimdQeAxP2Q4KgYlZHxxCCI1NRv9_
+ 2PRrAUvxzGXfD_FtXbRu8qXTvbhqPYxPx1RXVGfK9TP5m.Jrf7DRyoqPo3hQ
+ Fwn6RUhwThXwITv66zVE39N2ycVLHDsP1qm9g.bhid7goJ9bbmM2l.SfYvIf
+ Eh5WyLbLbVqdtVGSc8ZlS4GNkfgmbp.HDIoC47EpEFU_giuLAwN9nKw0KCGa
+ yNVsw5S.A6cjAe_WGl3yKT5s1VIikjIdSeHEdZ6oWeGlf_tYGlzaG8s5YnPv
+ VycBWhKElIKC5M_n14Os81dE0Y1LXiV4ycSzKlr1yZo7lRECFtRSfkWyANUW
+ tDS.5iagwHKxcicWCdRBJKYIfho3AA7v4Bp3vek2ea3WnQ20xhCJgOFh1Ctl
+ 8q8jJROrYRJPpKyUae6.DNv6THXtHeGyriy.BXBOOU_u_wTthe2wdlXA0lWK
+ Tw03TUrpFOqujxfh_i5zmv_jeRUZSvKl26qRYvzWFOnCgEpNIS6hNz2V0RgZ
+ FZEG.OlXho1o692SDy9n97vUEWRsZ9PYXCX.3hzQaZoArRIuZbbzsySWSi94
+ krEJIrV_FYAbcjjIn3zC3ZS9PO_16ZqcNnKOoiy9CFmKDYtruWwslv_80O.R
+ keLrxrv6Fj5fW7e47ecu0pNV6..MhAnOvzH_8Pnohy0LGpS3IXpEA.HwFWl7
+ 3a6Wz7KP8e8fOetarxQJhaNlN7h7kXzvmxdRBjGn4GleV.8TjuX1.M7ePNKw
+ _Pj.qCA6Cel5v3Pbt9LkfQiWy0Gjz8u5z7twDETw5TpCd91qh0ew4uW168Kc
+ DwTOj.34wVC3n2ci1ug_4JiOjg3y818PKqMoxQkA8xGwTTYkF3MI6AJAirvD
+ w20cl95Ql8uhdhP5LdL.4j6zUnfXaJUmfW4cuU67_hLpVR4sEbSjS4Vt9PTe
+ QESK6fyOVcCNUM6poWoOA0MlsHtAtGn.3DUKm0hU6YOTXUOfj7yBJS7hphj4
+ SX7Dj0vqgXl6LWCGEeodsxLw5w2ufmNqXvDDdZTxkLSvJ0kT06W7C3rioBuy
+ NCOGzaHp.XjsMaGbPeNAwSXxxpseuV_8jhzdY4hSfibSpGSP3fm8RGa.ZGf8
+ iyydqC7lD2xvpavrV3nVO503CTvPe_SQ_FkzmOtLyoJmA.f9VlEoyo3lIz3k
+ yii0bssJFm6q1K92k7nrgnAKsaxjj.IvSJJQs5epNAU5bEg02CPmyfeFJh0w
+ lPuoLwpQL.lrI7_2XxhsMjGvdXu5DyVqmcQDJnRpeTonIAg1eKLeUkMe23zx
+ 2JM.FugZf1uaA05XbB0nLpl7cXt3dm0Zqu.6VtEti94UMijFC_Jyu75fKlQ6
+ tX_05lsjiK.ji.XlxVb5AC5uL.IDYC8Gqrh7wF7Y-
+X-YMailISG: S6nY0CcWLDvp3KZSxU7ltmfVVFcnixqJvfHdL7wzuTkJi_hJ
+ H4ZJ3OznUq7aWp6_NzuVnMgORkohr3STzI.bRgb1CXmwNMYR9myzQlYe2FIX
+ d1cD8D0CZiBp1fokEtP8LdDF.l_G6ILKXW877MGemsihX4CXwryIlxowqBEJ
+ uXnPFNOTi6cyBhcbjjzXbVfl2KcbEuoI2U0hvs.oevoEF5UPTG_dKpWH9F.q
+ hN0PNAIoq0gpge4XQoxPTRDGU.AbntAEvMlvGSUO19LVrpe4MKpa619gmvUX
+ dIYcN8_PLc_KTigYNWFSlrAyU0R.U_MUD9ZAjgf6dWMWXFkvGCj3IJ1DzkNp
+ gcco6vab1jXvP8g3gC_HaFfaEqy6TS6V6TNEed7VkYCe21_Rzwpe3T5rIX8X
+ ZDF.RkWdkwUFoiw3F017BI1SbGlsezJgaPWKZhrhDYLmc2ePHo5HRxLQMqa8
+ kKzkFX7o0pQbbOckZpaJNVNxKZT7E9q._qnd6c.6.AAdtP7vLTlcXz2lY1uz
+ 30EG1lmsucoWfE3fM0YzadkCrd4HzNDDDW8xaHxaRYkLnrer.QBhucy0l3J6
+ cdvIGyPE9URsFSmI4pJywx8fNrZJkq.tXzcSpZX8zno7THYBNZPwixEDl.0e
+ XW9Y_ydet2ltFryFiwjrIJbHpJTVrs9uYTG3_mDqbc847g9ce4Ak17ogmp4W
+ uTPYe4O35h4Kc8hcAo6Kn3XmRYspHQbmgtX0bDrjSyyWxi0Ft808jAdRhFFe
+ M7JT8i5uz9ZVR8jTXw6KoVHBkrD8zxqqnWiBziQ59fYUs17mq6BK_K7WekdK
+ z363PAHsTQLpFXNOK1ateGijLTGXJcKjCUOP3_k6B8g7ygdjxvoKwdGIjEke
+ eSPULCP824YXs2kq1facabUgeSUqdpd3Qa85it2J4Od1OURwrBwI7f0zRzoJ
+ 7enxJrZjdou1iWP6DH1_eDxwms5TO9wNYJjeyf.iEr1C8Eh9LlaKwFS_BS56
+ WrQ86szjv.5tuwoERj4BR9lTZoX.tl2R02I.manE_GMDzyU2V.feSzrrrcKD
+ 6LLYD2ezhs0HCn6AO_OWaVeOPSEmc9HRBr6nMr_Q28lpoelT8ssWtDGOktOI
+ nUatRfoxq8b37QlT6daVAe5pkWGoT9GM6BPm0ifZsKMh1gvm1hMDiiKNPIsd
+ kDJQdRRZyEgzcii6tm81_vA-
+Received: from 69.5.87.114 (EHLO mailer087114.service.govdelivery.com)
+ by 10.253.31.93 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 22:29:45 +0000
+Received: from gasdp-smeds3-4.systems.dc.gdi ([10.1.36.28])
+	by mailer087114.service.govdelivery.com (-); Thu, 01 Sep 2022 22:29:43 +0000
+X-VirtualServer: VSG002, mailer087114.service.govdelivery.com, 10.1.37.185
+X-VirtualServerGroup: VSG002
+X-MailingID: 16847884::20220901.63125201::1001::MDB-PRD-BUL-20220901.63125201::MS60710444266@YAHOO.COM::5423_0_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: MS60710444266@YAHOO.COM
+X-SMFBL: TVM2MDcxMDQ0NDI2NkBZQUhPTy5DT00=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=subscribe.usaid.gov; s=22q1; i=@subscribe.usaid.gov; h=Content-Transfer-Encoding:
+	Content-Type:x-subscriber:X-Accountcode:List-Unsubscribe:
+	Errors-To:MIME-Version:Message-ID:X-ReportingKey:Subject:Date:To:
+	Reply-To:From; bh=mBA77K7gdsc7HEGpc+V4g9LOf1XhjAj7nncqYKLwePg=;
+	b=XI1PXSQ5kvIRu3H/sjL2SxUzeZul8eXierXh0vC1KsnZ3WvspTOfwLrBE8Xf/G
+	93/NmwBRzF7Q1MZg8HPhDfmFhKEKUpX1//lEqjgQ/etKI9u5ogQiJbEwDYcL1oPO
+	l4TUeyWbJNMkPJoBFBokjCHS+6Iq4CFPDkm/Qzt/fePqIk42WyliqemdaJNdT7L1
+	oupmUKg8ow6PP+e3/R7YjiScBQKWJLZK9gUOnWxgg0YcMHaIvku0rU2ODrYRVVQG
+	dbkUr+yBld/gvK+74al/gPLf652wqEf1r1xCo8QsA/NCqaswTQYH/daIRRllDOdC
+	jM+v1zZMfriWQ/Jw8GEs3M6w==
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_11F_BE29_164D9AA3.28F9BDDB"
+x-subscriber: 3.PCYCak/cTYjD7lWvUHeA+Q39waWQ11UWKiXo429hOSHiTyvuW9gMEwG59uL67KSrr/LZL9++SIwq7W+FbVaqPcFYklC4YvvbjH8F6UVyXJNFZ5MaMItx+Cg6AY0EeXLefL3MSaU/TqixEVBzKmXXpcsEjyVTIlX8UWLMCZSH/+0=
+X-Accountcode: USAIDHQ
+List-Unsubscribe: <https://public.govdelivery.com/accounts/USAIDHQ/subscriber/one_click_unsubscribe?verification=5.74f3717e68ed4d7575b3b74776410aa6&destination=MS60710444266%40YAHOO.COM>
+Errors-To: messages@subscribe.usaid.gov
+MIME-Version: 1.0
+Message-ID: <16847884.5423@subscribe.usaid.gov>
+X-ReportingKey: MJJJ2EWJKA5EQJJF0RJJJ::MS60710444266@YAHOO.COM::MS60710444266@YAHOO.COM
+Subject: =?US-ASCII?Q?Readout:_Administrator_Samanth?= =?US-ASCII?Q?a_Power_Meets_with_Michael_From?= =?US-ASCII?Q?an,_Vice_Chairman_and_Presiden?= =?US-ASCII?Q?t,_Strategic_Growth,_Mastercard?=
+Date: Thu, 01 Sep 2022 22:29:43 +0000
+To: MS60710444266@YAHOO.COM
+Reply-To: USAID-Press-Office@subscribe.usaid.gov
+From: "=?US-ASCII?Q?USAID_Press_Office?=" <USAID-Press-Office@subscribe.usaid.gov>
+Content-Length: 23756
+
+
+------=_NextPart_11F_BE29_164D9AA3.28F9BDDB
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+United States Agency for International Development USAID - from the Ameri=
+can People=20
+=20
+=20
+=20
+=20
+
+UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT
+Office of Press Relations
+________________________________________________________________________
+
+*For Immediate Release*
+*September 1, 2022*
+
+READOUT
+
+*Administrator Samantha Power Meets with **Michael Froman, Vice Chairman =
+and President, Strategic Growth, Mastercard*
+
+The below is attributable to Acting Spokesperson Shejal Pulivarti:=E2=80=8E=
+
+
+Today, Administrator Samantha Power met with Ambassador Michael Froman, V=
+ice Chairman and President of Strategic Growth at Mastercard, to discuss =
+how USAID and Mastercard can collaborate in support of Ukraine=E2=80=99s =
+reconstruction and economic recovery, smallholder farmers suffering from =
+high fertilizer prices and the food security crisis, financial inclusion =
+in Central America, and improved health systems in sub-Saharan Africa.=C2=
+=A0
+
+Administrator Power thanked Ambassador Froman for Mastercard=E2=80=99s co=
+mmitment to work together with USAID to support Ukraine=E2=80=99s long-te=
+rm recovery from Russia=E2=80=99s brutal war. She also acknowledged Maste=
+rcard=E2=80=99s commitments to the Vice President=E2=80=99s Call to Actio=
+n in Northern Central America, noting their shared priority to boost econ=
+omic opportunities for vulnerable individuals and micro and small busines=
+ses. In addition, they discussed ongoing and potential collaborations bet=
+ween USAID and Mastercard to further financial inclusion and service deli=
+very efforts in both Northern Central America and sub-Saharan Africa.
+
+=20
+=20
+=20
+=20
+ =20
+=20
+
+Stay Connected with USAID [ https://www.usaid.gov/stayconnected?utm_mediu=
+m=3Demail&utm_source=3Dgovdelivery ] Facebook [ https://www.facebook.com/=
+USAID?utm_medium=3Demail&utm_source=3Dgovdelivery ] =C2=A0 Twitter [ http=
+s://twitter.com/usaid?utm_medium=3Demail&utm_source=3Dgovdelivery ]=C2=A0=
+ =C2=A0LinkedIn [ https://www.linkedin.com/company/usaid?utm_medium=3Dema=
+il&utm_source=3Dgovdelivery ]=C2=A0 =C2=A0YouTube [ https://www.youtube.c=
+om/c/fwd?utm_medium=3Demail&utm_source=3Dgovdelivery ]=C2=A0=C2=A0Instagr=
+am [ https://www.instagram.com/usaid?utm_medium=3Demail&utm_source=3Dgovd=
+elivery ] [ http://www.granicus.com?utm_medium=3Demail&utm_source=3Dgovde=
+livery ]  SUBSCRIBER SERVICES:
+Manage Subscriptions [ https://public.govdelivery.com/accounts/USAIDHQ/su=
+bscriber/edit?preferences=3Dtrue#tab1 ] =C2=A0|=C2=A0 Unsubscribe All [ h=
+ttps://public.govdelivery.com/accounts/USAIDHQ/subscriber/one_click_unsub=
+scribe?verification=3D5.74f3717e68ed4d7575b3b74776410aa6&destination=3DMS=
+60710444266%40YAHOO.COM ] =C2=A0|=C2=A0 Help [ https://subscriberhelp.gov=
+delivery.com/ ] =20
+=20
+=20
+
+________________________________________________________________________
+
+ This email was sent to MS60710444266@YAHOO.COM using govDelivery Communi=
+cations Cloud on behalf of: United States Agency for International Develo=
+pment =C2=B7=C2=A01300 Pennsylvania Avenue NW=C2=A0=C2=B7 Washington, DC=C2=
+=A0=C2=B7 20004 GovDelivery logo  [ https://subscriberhelp.granicus.com/?=
+utm_medium=3Demail&utm_source=3Dgovdelivery ]=20
+=20
+body .abe-column-block {min-height: 5px;}
+=0A
+------=_NextPart_11F_BE29_164D9AA3.28F9BDDB
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">=
+
+<head>
+<title>    Readout: Administrator Samantha Power Meets with Michael Froma=
+n, Vice Chairman and President, Strategic Growth, Mastercard
+</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+<meta name=3D"viewport" content=3D"initial-scale=3D1.0">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+      table {border-collapse: collapse;}
+  </style>
+  <![endif]-->
+<style type=3D"text/css">
+  /* Make columns expand to 100% on small screens */
+  @media only screen and (max-width: 480px) {
+    .abe-column-block {
+      min-width: 100%;
+    }
+  }
+  /* Disables Apple clients adding blue color and underline to links and =
+other text */
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+</style>
+
+
+</head>
+<body style=3D"margin:0;padding:0;margin:0;padding:0;width:100% !importan=
+t;">
+
+
+<!--[if (gte mso 9)|(IE)]>
+  <table style=3D"display:none"><tr><td><a name=3D"gd_top" id=3D"gd_top">=
+</a></td></tr></table>
+<![endif]-->
+<a name=3D"gd_top" id=3D"gd_top"></a>
+
+ =20
+
+
+
+ =20
+  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"gd_tbl_wrap"><tr><td style=3D"background-color:=
+ #EEEEEE; margin: 0; padding: 0; width: 100% !important" bgcolor=3D"#EEEE=
+EE">
+<table id=3D"flexible-abe-main-table" width=3D"100%" align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-=
+adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; padding-top: 20px; padding-bottom: 20px=
+;">
+  <tr>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+    <!-- centered column -->
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"77940392">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-12f86e7d-4a69-43d5-afd4-9ce39d72223c" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-5e55bc5b-760a-4=
+f0c-b978-a3505d3b50ac-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<![endif]-->
+<div id=3D"abe-column-block-5e55bc5b-760a-4f0c-b978-a3505d3b50ac" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+77940393" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; over=
+flow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <td class=3D"abe-column-block-padding" id=3D"abe-column-block-5e55b=
+c5b-760a-4f0c-b978-a3505d3b50ac-padding" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; padding: 20px;"><table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt;"><tr><td align=3D"center" style=3D"-webkit-text-size-adjust: 10=
+0%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;"><img class=3D"govd_template_image" src=3D"https://content.govdelive=
+ry.com/attachments/fancy_images/USAIDHQ/2021/11/5147570/logo_original.png=
+" style=3D"width: 189px; height: auto; -ms-interpolation-mode: bicubic; l=
+ine-height: 1; outline: none; text-decoration: none; max-width: 100%; bor=
+der: none;" alt=3D"United States Agency for International Development USA=
+ID - from the American People" width=3D"189" height=3D"59"></td></tr></ta=
+ble></td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"77940395">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-a452e389-6429-48af-b56d-b92cba84d146" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-478dafc0-95d3-4=
+c40-a183-ed622d1c18a5-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<![endif]-->
+<div id=3D"abe-column-block-478dafc0-95d3-4c40-a183-ed622d1c18a5" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+77940396" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; over=
+flow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <td class=3D"abe-column-block-padding" id=3D"abe-column-block-478da=
+fc0-95d3-4c40-a183-ed622d1c18a5-padding" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; padding: 20px;">
+<h1 style=3D'text-align: center; line-height: 1.2; font-family: "times ne=
+w roman", times; font-size: 15px; color: #000000; margin: 0 0 5px;' align=
+=3D"center">UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT<br>Office =
+of Press Relations</h1>
+<div class=3D"govd_hr"><div class=3D"govd_hr_inner"><hr></div></div>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 1em 0 15px;' align=3D"left"><st=
+rong>For Immediate Release</strong><br><strong>September 1, 2022</strong>=
+</p>
+<h2 style=3D'text-align: center; line-height: 1.2; font-family: "times ne=
+w roman", times; font-size: 15px; color: #000000; margin: 0 0 10px;' alig=
+n=3D"center"><span>READOUT</span></h2>
+<p style=3D'text-align: center; -webkit-text-size-adjust: 100%; -ms-text-=
+size-adjust: 100%; line-height: 1.4; font-family: "times new roman", time=
+s; font-size: 15px; color: #000000; margin: 0 0 15px;' align=3D"center"><=
+strong>Administrator Samantha Power Meets with </strong><strong>Michael F=
+roman, Vice Chairman and President, Strategic Growth, Mastercard</strong>=
+</p>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">The b=
+elow is attributable to Acting Spokesperson Shejal Pulivarti:=E2=80=8E</p=
+>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">Today=
+, Administrator Samantha Power met with Ambassador Michael Froman, Vice C=
+hairman and President of Strategic Growth at Mastercard, to discuss how U=
+SAID and Mastercard can collaborate in support of Ukraine=E2=80=99s recon=
+struction and economic recovery, smallholder farmers suffering from high =
+fertilizer prices and the food security crisis, financial inclusion in Ce=
+ntral America, and improved health systems in sub-Saharan Africa.=C2=A0</=
+p>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">Admin=
+istrator Power thanked Ambassador Froman for Mastercard=E2=80=99s commitm=
+ent to work together with USAID to support Ukraine=E2=80=99s long-term re=
+covery from Russia=E2=80=99s brutal war. She also acknowledged Mastercard=
+=E2=80=99s commitments to the Vice President=E2=80=99s Call to Action in =
+Northern Central America, noting their shared priority to boost economic =
+opportunities for vulnerable individuals and micro and small businesses. =
+In addition, they discussed ongoing and potential collaborations between =
+USAID and Mastercard to further financial inclusion and service delivery =
+efforts in both Northern Central America and sub-Saharan Africa.</p>
+</td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+</td>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+  </tr>
+</table>
+</td></tr></table>
+ =20
+
+
+<div id=3D"mail_footer">
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"ce=
+nter">
+<tbody>
+<tr>
+<td align=3D"center" width=3D"100%">
+<!--[if mso]>
+<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style=3D"margin: 0 auto; max-width: 600px; width: 100%;">
+<table style=3D"background: #FFFFFF;" width=3D"100%" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"font-size: 13px; text-align: center; padding: 20px 0px 10px;=
+ font-family: arial, helvetica, sans-serif !important;" align=3D"center">=
+<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2l=
+kIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDEuNjMxMjUy=
+MDEiLCJ1cmwiOiJodHRwczovL3d3dy51c2FpZC5nb3Yvc3RheWNvbm5lY3RlZD91dG1fbWVka=
+XVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.miZT6ziyKx6tZrmJ6-RFWXeY3nx=
+x12ZoNfh1JhDTo-Q/s/2591266048/br/143450677806-l" target=3D"_blank" rel=3D=
+"noopener"><font face=3D"arial,helvetica,sans-serif">Stay Connected with =
+USAID</font></a></td>
+</tr>
+<tr>
+<td style=3D"padding: 10px;" align=3D"center">
+<font face=3D"arial,helvetica,sans-serif"><font face=3D"arial,helvetica,s=
+ans-serif"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRp=
+bl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5M=
+DEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vVVNBSUQ_dXRtX2=
+1lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.Q2b20Hwq1GduPKdpQmqj009=
+0V3QNZLjyZRftI13HDeU/s/2591266048/br/143450677806-l" target=3D"_blank" re=
+l=3D"noopener"><img src=3D"https://content.govdelivery.com/attachments/fa=
+ncy_images/implementation/2016/02/754187/facebook_original.png" alt=3D"Fa=
+cebook" width=3D"25" height=3D"25"></a> =C2=A0 <a href=3D"https://lnks.gd=
+/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjb=
+GljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwczovL3=
+R3aXR0ZXIuY29tL3VzYWlkP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1nb3ZkZWxpdmV=
+yeSJ9.9BD8XKfTDHaud0tMjXiPKAZhOwoRoTAMsFPnQLDIIf4/s/2591266048/br/1434506=
+77806-l" target=3D"_blank" rel=3D"noopener"><img src=3D"https://content.g=
+ovdelivery.com/attachments/fancy_images/implementation/2016/02/754151/twi=
+tter_original.png" alt=3D"Twitter" width=3D"25" height=3D"25"></a>=C2=A0 =
+=C2=A0<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9sa=
+W5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDEuNj=
+MxMjUyMDEiLCJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS91c2FpZD9=
+1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.J9WbgFDMzfYbsfLwM=
+KkxQkstdVhEpQDE8NnDHdiNEis/s/2591266048/br/143450677806-l" target=3D"_bla=
+nk" rel=3D"noopener"><img src=3D"https://content.govdelivery.com/attachme=
+nts/fancy_images/implementation/2016/02/754194/linkedin_original.png" alt=
+=3D"LinkedIn" width=3D"25" height=3D"25"></a>=C2=A0 =C2=A0<a href=3D"http=
+s://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaS=
+I6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDEuNjMxMjUyMDEiLCJ1cmwiOiJ=
+odHRwczovL3d3dy55b3V0dWJlLmNvbS9jL2Z3ZD91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3Vy=
+Y2U9Z292ZGVsaXZlcnkifQ.6LhL3qoTAxrpr9MgHg_5EhCf3Jo844Vv7oDHAmcmtnc/s/2591=
+266048/br/143450677806-l" target=3D"_blank" rel=3D"noopener"><img src=3D"=
+https://service.govdelivery.com/banners/GOVDELIVERY/youtube.gif" alt=3D"Y=
+ouTube" width=3D"25" height=3D"25"></a>=C2=A0=C2=A0<a href=3D"https://lnk=
+s.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwM=
+jpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwcz=
+ovL3d3dy5pbnN0YWdyYW0uY29tL3VzYWlkP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1=
+nb3ZkZWxpdmVyeSJ9.MGQLSfGjy2tvFWSXf1DoQgvpwMsLv6UNZLqOu96V6M4/s/259126604=
+8/br/143450677806-l" target=3D"_blank" title=3D"Instagram" rel=3D"noopene=
+r"><img src=3D"https://public.govdelivery.com/attachments/fancy_images/GO=
+VDELIVERY/2021/03/4237093/instagram-logo_original.png" alt=3D"Instagram" =
+width=3D"25" height=3D"25"></a></font></font><font face=3D"arial,helvetic=
+a,sans-serif"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZ=
+XRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMj=
+A5MDEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwOi8vd3d3LmdyYW5pY3VzLmNvbT91dG1fbWVkaXV=
+tPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.cneqxrxJ0roBnZlcAePUzToEfzzbo=
+XM7HVy4KXWNxRw/s/2591266048/br/143450677806-l" target=3D"_blank" rel=3D"n=
+oopener"></a></font>
+</td>
+</tr>
+<tr>
+<td style=3D"text-align: center; font-family: arial, helvetica, sans-seri=
+f; font-size: 13px; padding: 10px 0px 20px;">
+<font face=3D"arial,helvetica,sans-serif">SUBSCRIBER SERVICES:</font><br>=
+<font face=3D"arial,helvetica,sans-serif"><a href=3D"https://lnks.gd/l/ey=
+JhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDcsInVyaSI6ImJwMjpjbGljay=
+IsImJ1bGxldGluX2lkIjoiMjAyMjA5MDEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwczovL3B1Ymx=
+pYy5nb3ZkZWxpdmVyeS5jb20vYWNjb3VudHMvVVNBSURIUS9zdWJzY3JpYmVyL2VkaXQ_cHJl=
+ZmVyZW5jZXM9dHJ1ZSN0YWIxIn0.QWuA9VYfXZsOad4MCcpq-Jak6RuNslfMbgr0VzdHrBY/s=
+/2591266048/br/143450677806-l" title=3D"Manage Subscriptions">Manage Subs=
+criptions</a> =C2=A0|=C2=A0 <a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1=
+NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInF1ZXJ5X3BhcmFtcyI6WyJ2ZXJpZmljYXRp=
+b24iLCJkZXN0aW5hdGlvbiJdLCJ1cmkiOiJicDI6Y2xpY2siLCJidWxsZXRpbl9pZCI6IjIwM=
+jIwOTAxLjYzMTI1MjAxIiwidXJsIjoiaHR0cHM6Ly9wdWJsaWMuZ292ZGVsaXZlcnkuY29tL2=
+FjY291bnRzL1VTQUlESFEvc3Vic2NyaWJlci9vbmVfY2xpY2tfdW5zdWJzY3JpYmUifQ.4DXY=
+ZBb7Z12VmzTLmQOiIujhSHPmqh1kRxL9K00qmDU/s/2591266048/br/143450677806-l?ve=
+rification=3D5.74f3717e68ed4d7575b3b74776410aa6&destination=3DMS607104442=
+66%40YAHOO.COM" title=3D"Unsubscribe from All Topics">Unsubscribe All</a>=
+ =C2=A0|=C2=A0 <a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxs=
+ZXRpbl9saW5rX2lkIjoxMDksInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyM=
+jA5MDEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwczovL3N1YnNjcmliZXJoZWxwLmdvdmRlbGl2ZX=
+J5LmNvbS8ifQ.1m4Uhm3sXpZ5cc292jA5Flm4qhtX0XqGQl5ilRvfTNE/s/2591266048/br/=
+143450677806-l">Help</a></font>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<div id=3D"tagline">
+    <table style=3D"border-collapse: collapse; margin: 0px auto; width: 1=
+00%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding: 0 10px 0 10px;" valign=3D"top">
+<table class=3D"mobile-tagline" style=3D"border-collapse: collapse; margi=
+n: 0px auto; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" align=3D"right">
+<tbody>
+<tr>
+<td style=3D"padding: 10px 0 0 0;" colspan=3D"2" valign=3D"top"><hr></td>=
+
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 0;" align=3D"left" valign=3D"top"><sp=
+an style=3D"color: #757575; font-size: 10px; font-family: arial, helvetic=
+a, sans-serif;">This email was sent to MS60710444266@YAHOO.COM using govD=
+elivery Communications Cloud on behalf of: United States Agency for Inter=
+national Development =C2=B7=C2=A01300 Pennsylvania Avenue NW=C2=A0=C2=B7 =
+Washington, DC=C2=A0=C2=B7 20004</span></td>
+<td style=3D"width: 95px; padding-top: 10px;" align=3D"right" valign=3D"t=
+op" width=3D"95"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidW=
+xsZXRpbl9saW5rX2lkIjoxMTAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjA=
+yMjA5MDEuNjMxMjUyMDEiLCJ1cmwiOiJodHRwczovL3N1YnNjcmliZXJoZWxwLmdyYW5pY3Vz=
+LmNvbS8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.mky4Q3kul=
+YDSgI7dJFERON2aNpQkn8bGRiSaklR5zi0/s/2591266048/br/143450677806-l" target=
+=3D"_blank" rel=3D"noopener"> <img src=3D"https://content.govdelivery.com=
+/images/govd-logo-dark.png" border=3D"0" alt=3D"GovDelivery logo" width=3D=
+"95" height=3D"27" align=3D"right"> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<style type=3D"text/css">body .abe-column-block {min-height: 5px;}</style=
+>
+
+</div>
+
+<IMG SRC=3D"https://links.govdelivery.com/track?enid=3DZWFzPTEmYnVsbGV0aW=
+5yZWNpcGllbnRpZD0xNDM0NTA2Nzc4MDYtbCZzdWJzY3JpYmVyaWQ9MjU5MTI2NjA0OCZtc2l=
+kPSZhdWlkPSZtYWlsaW5naWQ9MjAyMjA5MDEuNjMxMjUyMDEmbWVzc2FnZWlkPU1EQi1QUkQt=
+QlVMLTIwMjIwOTAxLjYzMTI1MjAxJmRhdGFiYXNlaWQ9MTAwMSZ0eXBlPW9wZW4mc2VyaWFsP=
+TE2ODQ3ODg0JmVtYWlsaWQ9TVM2MDcxMDQ0NDI2NkBZQUhPTy5DT00mdXNlcmlkPU1TNjA3MT=
+A0NDQyNjZAWUFIT08uQ09NJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm" WIDTH=3D"=
+1" HEIGHT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""/>=
+</body>
+</html>
+=0A
+------=_NextPart_11F_BE29_164D9AA3.28F9BDDB--
+

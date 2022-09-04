@@ -1,0 +1,616 @@
+From - Fri Sep  2 16:58:44 2022
+X-Account-Key: account1
+X-UIDL: AKgUlxBneegzYxJArglHAE7rluA
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.76
+ by atlas208.free.mail.ne1.yahoo.com with HTTPS; Fri, 2 Sep 2022 17:43:10 +0000
+Return-Path: <messages@subscribe.usaid.gov>
+X-Originating-Ip: [69.5.86.113]
+Received-SPF: pass (domain of subscribe.usaid.gov designates 69.5.86.113 as permitted sender)
+Authentication-Results: atlas208.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@subscribe.usaid.gov header.s=22q1;
+ spf=pass smtp.mailfrom=subscribe.usaid.gov;
+ dmarc=pass(p=REJECT) header.from=subscribe.usaid.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 17:43:10 +0000
+X-YMailISG: qr8BUbEWLDuSPf6zO9UxnMDjaZMFm1azyxWyGtU9L6c1SZ7v
+ 9gqLo3olok369MU1wJh9WOjPqr7CL0P8qQTkmAsktSaoRRQrX1X4fLrqQqWG
+ BU9Hpu0VciHSsNKXzJA5as2olRKGIcapcklQVHvvp4LQLpB0v.dZN0eE8qf0
+ ktHAj.uA0IVYMHSxp57yzDPKgQnXvfya8gaojymAx8DiaCjrfyavZuFABM9k
+ m4FSejoyXcHOVB2yJcepiC5Ez6lM1uhK5KmB.l4.jIrVIe29usvjBdaH03H1
+ A.KAkU.Z8rjV4EUSEIUfyGHk69awCB6JMSwQ_RwGRaixiatOzpXa2PIYLyep
+ J2z.qG53MDcjDzYLcSkJY3aujOfGqw493zFCG4GFaNyLVyoGgwmL3qAY_vnj
+ 2xGSmjzP5qjbkwDE0OtVHyQyf4g3UKQ3zZNi7j65QgFpLoQRDsTcXDTGvcQm
+ DB2uUwz0.uoGANSJLOYhSxKzHmYPUnZO1XhCyuqREoJ8TDsCpfocjtGGatjK
+ duwFOvIIOO_OP0nt22TvdAbf3pWjhFOiDrLuAHW8jUUAb6_dLOnpXYsQFSEZ
+ ZFs7CsXsuoDOxoecWCOSw7CMUW1SX8eCC9f7q9feMix9wFXGL8G1Al57MiCH
+ 3ptENfojhWrMMmvZl5W64Yx2qCa_UMDheYHt72nyvAH2055rfTlvNrNvioma
+ .xqveDNv6R4WucBlmM6I8.XTtuUTra9jr_jxWi9NXUYf1oa20NaNJEAxgiWf
+ vaHRmlb0S86nD0IWRfk2puLf.sMlyiN_8JnLIUk_tYscZRgo_wgO5rlU0LMy
+ ue80OOe7lTkWX5royREwWrwAE9zNTMLjpRXQ_HWD_0rL_opLFjsB.CWNRJ2W
+ naFGPQyFOCdsMGwibF68jqbFgt1kD9PAq_dtvTqhinrBi614fTDSKk_Mq.t0
+ YNsbaWKthtDw68UfxEDboH5DKlt4SvT2opIgGgeCPWUpIH4_lH7yQX1nliPc
+ _UfKj0hQeTkkbvGQLRAFr5mRGEzNnLB4SiNckIX_w2Q2yjt1yri7X9XBnNiV
+ d_8b9oGGNKOfdU5HvmKjg0euekHyLCR2HZuGWD20ngf5iLPnwEXQPHDdvyaz
+ fhJXpaQUn6zoqMBMSeG5oF6YPZcw1B8uiR8EBhmrp8oJNnWDwUeRu4Mz19Ch
+ AKxYx4thtOIpFzQutKZbYQTX_g--
+Received: from 69.5.86.113 (EHLO mailer086113.service.govdelivery.com)
+ by 10.217.150.76 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 17:43:10 +0000
+Received: from gasdp-smeds3-3.systems.dc.gdi ([10.1.36.28])
+	by mailer086113.service.govdelivery.com (-); Fri, 02 Sep 2022 17:43:09 +0000
+X-VirtualServer: VSG002, mailer086113.service.govdelivery.com, 10.1.37.176
+X-VirtualServerGroup: VSG002
+X-MailingID: 16848168::20220902.63168121::1001::MDB-PRD-BUL-20220902.63168121::MS60710444266@YAHOO.COM::17215_0_0
+X-SMHeaderMap: mid="X-MailingID"
+X-Destination-ID: MS60710444266@YAHOO.COM
+X-SMFBL: TVM2MDcxMDQ0NDI2NkBZQUhPTy5DT00=
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=subscribe.usaid.gov; s=22q1; i=@subscribe.usaid.gov; h=Content-Transfer-Encoding:
+	Content-Type:x-subscriber:X-Accountcode:List-Unsubscribe:
+	Errors-To:MIME-Version:Message-ID:X-ReportingKey:Subject:Date:To:
+	Reply-To:From; bh=3np8yfXsQoz5vbrlpYGk3Nff137J3SEFIXK5FDjznb4=;
+	b=cXYJG9pOABvYLE+8mvw/g6M4O3o7PKzMctv+7cIWQ/JIdhmAWaKbsA2JMb4Q3f
+	jVpX4LAnj7ldcX2yNfHP6yo7Kptp/F8skWFyHDD0Nf5SD5aBEbu4MscP5fSeWBfR
+	09F1RSzF/QdOIztH2z24jgmhf2J4vpmjV7P4vU16fylacF4m++MkfSerOOp3khno
+	JbgZSLisBhLf1Bb8Cl7jpj6XsX3ivF7J1ifezsf17do75Np1SvNq2HRXnh06NQCz
+	VAeR7JChZrutxkzyK0YjhMAr6LTmKi3pTMLlZpYpTs3Xw7XuZ2RJKWcQWNMwXt15
+	Pa2zwun5CLxQ98LMqSBZ1UHA==
+Content-Transfer-Encoding: 7bit
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_187_26F7_7BE36B93.52D8E141"
+x-subscriber: 3.PCYCak/cTYjD7lWvUHeA+Q39waWQ11UWKiXo429hOSHiTyvuW9gMEwG59uL67KSrZsSDxWvYti/iMrzltbnYrwdKTlsoeaLknFgP3GFic9xFZ5MaMItx+Cg6AY0EeXLefL3MSaU/TqixEVBzKmXXpcsEjyVTIlX8UWLMCZSH/+0=
+X-Accountcode: USAIDHQ
+List-Unsubscribe: <https://public.govdelivery.com/accounts/USAIDHQ/subscriber/one_click_unsubscribe?verification=5.74f3717e68ed4d7575b3b74776410aa6&destination=MS60710444266%40YAHOO.COM>
+Errors-To: messages@subscribe.usaid.gov
+MIME-Version: 1.0
+Message-ID: <16848168.17215@subscribe.usaid.gov>
+X-ReportingKey: MJJJ2EWJKA6APJJ29DKJJJ::MS60710444266@YAHOO.COM::MS60710444266@YAHOO.COM
+Subject: =?US-ASCII?Q?READOUT:_Administrator_Samantha_Power_Meets?= =?US-ASCII?Q?_with_Nigerian_Vice_President_Yemi_Osinbajo?=
+Date: Fri, 02 Sep 2022 17:43:09 +0000
+To: MS60710444266@YAHOO.COM
+Reply-To: USAID-Press-Office@subscribe.usaid.gov
+From: "=?US-ASCII?Q?USAID_Press_Office?=" <USAID-Press-Office@subscribe.usaid.gov>
+Content-Length: 23835
+
+
+------=_NextPart_187_26F7_7BE36B93.52D8E141
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Administrator Samantha Power Meets with Nigerian Vice President Yemi Osin=
+bajo =20
+
+=20
+
+=20
+
+United States Agency for International Development USAID - from the Ameri=
+can People=20
+=20
+=20
+=20
+=20
+
+UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT
+Office of Press Relations
+________________________________________________________________________
+
+*For Immediate Release*
+*September 2, 2022*
+
+READOUT
+
+**Administrator Samantha Power Meets with **Nigerian Vice President Yemi =
+Osinbajo***=C2=A0*
+
+The below is attributable to Acting Spokesperson Shejal Pulivarti:=E2=80=8E=
+
+
+Today, Administrator Samantha Power met with the Vice President of Nigeri=
+a, Yemi Osinbajo, to discuss Nigeria=E2=80=99s Energy Transition Plan and=
+ U.S. support for Nigeria=E2=80=99s elections process. Vice President Osi=
+nbajo shared current plans for Nigeria=E2=80=99s energy transition, and t=
+he two discussed how the U.S. can partner with Nigeria in their efforts t=
+o develop the country=E2=80=99s energy and power sectors.=C2=A0 Administr=
+ator Power expressed support for Nigeria=E2=80=99s twin objectives of ach=
+ieving universal access to energy by 2030 and a carbon-neutral energy sys=
+tem and congratulated the Vice President on the launch of this historic p=
+lan.=C2=A0
+
+Administrator Power also commended President Buhari on upholding Nigeria=E2=
+=80=99s democracy by respecting the term limits.
+
+###
+
+=20
+=20
+=20
+=20
+ =20
+=20
+
+Stay Connected with USAID [ https://www.usaid.gov/stayconnected?utm_mediu=
+m=3Demail&utm_source=3Dgovdelivery ] Facebook [ https://www.facebook.com/=
+USAID?utm_medium=3Demail&utm_source=3Dgovdelivery ] =C2=A0 Twitter [ http=
+s://twitter.com/usaid?utm_medium=3Demail&utm_source=3Dgovdelivery ]=C2=A0=
+ =C2=A0LinkedIn [ https://www.linkedin.com/company/usaid?utm_medium=3Dema=
+il&utm_source=3Dgovdelivery ]=C2=A0 =C2=A0YouTube [ https://www.youtube.c=
+om/c/fwd?utm_medium=3Demail&utm_source=3Dgovdelivery ]=C2=A0=C2=A0Instagr=
+am [ https://www.instagram.com/usaid?utm_medium=3Demail&utm_source=3Dgovd=
+elivery ] [ http://www.granicus.com?utm_medium=3Demail&utm_source=3Dgovde=
+livery ]  SUBSCRIBER SERVICES:
+Manage Subscriptions [ https://public.govdelivery.com/accounts/USAIDHQ/su=
+bscriber/edit?preferences=3Dtrue#tab1 ] =C2=A0|=C2=A0 Unsubscribe All [ h=
+ttps://public.govdelivery.com/accounts/USAIDHQ/subscriber/one_click_unsub=
+scribe?verification=3D5.74f3717e68ed4d7575b3b74776410aa6&destination=3DMS=
+60710444266%40YAHOO.COM ] =C2=A0|=C2=A0 Help [ https://subscriberhelp.gov=
+delivery.com/ ] =20
+=20
+=20
+
+________________________________________________________________________
+
+ This email was sent to MS60710444266@YAHOO.COM using govDelivery Communi=
+cations Cloud on behalf of: United States Agency for International Develo=
+pment =C2=B7=C2=A01300 Pennsylvania Avenue NW=C2=A0=C2=B7 Washington, DC=C2=
+=A0=C2=B7 20004 GovDelivery logo  [ https://subscriberhelp.granicus.com/?=
+utm_medium=3Demail&utm_source=3Dgovdelivery ]=20
+=20
+body .abe-column-block {min-height: 5px;}
+=0A
+------=_NextPart_187_26F7_7BE36B93.52D8E141
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en" lang=3D"en">=
+
+<head>
+<title>    READOUT: Administrator Samantha Power Meets with Nigerian Vice=
+ President Yemi Osinbajo
+</title>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF=
+-8">
+<meta name=3D"viewport" content=3D"initial-scale=3D1.0">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<!--[if (gte mso 9)|(IE)]>
+  <style type=3D"text/css">
+      table {border-collapse: collapse;}
+  </style>
+  <![endif]-->
+<style type=3D"text/css">
+  /* Make columns expand to 100% on small screens */
+  @media only screen and (max-width: 480px) {
+    .abe-column-block {
+      min-width: 100%;
+    }
+  }
+  /* Disables Apple clients adding blue color and underline to links and =
+other text */
+  a[x-apple-data-detectors] {
+    color: inherit !important;
+    text-decoration: none !important;
+    font-size: inherit !important;
+    font-family: inherit !important;
+    font-weight: inherit !important;
+    line-height: inherit !important;
+  }
+</style>
+
+
+</head>
+<body style=3D"margin:0;padding:0;margin:0;padding:0;width:100% !importan=
+t;">
+<table bgcolor=3D'#ffffff' border=3D'0' cellpadding=3D'0' cellspacing=3D'=
+0' style=3D'width: 100%;'>
+<tbody>
+<tr bgcolor=3D'#ffffff'>
+<td align=3D'center' style=3D'background-color: #ffffff; padding: 0px; fo=
+nt-size:1px; font-family:&#39;Helvetica Neue&#39;, Helvetica, Arial, sans=
+-serif; color:#ffffff' valign=3D'top'>
+Administrator Samantha Power Meets with Nigerian Vice President Yemi Osin=
+bajo
+</td>
+</tr>
+</tbody>
+</table>
+
+
+<!--[if (gte mso 9)|(IE)]>
+  <table style=3D"display:none"><tr><td><a name=3D"gd_top" id=3D"gd_top">=
+</a></td></tr></table>
+<![endif]-->
+<a name=3D"gd_top" id=3D"gd_top"></a>
+
+ =20
+
+
+
+ =20
+  <table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" =
+align=3D"center" class=3D"gd_tbl_wrap"><tr><td style=3D"background-color:=
+ #EEEEEE; margin: 0; padding: 0; width: 100% !important" bgcolor=3D"#EEEE=
+EE">
+<table id=3D"flexible-abe-main-table" width=3D"100%" align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"-webkit-text-size-=
+adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt; padding-top: 20px; padding-bottom: 20px=
+;">
+  <tr>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+    <!-- centered column -->
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"77989935">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-12f86e7d-4a69-43d5-afd4-9ce39d72223c" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-5e55bc5b-760a-4=
+f0c-b978-a3505d3b50ac-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<![endif]-->
+<div id=3D"abe-column-block-5e55bc5b-760a-4f0c-b978-a3505d3b50ac" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+77989936" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; over=
+flow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <td class=3D"abe-column-block-padding" id=3D"abe-column-block-5e55b=
+c5b-760a-4f0c-b978-a3505d3b50ac-padding" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; padding: 20px;"><table width=3D"100%" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-s=
+ize-adjust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt;"><tr><td align=3D"center" style=3D"-webkit-text-size-adjust: 10=
+0%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;"><img class=3D"govd_template_image" src=3D"https://content.govdelive=
+ry.com/attachments/fancy_images/USAIDHQ/2021/11/5147570/logo_original.png=
+" style=3D"width: 189px; height: auto; -ms-interpolation-mode: bicubic; l=
+ine-height: 1; outline: none; text-decoration: none; max-width: 100%; bor=
+der: none;" alt=3D"United States Agency for International Development USA=
+ID - from the American People" width=3D"189" height=3D"59"></td></tr></ta=
+ble></td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <table width=3D"600" align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0">
+    <tr>
+      <td>
+<![endif]-->
+<div class=3D"abe-section-block" data-block-type=3D"FancyBlockSection" da=
+ta-block-id=3D"77989938">
+  <table class=3D"abe-section-table" width=3D"100%" align=3D"center" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation" style=3D=
+"max-width: 600px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: =
+100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr id=3D"abe-section-row-a452e389-6429-48af-b56d-b92cba84d146" class=
+=3D"abe-section-row" style=3D"background-color: #FFFFFF;" bgcolor=3D"#FFF=
+FFF">
+      <td style=3D"text-align: center; vertical-align: top; font-size: 0;=
+ -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt; mso-table-rspace: 0pt;" align=3D"center" valign=3D"top">
+        <!--[if (gte mso 9)|(IE)]>
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-a=
+djust: 100%; border-spacing: 0; mso-table-lspace: 0pt; mso-table-rspace: =
+0pt;">
+    <tr>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  <td width=3D"600" valign=3D"top" id=3D"abe-column-block-478dafc0-95d3-4=
+c40-a183-ed622d1c18a5-outlook-only" class=3D"abe-column-block-outlook-onl=
+y" style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; m=
+so-table-lspace: 0pt; mso-table-rspace: 0pt;">
+<![endif]-->
+<div id=3D"abe-column-block-478dafc0-95d3-4c40-a183-ed622d1c18a5" class=3D=
+"abe-column-block" data-block-type=3D"FancyBlockColumn" data-block-id=3D"=
+77989939" style=3D"width: 100%; box-sizing: border-box; display: inline-b=
+lock; font-size: 16px; vertical-align: top;">
+  <table width=3D"100%" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" role=3D"presentation" style=3D"table-layout: fixed; over=
+flow-wrap: break-word; word-wrap: break-word; text-align: left; -webkit-t=
+ext-size-adjust: 100%; -ms-text-size-adjust: 100%; border-spacing: 0; mso=
+-table-lspace: 0pt; mso-table-rspace: 0pt;">
+    <tr>
+      <td class=3D"abe-column-block-padding" id=3D"abe-column-block-478da=
+fc0-95d3-4c40-a183-ed622d1c18a5-padding" style=3D"-webkit-text-size-adjus=
+t: 100%; -ms-text-size-adjust: 100%; mso-table-lspace: 0pt; mso-table-rsp=
+ace: 0pt; padding: 20px;">
+<h1 style=3D'text-align: center; line-height: 1.2; font-family: "times ne=
+w roman", times; font-size: 15px; color: #000000; margin: 0 0 5px;' align=
+=3D"center">UNITED STATES AGENCY FOR INTERNATIONAL DEVELOPMENT<br>Office =
+of Press Relations</h1>
+<div class=3D"govd_hr"><div class=3D"govd_hr_inner"><hr></div></div>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 1em 0 15px;' align=3D"left"><st=
+rong>For Immediate Release</strong><br><strong>September 2, 2022</strong>=
+</p>
+<h2 style=3D'text-align: center; line-height: 1.2; font-family: "times ne=
+w roman", times; font-size: 15px; color: #000000; margin: 0 0 10px;' alig=
+n=3D"center">READOUT</h2>
+<p style=3D'text-align: center; -webkit-text-size-adjust: 100%; -ms-text-=
+size-adjust: 100%; line-height: 1.4; font-family: "times new roman", time=
+s; font-size: 15px; color: #000000; margin: 0 0 15px;' align=3D"center"><=
+strong><strong>Administrator Samantha Power Meets with </strong><strong>N=
+igerian Vice President Yemi Osinbajo</strong></strong><strong>=C2=A0</str=
+ong></p>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">The b=
+elow is attributable to Acting Spokesperson Shejal Pulivarti:=E2=80=8E</p=
+>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">Today=
+, Administrator Samantha Power met with the Vice President of Nigeria, Ye=
+mi Osinbajo, to discuss Nigeria=E2=80=99s Energy Transition Plan and U.S.=
+ support for Nigeria=E2=80=99s elections process. Vice President Osinbajo=
+ shared current plans for Nigeria=E2=80=99s energy transition, and the tw=
+o discussed how the U.S. can partner with Nigeria in their efforts to dev=
+elop the country=E2=80=99s energy and power sectors.=C2=A0 Administrator =
+Power expressed support for Nigeria=E2=80=99s twin objectives of achievin=
+g universal access to energy by 2030 and a carbon-neutral energy system a=
+nd congratulated the Vice President on the launch of this historic plan.=C2=
+=A0</p>
+<p style=3D'-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; l=
+ine-height: 1.4; font-family: "times new roman", times; font-size: 15px; =
+color: #000000; text-align: left; margin: 0 0 15px;' align=3D"left">Admin=
+istrator Power also commended President Buhari on upholding Nigeria=E2=80=
+=99s democracy by respecting the term limits.</p>
+<p style=3D'text-align: center; -webkit-text-size-adjust: 100%; -ms-text-=
+size-adjust: 100%; line-height: 1.4; font-family: "times new roman", time=
+s; font-size: 15px; color: #000000; margin: 0 0 15px;' align=3D"center">&=
+#35;&#35;#</p>
+</td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+  </td>
+<![endif]-->
+<!--[if (gte mso 9)|(IE)]>
+  </tr>
+  </table>
+<![endif]-->
+      </td>
+    </tr>
+  </table>
+</div>
+<!--[if (gte mso 9)|(IE)]>
+      </td>
+    </tr>
+  </table>
+<![endif]-->
+</td>
+    <td style=3D"-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 10=
+0%; mso-table-lspace: 0pt; mso-table-rspace: 0pt;"></td>
+  </tr>
+</table>
+</td></tr></table>
+ =20
+
+
+<div id=3D"mail_footer">
+    <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=3D"ce=
+nter">
+<tbody>
+<tr>
+<td align=3D"center" width=3D"100%">
+<!--[if mso]>
+<table width=3D"600" align=3D"center" cellpadding=3D"0" cellspacing=3D"0"=
+ style=3D"width:600px;">
+<tr>
+<td>
+<![endif]-->
+<div style=3D"margin: 0 auto; max-width: 600px; width: 100%;">
+<table style=3D"background: #FFFFFF;" width=3D"100%" cellspacing=3D"0" ce=
+llpadding=3D"0" align=3D"center" bgcolor=3D"#FFFFFF">
+<tbody>
+<tr>
+<td style=3D"font-size: 13px; text-align: center; padding: 20px 0px 10px;=
+ font-family: arial, helvetica, sans-serif !important;" align=3D"center">=
+<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2l=
+kIjoxMDAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDIuNjMxNjgx=
+MjEiLCJ1cmwiOiJodHRwczovL3d3dy51c2FpZC5nb3Yvc3RheWNvbm5lY3RlZD91dG1fbWVka=
+XVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.3zozcUNjm2XueGxmnn7LtQXTYob=
+utKyZJNACF3SXhV4/s/2591266048/br/143480749622-l" target=3D"_blank" rel=3D=
+"noopener"><font face=3D"arial,helvetica,sans-serif">Stay Connected with =
+USAID</font></a></td>
+</tr>
+<tr>
+<td style=3D"padding: 10px;" align=3D"center">
+<font face=3D"arial,helvetica,sans-serif"><font face=3D"arial,helvetica,s=
+ans-serif"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRp=
+bl9saW5rX2lkIjoxMDEsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5M=
+DIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwczovL3d3dy5mYWNlYm9vay5jb20vVVNBSUQ_dXRtX2=
+1lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.JRMWvMGm8Yr8MHUu74ZFsGD=
+AmIs9ITI-LYSqC6NVM8E/s/2591266048/br/143480749622-l" target=3D"_blank" re=
+l=3D"noopener"><img src=3D"https://content.govdelivery.com/attachments/fa=
+ncy_images/implementation/2016/02/754187/facebook_original.png" alt=3D"Fa=
+cebook" width=3D"25" height=3D"25"></a> =C2=A0 <a href=3D"https://lnks.gd=
+/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDIsInVyaSI6ImJwMjpjb=
+GljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwczovL3=
+R3aXR0ZXIuY29tL3VzYWlkP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1nb3ZkZWxpdmV=
+yeSJ9.URYzZZgAv4f6TREVtcJbe2b6KiEBpQ_tAeZsV29RrpA/s/2591266048/br/1434807=
+49622-l" target=3D"_blank" rel=3D"noopener"><img src=3D"https://content.g=
+ovdelivery.com/attachments/fancy_images/implementation/2016/02/754151/twi=
+tter_original.png" alt=3D"Twitter" width=3D"25" height=3D"25"></a>=C2=A0 =
+=C2=A0<a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9sa=
+W5rX2lkIjoxMDMsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDIuNj=
+MxNjgxMjEiLCJ1cmwiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vY29tcGFueS91c2FpZD9=
+1dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.nGbeD_ZZPb7K2J1U6=
+O_IqfGJImXz3E0nvNd_wPgNjsA/s/2591266048/br/143480749622-l" target=3D"_bla=
+nk" rel=3D"noopener"><img src=3D"https://content.govdelivery.com/attachme=
+nts/fancy_images/implementation/2016/02/754194/linkedin_original.png" alt=
+=3D"LinkedIn" width=3D"25" height=3D"25"></a>=C2=A0 =C2=A0<a href=3D"http=
+s://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDQsInVyaS=
+I6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDIuNjMxNjgxMjEiLCJ1cmwiOiJ=
+odHRwczovL3d3dy55b3V0dWJlLmNvbS9jL2Z3ZD91dG1fbWVkaXVtPWVtYWlsJnV0bV9zb3Vy=
+Y2U9Z292ZGVsaXZlcnkifQ.84DEd9XKYjZVvq3uwmoBw_RkKQZp3CPT60WwOq0NXS8/s/2591=
+266048/br/143480749622-l" target=3D"_blank" rel=3D"noopener"><img src=3D"=
+https://service.govdelivery.com/banners/GOVDELIVERY/youtube.gif" alt=3D"Y=
+ouTube" width=3D"25" height=3D"25"></a>=C2=A0=C2=A0<a href=3D"https://lnk=
+s.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDUsInVyaSI6ImJwM=
+jpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMjA5MDIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwcz=
+ovL3d3dy5pbnN0YWdyYW0uY29tL3VzYWlkP3V0bV9tZWRpdW09ZW1haWwmdXRtX3NvdXJjZT1=
+nb3ZkZWxpdmVyeSJ9.4bq0q8u0NF58LCbqfSH-N1ta9CJAfXopyZiFzESBxMc/s/259126604=
+8/br/143480749622-l" target=3D"_blank" title=3D"Instagram" rel=3D"noopene=
+r"><img src=3D"https://public.govdelivery.com/attachments/fancy_images/GO=
+VDELIVERY/2021/03/4237093/instagram-logo_original.png" alt=3D"Instagram" =
+width=3D"25" height=3D"25"></a></font></font><font face=3D"arial,helvetic=
+a,sans-serif"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxsZ=
+XRpbl9saW5rX2lkIjoxMDYsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyMj=
+A5MDIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwOi8vd3d3LmdyYW5pY3VzLmNvbT91dG1fbWVkaXV=
+tPWVtYWlsJnV0bV9zb3VyY2U9Z292ZGVsaXZlcnkifQ.ld4zWGhCKd8czRODZnBz9c78xuyvQ=
+sAjvjyfLv0f-L0/s/2591266048/br/143480749622-l" target=3D"_blank" rel=3D"n=
+oopener"></a></font>
+</td>
+</tr>
+<tr>
+<td style=3D"text-align: center; font-family: arial, helvetica, sans-seri=
+f; font-size: 13px; padding: 10px 0px 20px;">
+<font face=3D"arial,helvetica,sans-serif">SUBSCRIBER SERVICES:</font><br>=
+<font face=3D"arial,helvetica,sans-serif"><a href=3D"https://lnks.gd/l/ey=
+JhbGciOiJIUzI1NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDcsInVyaSI6ImJwMjpjbGljay=
+IsImJ1bGxldGluX2lkIjoiMjAyMjA5MDIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwczovL3B1Ymx=
+pYy5nb3ZkZWxpdmVyeS5jb20vYWNjb3VudHMvVVNBSURIUS9zdWJzY3JpYmVyL2VkaXQ_cHJl=
+ZmVyZW5jZXM9dHJ1ZSN0YWIxIn0.7xq_m9NI4L7a3jcnmX1RNsn0FyfAg9DIgiEY0cykaQc/s=
+/2591266048/br/143480749622-l" title=3D"Manage Subscriptions">Manage Subs=
+criptions</a> =C2=A0|=C2=A0 <a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1=
+NiJ9.eyJidWxsZXRpbl9saW5rX2lkIjoxMDgsInF1ZXJ5X3BhcmFtcyI6WyJ2ZXJpZmljYXRp=
+b24iLCJkZXN0aW5hdGlvbiJdLCJ1cmkiOiJicDI6Y2xpY2siLCJidWxsZXRpbl9pZCI6IjIwM=
+jIwOTAyLjYzMTY4MTIxIiwidXJsIjoiaHR0cHM6Ly9wdWJsaWMuZ292ZGVsaXZlcnkuY29tL2=
+FjY291bnRzL1VTQUlESFEvc3Vic2NyaWJlci9vbmVfY2xpY2tfdW5zdWJzY3JpYmUifQ.1RQD=
+Z-kTY4XEWlAenspHoW4ypCpt_h1atZ58y7S6HDo/s/2591266048/br/143480749622-l?ve=
+rification=3D5.74f3717e68ed4d7575b3b74776410aa6&destination=3DMS607104442=
+66%40YAHOO.COM" title=3D"Unsubscribe from All Topics">Unsubscribe All</a>=
+ =C2=A0|=C2=A0 <a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidWxs=
+ZXRpbl9saW5rX2lkIjoxMDksInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjAyM=
+jA5MDIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwczovL3N1YnNjcmliZXJoZWxwLmdvdmRlbGl2ZX=
+J5LmNvbS8ifQ.v-GxP5LDY1lWyf7pxc-2fyutKIdGan0Pvdgg0-oSVgQ/s/2591266048/br/=
+143480749622-l">Help</a></font>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso]>
+</td>
+</tr>
+</table>
+<![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+
+</div>
+<div id=3D"tagline">
+    <table style=3D"border-collapse: collapse; margin: 0px auto; width: 1=
+00%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tbody>
+<tr>
+<td style=3D"padding: 0 10px 0 10px;" valign=3D"top">
+<table class=3D"mobile-tagline" style=3D"border-collapse: collapse; margi=
+n: 0px auto; width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" align=3D"right">
+<tbody>
+<tr>
+<td style=3D"padding: 10px 0 0 0;" colspan=3D"2" valign=3D"top"><hr></td>=
+
+</tr>
+<tr>
+<td style=3D"padding: 10px 5px 10px 0;" align=3D"left" valign=3D"top"><sp=
+an style=3D"color: #757575; font-size: 10px; font-family: arial, helvetic=
+a, sans-serif;">This email was sent to MS60710444266@YAHOO.COM using govD=
+elivery Communications Cloud on behalf of: United States Agency for Inter=
+national Development =C2=B7=C2=A01300 Pennsylvania Avenue NW=C2=A0=C2=B7 =
+Washington, DC=C2=A0=C2=B7 20004</span></td>
+<td style=3D"width: 95px; padding-top: 10px;" align=3D"right" valign=3D"t=
+op" width=3D"95"><a href=3D"https://lnks.gd/l/eyJhbGciOiJIUzI1NiJ9.eyJidW=
+xsZXRpbl9saW5rX2lkIjoxMTAsInVyaSI6ImJwMjpjbGljayIsImJ1bGxldGluX2lkIjoiMjA=
+yMjA5MDIuNjMxNjgxMjEiLCJ1cmwiOiJodHRwczovL3N1YnNjcmliZXJoZWxwLmdyYW5pY3Vz=
+LmNvbS8_dXRtX21lZGl1bT1lbWFpbCZ1dG1fc291cmNlPWdvdmRlbGl2ZXJ5In0.oGOWtbj7q=
+V5r_4b7CccRsq9XoalBwbvQMCBTQfXcKEE/s/2591266048/br/143480749622-l" target=
+=3D"_blank" rel=3D"noopener"> <img src=3D"https://content.govdelivery.com=
+/images/govd-logo-dark.png" border=3D"0" alt=3D"GovDelivery logo" width=3D=
+"95" height=3D"27" align=3D"right"> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<style type=3D"text/css">body .abe-column-block {min-height: 5px;}</style=
+>
+
+</div>
+
+<IMG SRC=3D"https://links.govdelivery.com/track?enid=3DZWFzPTEmYnVsbGV0aW=
+5yZWNpcGllbnRpZD0xNDM0ODA3NDk2MjItbCZzdWJzY3JpYmVyaWQ9MjU5MTI2NjA0OCZtc2l=
+kPSZhdWlkPSZtYWlsaW5naWQ9MjAyMjA5MDIuNjMxNjgxMjEmbWVzc2FnZWlkPU1EQi1QUkQt=
+QlVMLTIwMjIwOTAyLjYzMTY4MTIxJmRhdGFiYXNlaWQ9MTAwMSZ0eXBlPW9wZW4mc2VyaWFsP=
+TE2ODQ4MTY4JmVtYWlsaWQ9TVM2MDcxMDQ0NDI2NkBZQUhPTy5DT00mdXNlcmlkPU1TNjA3MT=
+A0NDQyNjZAWUFIT08uQ09NJnRhcmdldGlkPSZmbD0mbXZpZD0mZXh0cmE9JiYm" WIDTH=3D"=
+1" HEIGHT=3D"1" STYLE=3D"border-width:0; border-style:hidden;" ALT=3D""/>=
+</body>
+</html>
+=0A
+------=_NextPart_187_26F7_7BE36B93.52D8E141--
+

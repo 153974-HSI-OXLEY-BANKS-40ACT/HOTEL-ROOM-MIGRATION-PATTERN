@@ -1,0 +1,173 @@
+From - Sun Aug 28 22:53:10 2022
+X-Account-Key: account1
+X-UIDL: AKy6jDI5vyw3YtnLcwhkcEKHrdc
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.37.232
+ by atlas219.free.mail.bf1.yahoo.com with HTTPS; Thu, 21 Jul 2022 21:56:03 +0000
+Return-Path: <bo.dincer@yahoo.com>
+X-Originating-Ip: [98.137.65.205]
+Received-SPF: pass (domain of yahoo.com designates 98.137.65.205 as permitted sender)
+Authentication-Results: atlas219.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@yahoo.com header.s=s2048;
+ spf=pass smtp.mailfrom=yahoo.com;
+ dmarc=pass(p=REJECT) header.from=yahoo.com;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 21 Jul 2022 21:56:03 +0000
+X-YMailAVSC: uUTf_ac3bBvjIKAhzc1WElLz4KNa6rAivFAWbM6og0KI.K8
+ l3F381zsfhqm2C5uVNjUf4MjIz5X6y4ltqZsWL0ysw17V62xofz4k7YUkX7O
+ 35xesVYcdsbmoeVCMhOTHMg4S.RcBOvBPcb5f_fPXwcvNpFQwNBa6aVgPszb
+ gA67m8WT.Jia0jHuoTm99Ad3jBJqcF3DfUQQ7tZFw7gs2e8cSLdYl2IYzTNE
+ V4HF05EtfVWzujv7Vn5tM7oLGSuCgZfGx_k1M33HfMZfamKyT0wdHTTBa1y5
+ bUB.m1iILOGsiWgvdhKs0KTtjomdBrzlKCvh47Cd1kNRYuwEbqcfRKTJWPl2
+ 2P0gj7.s1snLnPOg28VFj2z17mhiY1wmRJSTvKEvuoMBIlRZEH9EXFDe6fpG
+ AkjQvTEoYhAuAwc3wc5xFzBRY_iQPGG_B6qigNSr7a0rRoYQnSqEvM3MD5wa
+ 7p0wfuQeKgXFGg2fJWNGXyJF2xMGqFrxKtcE_PBwsWQJD8D7V3AGhiD0VH1b
+ F8m2sNWw00qyu63rko6jU5GrmgE8QeF9A2QG.QBQGvXYyZcXFELqCtqOamkE
+ M2KWLpNOZkjrCc.ngN3o2ELhokwMGvRBv_yBdK2dXRHSjdYrd49W.UL4Jet3
+ ioLQhzTgFrCdv.JWglwNqETFwwXwlauXM5CUK8oEgzax3ojVIuOb5q3lzBXO
+ 2erGq7mv7ZNutsSQZp8dN2LOPDT3o9Or4lII5zJ_PY9hnjj1xDQI_SvS_l3B
+ rFs183ALC6M4plUDRh7CrR7hmKdM7qhAsAHjruzB1AaivLtCkq1vdt_M3g_7
+ C0trJWgxqyfmIsOm588vhVWEBiEv8IMdVcHsfoZ8r2cUU17QyH34a1w2owiL
+ 7PLpzmEWaAIk5Xlv24OqDBhYpQk.S3HdzK7rFEGxc_inDi1vc5EXSdMiPttl
+ dReS0Rk1HSKPGU_ZSDWkw.1J.qZwRvXAG_kdR9MWKLPDzl8wVxN9w_33XnB6
+ SS85cuG2gz9ilm4LKAGO.eCAvYOy2YIH1vbaj1cbetLH5M19tG7eKDKJVYgt
+ 883nENSVh9NkYJjYdNpvtdMl3Jco3DWuV9LPtXN9zZiybGpmxw9muBbB90S6
+ ZISpJLvjhR_XIi_pR5NJMAqWcPlNH6I8bOJ68ZJctuDMDV50Ld0VCUEnZKEb
+ g6lTrZz2LsYoo3SYcWRLoTt5Uqx9bB1rXSZGM_HAbBdXi8PVw4QRJjMz23dp
+ VEdzIhRtRR3sJh.wLSTrxWUTeI8G1ucF4AgD0yoBJs02NPkcFfIPrufIRQ6b
+ eOk1gyljee44yoiz.7DNnB73YdI7q9uNA5r3jI6avgGTxsx2TbBJzhA--
+X-YMailISG: VIdlaR4WLDv0wRFzWek4j161fKPRsSJNQ0J8gSDFiDgRFJZo
+ 3cDqS81HCbOra8SPbxmB4Vbyv.0LUDtNbDs7i9MceypboLNFtwJIxKXqKHSM
+ v1xxHvkCLkfUo.wvUvxXJa5usSaULURWEFR9CGdDUUIQx7afJrvMKIXwIFUG
+ 8ZbkLMJ7ZwSJiUQ5piMpLvMjrKSXGBSEu6_y2u5gqxc48AN5YMI8vILaW2D8
+ Pof0qLA8G4Tc5b9wjVfrxf2GVK5r87hF7iopcMZ0CwANV5.Ummu0ymWgUV8I
+ _EyWfMWf3KRRTBa0UrBSRdw7XNYQCeOwxyptLR2PK.M33EVqkahL4U6GuYAy
+ Mx12HgwjNoaXggypHw4baJDK_JX_ob5_jZpDjKSJmYjoCrduMy0CVo8Q1CF9
+ .TQKPTDnq3Y5ADLJO2.Yd6vqwfaXn_biaVoPYtE1swj6lkP46vIyteAnOECS
+ 44BF96DiDV0688DlW85v4bY5j4tmNowrmi24vDfZa7GYct8n3yOunsyooBuH
+ O7qlSzZXLcckO949oGtz6QnsY5LiA_cIu7YH_GORdB05sS93BFoDuKiW_Sah
+ 22oC5CndxESrVjCwJo968nvdaBgpas2WOOUDwCB4zQS_iu8dnqUwpJalwvj5
+ YluYulgXl2Q_7cy0YlPB6wqZ9P_x8RV_K2JOrojSQ_L_H2VKvZT2YWCCKrm.
+ O1Uyvd7F.yzkIkd3a73AoImBhxcRR4htien.gTwiGUug96q20qPIQ.IvPOIz
+ QhOhQU_t8iP0XILGa8TicWTE5yzS8T_jYeZXgAlIBncs3cd__GT7NDsH6G_n
+ 16WD3DPxdtsf1cjJ2VaAY3tYnEtxsam5FXAteYHKM4kItigwvwsLDLGM2gjB
+ DO7KyYeXalihBy9FRgMMz6X4rOyvUs0dZ0._1JF.kFe97_toydf0w6aW1nT9
+ UKUu5JmtC5Yq1bNyW.ku2duZloH6yreA54HCorUHHBXVzmlfBN3JLNO5pdvl
+ mNDJv5wlFxlKBk2DFPL9S3Lc.Bg_vNfkmaFaHEabxuw9.Ilt0PmO6ofPoRVU
+ DiyDE0JaxIh_5DgMRaqXZdODYwK2BODb4U8qWSe4VCd3RueCIM5u5sVNtJOK
+ p86PPDFbKgsuu3YzSH_EhcMBUyu83L5aG6ftREvz4kf1CJazCfXCWdfg3POf
+ zOkB77EqDZToPGwzWSrF
+Received: from 98.137.65.205 (EHLO sonic311-24.consmr.mail.gq1.yahoo.com)
+ by 10.197.37.232 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Thu, 21 Jul 2022 21:56:03 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1658440562; bh=2nmPqjgTvfDWub1bh5yYzRjUA9Lt5/EC7e0Eico/Wdc=; h=Date:From:Reply-To:To:Cc:In-Reply-To:References:Subject:From:Subject:Reply-To; b=jeeTdDwl8Wt7jYbeJ48J7P8MtuwMu9PHhwXeKjWHNJ0ql02bV+q+4+YlRK8gtLIfNKRuDSDRlmDB8dd/me/oKY4aSGPjS+RPYRN6fA2DtNnx9TYAEP9X1XqD9jEMJhX+A7eHescaQZSawkKDyyBFeWT1wJPsRf6WfXWx712QqnRQTR/C0tqNmxDN6veMLRYuLlTg/cIZLgiEA8Ahq/i2us+mfTKMadvqyNZplVnfAtIPrG6d1FyF05k53IoQtLmQ8abkRjMwB1WXlO0/XrFVeKPVErMlSe8X2zyMBIIrwUkPXzrUVXfxj4GFEfrEfWRO4AUwFaIbCyxpKsrDIuDKaA==
+X-SONIC-DKIM-SIGN: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048; t=1658440562; bh=14zgOSABM5roGlPqamG+Gl2o0jldWX1Tk68NVf55HH1=; h=X-Sonic-MF:Date:From:To:Subject:From:Subject; b=sUdEn5xx6msASQxRXBTOkbJgpb9NKs5kt3pFPM18TyJ/BMXNEItmil+rwR0Xg61oulWVtNEi+9aIGF8v9oG07ergeemQqB8fWUfu2DcA/ZdqNWygsFLg5dMViSDnMolC5LQaGOi6fYlSUxTOT/z4y1zX+HhG+PoM3P+ON/8rn7xuAqGBIj/UNv5+0Cc4UTnmXlCN4phlFmIPVLI6ah/Fan2hnH+dfy6kUM+ftuWJO+1NEsq/wn8Ru8WzJO9E/lrOYFefSl+1Bw3aTHyvKPJjxwF9+TC7xOX7mqXYIBFDtshIQGbNy8IUpTLW4V0ex31HBqGAs0XUv6UBQqv6aSEZPA==
+X-YMail-OSG: 3MewTigVM1kXzb_QpLjt3tpsUVX6tnFQIwRiHOmgdIvlNDNLpuLyYJySqSigXeM
+ 0DUcoyMHvxB0dhSpOcNmvQ7LMr9cWMqemA_lQYQ7VtNh_X8_trI8ibvOj1OmRN3YnD6vzR32F09U
+ BcFuumGRjM51LfZwawpKkC8XSgqr_xzSsQu0xx_n22rxvhun5Ih44kXH_ezOrLkqp0_rr73B5gw0
+ MxzTei_KYlhqVp_a8GGvdz1aRgWuOF3sRm_QoabZRbOYta04GHswHrvMZ3swFOL8WG8k10CNz6Of
+ LqSrSeRVCy3A4gZt7vh1NbZdIQlheE3yAl09Di5j9jMyLOuPYo4HYdvLuvpwwGPCFhnWeg3eYb9d
+ hJf_az_0DPwFBP3qju3zFYTf0e6iCTYrYsqfzDRCuo8g1Y1nEH7ThLHm08kIj5mZ3CwJ5KwuVxMR
+ Irj0MnsiwDgiNHD8sKFVVYTcvmkH.PCneJP6LT9pE3syryLXb_KruRtdHyjoRUtb9jUFH14L4jNI
+ YwjEvIux.sxuLsX.SCQfAIxoMcl28AU2hmfGhXCSZdBW6ysrjUZw3AsRiJo16Ich7_EfKd2nDXeH
+ Z4k22xA6_m2Ffxoi4bPpAN7Sxbscj9dbrJHHwLllwYYSfhbai7xeQ6pWSEp6cnsUqN5Il8XgUYf9
+ wDVtT2JvQlEzNhsEQEg_RCRtCE8R0eWorrCYlXb_aqtoPWtdt2_H9nIfRnH5zkfT7ULyhrS8YHjz
+ oJF9Jn6kCO.CCChPmRFeI1RmKXRzGZY3lFi_Uj1Gz0z.RGySj4X5fV51_.yNpXMjTAwbSJkbsuph
+ BU6jgb2pAk.hXH4ipDOrZ.4DmfFhPBD7AQbUfy3eNaWHeOSKOPYheOvBSmh54MWZKNWoNxEwxRO5
+ w7wsH5JRRlupq8LNYBZN0A9sDA8cknAq576j78l6C7KqHL3HXpaDw9vprUjR2c9j9eQJ5Djup2tW
+ TuqU1aqIeJ_aWiSLpqZBv4SBC.9T_zKyjUuZlrGB1NHbixuZxpjsUJE_0SNAWo1P2zna3dLfFEJJ
+ N3IS8rreV1mMl6v.5.068SQJXcdzl_RWWqzH.I1TweF7zlzLCo1CZx621fUEYAgwLPgZ9LSywZ3g
+ GV3wqAKmGYlDuF_emSNI4yiqeoA31Ibk7XNa6z1jE34QF4lp4.MT_Jc4CWwkuPkkl7KRVRw29AwT
+ t71JnKU89UMEINGidTwUZ3YV_S8JFK8wsL5KsW8Z8iJhD8rTa0PaH3sg2.AEHbvhgFMYtb3n1weF
+ lKgROv1WJh3Txz7vUEd5HljkKYMdl8u._Q1l0lH2IaQkqFyoyJhfZSItlbhVqYvD92L0bN1daWNO
+ MAQ7A4PWY6eYtDP1HTZnM1S1aBdTxV04UqoWOCNdq_3UsXLQrPmahMnj.Ffdu7kjhISBqyVOPUL2
+ rsV_QXqe5h4ZEuLbtb2WkmP_1hgYjHuObGfwfj7YyWTiAOQ6IYva6yBimC3.wlwd5kjGGoF5AYdF
+ THbkiGxs2NozTOxLSDUeFNLtVpC8ZW.2IrvXMI4p.pGzWEeiqILPSY.mTy4mWAPt1Z4EMs61bl9Z
+ S88bxoHzw9mMZKdnqlnLZ7mwruXVMzwp2B_Ti1u3SKGKsADboXpBKJLSqdu_ITiMRUpa3IhW1AKu
+ gjrr_9VEGkpcnbs2LtjKHHh8Q8ttx5ohCtzLQLISMo5V4rVnkxG6an8K1WIQXANS3wEwKwJ0hEYD
+ jHz0Qo8STFSN.cgO77_LcyaAdMxR49S62kPV.w9TJ8nhRFbvXNvGU8yPr1h0KYpS0pze.XYCR7bB
+ JJqAFjvYkTRsaIwDnCvq8TxAypiWUJFqvMrDtIAm_O6Jx.UyjP6Pv68nEvbxdFmSQjDSsSBus3ty
+ aoC10Y4B8LKMijOR7ixHpVEJtP1K5FtHJrz5byN4t3XnaGBzJ_DZfKakk9mo2GZtNpVEC7Hso0AH
+ eevx4absVvetraEFSD5SpNH9PtIBEk_E7UUL032P2gwrT9sc7DazbzwKqcV4dCz8WkoE805nwrZM
+ jEFeZQl3K69ryEsqcKqAocVFXP0561ibf5cRdyk31xTyB8sLYoT.5cI13UKdT7taYHBZ8jIgwwox
+ hPOQUhm3fqphKF7gCRb0RTDRp6nTvF3X00w_ItiI3
+X-Sonic-MF: <bo.dincer@yahoo.com>
+Received: from sonic.gate.mail.ne1.yahoo.com by sonic311.consmr.mail.gq1.yahoo.com with HTTP; Thu, 21 Jul 2022 21:56:02 +0000
+Date: Thu, 21 Jul 2022 21:56:00 +0000 (UTC)
+From: Bo Dincer <bo.dincer@yahoo.com>
+Reply-To: "bo.dincer@yahoo.com" <bo.dincer@yahoo.com>
+To: "boboschickenandpoker@gmail.com" <boboschickenandpoker@gmail.com>, 
+	ANDY DUNN <ard2181@columbia.edu>, Andrew Baran <ab4740@columbia.edu>, 
+	"dm3412@columbia.edu" <dm3412@columbia.edu>, 
+	"Scott Andrew Slater Jr." <sas2419@columbia.edu>, 
+	Department of Homeland Security <uscis-casestatus@dhs.gov>, 
+	"fbi@subscriptions.fbi.gov" <fbi@subscriptions.fbi.gov>, 
+	"risc@ic.fbi.gov" <risc@ic.fbi.gov>, 
+	"helpdesk@leo.gov" <helpdesk@leo.gov>, Chair <chair@sec.gov>, 
+	"newyork.atr@usdoj.gov" <newyork.atr@usdoj.gov>, 
+	"antitrust@ftc.gov" <antitrust@ftc.gov>, 
+	"antitrust.atr@usdoj.gov" <antitrust.atr@usdoj.gov>, 
+	"+19173783467@tmomail.net" <+19173783467@tmomail.net>
+Cc: BBO 121 <ms60710444266@yahoo.com>, Bo Dincer <bdincer66@icloud.com>, 
+	"bdincer1738@bloomberg.net" <bdincer1738@bloomberg.net>, 
+	"bdincer1768@bloomberg.net" <bdincer1768@bloomberg.net>, 
+	"bdincer211@bloomberg.net" <bdincer211@bloomberg.net>
+Message-ID: <579396382.465819.1658440560681@mail.yahoo.com>
+In-Reply-To: <CAHFkkL0hZ6JG4gD3QmNqdyEGQffeNMBLtctUgsUD5BQgo2NW=g@mail.gmail.com>
+References: <CAHFkkL3BPAUZVucr+_HmjTaLgypVsa=8gAxHW8BsdOHg_Ek=Fg@mail.gmail.com> <CAHFkkL0hZ6JG4gD3QmNqdyEGQffeNMBLtctUgsUD5BQgo2NW=g@mail.gmail.com>
+Subject: Re: LeMARCK STAMPTSONS reit letter 50074 90849565
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_465818_582654531.1658440560679"
+X-Mailer: WebService/1.1.20447 YahooMailAndroidMobile
+Content-Length: 2517
+
+------=_Part_465818_582654531.1658440560679
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+https://m.facebook.com/story.php?story_fbid=3Dpfbid02X7Fbitt5RLTH8CJXNUtRNX=
+a4xnxsDicxTPHwTLijyE14CuFkEWcyunFerj4rqpJKl&id=3D506822379
+
+/S/ BO DINCER=20
+=20
+  On Thu, Jul 21, 2022 at 11:43 AM, B B<boboschickenandpoker@gmail.com> wro=
+te:   Hey just be sincere,=C2=A0 and tell them
+We need, appreciate and thank you for your receipt of this letter..
+On Thu, Jul 21, 2022, 11:28 AM B B <boboschickenandpoker@gmail.com> wrote:
+
+Attached. No bcc.
+#clear
+ =20
+
+------=_Part_465818_582654531.1658440560679
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<a id=3D"linkextractor__1658440552391" data-yahoo-extracted-link=3D"true" h=
+ref=3D"https://m.facebook.com/story.php?story_fbid=3Dpfbid02X7Fbitt5RLTH8CJ=
+XNUtRNXa4xnxsDicxTPHwTLijyE14CuFkEWcyunFerj4rqpJKl&amp;id=3D506822379">http=
+s://m.facebook.com/story.php?story_fbid=3Dpfbid02X7Fbitt5RLTH8CJXNUtRNXa4xn=
+xsDicxTPHwTLijyE14CuFkEWcyunFerj4rqpJKl&amp;id=3D506822379</a><div id=3D"yM=
+ail_cursorElementTracker_1658440552419"><br><br><div id=3D"ymail_android_si=
+gnature">/S/ BO DINCER</div> <br> <blockquote style=3D"margin: 0 0 20px 0;"=
+> <div style=3D"font-family:Roboto, sans-serif; color:#6D00F6;"> <div>On Th=
+u, Jul 21, 2022 at 11:43 AM, B B</div><div>&lt;boboschickenandpoker@gmail.c=
+om&gt; wrote:</div> </div> <div style=3D"padding: 10px 0 0 20px; margin: 10=
+px 0 0 0; border-left: 1px solid #6D00F6;"> <div id=3D"yiv6172287823"><div>=
+<div>Hey just be sincere,&nbsp; and tell them<div><br clear=3D"none"></div>=
+<div>We need, appreciate and thank you for your receipt of this letter..</d=
+iv></div><br clear=3D"none"><div id=3D"yiv6172287823yqt75539" class=3D"yiv6=
+172287823yqt8521330518 yQTDBase"><div class=3D"yiv6172287823gmail_quote"><d=
+iv dir=3D"ltr" class=3D"yiv6172287823gmail_attr">On Thu, Jul 21, 2022, 11:2=
+8 AM B B &lt;<a rel=3D"nofollow noopener noreferrer" shape=3D"rect" ymailto=
+=3D"mailto:boboschickenandpoker@gmail.com" target=3D"_blank" href=3D"mailto=
+:boboschickenandpoker@gmail.com">boboschickenandpoker@gmail.com</a>&gt; wro=
+te:<br clear=3D"none"></div><blockquote style=3D"margin:0 0 0 .8ex;border-l=
+eft:1px #ccc solid;padding-left:1ex;" class=3D"yiv6172287823gmail_quote"><d=
+iv>Attached. No bcc.<div><br clear=3D"none"></div><div>#clear</div></div>
+</blockquote></div></div>
+</div></div> </div> </blockquote></div>
+------=_Part_465818_582654531.1658440560679--

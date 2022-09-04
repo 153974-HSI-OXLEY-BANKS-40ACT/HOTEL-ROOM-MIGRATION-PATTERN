@@ -1,0 +1,193 @@
+From - Tue Aug 30 19:53:15 2022
+X-Account-Key: account1
+X-UIDL: AII1I1lMXI+EYw5WJgtiEPJ8/ok
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.222.142.148
+ by atlas111.free.mail.ne1.yahoo.com with HTTPS; Tue, 30 Aug 2022 18:25:42 +0000
+Return-Path: <PETER.SMITH@nypd.org>
+X-Originating-Ip: [40.107.91.120]
+Received-SPF: pass (domain of nypd.org designates 40.107.91.120 as permitted sender)
+Authentication-Results: atlas111.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 30 Aug 2022 18:25:42 +0000
+X-YMailISG: PfRXyQEWLDto5A8BSr7h.pjMQaTGN10SSDdHPwioltPiKNLm
+ ewFidvq6ZzpIsDtRVWLQMWZIPYpm67TH.vt84VohKGSQK_bYWQGxTQ_Cu7aY
+ zVYsXdGVRiF349HJqNK0O0tHbfxpICAsBOpcN7RQz2p2J3zCXTR8zFGR4Uw8
+ icsE5cj9R.3zyy7hBnZ3t2PcVXDgCg6dKuMxkvhdy4_nT9Q7zxoeh.frpQcY
+ tJ.pi6L86.2F_sLmuj565SfPvOd7AwzPpXmabiNXiCZ4T.YIkgwAhC0jTHmc
+ 3J.YgUmURwMbZ.Lei6831WkS1tK3L.OTUWhK5_W27IDp9ntAqivghp_NeZuR
+ 4h4Gdt4VDOT4YwBi_lftpQtIzWZCnaMFne4KGB.JHZxN1jVP1qSX4rqkGMI_
+ 0DLmqyiXRtznLSN0u.kVdral7q7VtdZ3ubdTKT3LMbLtwzdnX37ZnLzzy6OV
+ Emjy6BuMi6dVufZm7AQj1eshNJ9yy71LQ4BjjnllU0b436gnEyjpdW5_36s1
+ 1v6nIcTCi6cUOeWI33PTPLaqIIqeOOaaIh6lN52ohcaepVK3fiLJ_CLAyy4M
+ 0t50UtCqogPLLLYN56IqJxWRgbLbyXdGoWNM6ET_22myaZEHWqwRYLN.7CDK
+ KTYIJtTm0k6ZiVLIz3GkfOEpKfLdLxEs9WmXMAmfyhfyUMrBg9BvoxgYVbum
+ 5N_Qz9bigamaTNYQiX1YlD1Af.7P7npOCB52SwTcWzHIB0NaS9ygbWl8pe5N
+ qZOQph.agYXX.StO20NtJN0PXRlyvtba6gYDk6i7uuTbMoVqT4iix9UYqzRN
+ 9clgBF7SHWEpOK4MAPa5UMwU.vgrUwo2klWhN5NWbF_ZVVrKrtQlaniPx.tR
+ sjLDKxwcuJ42LQHNsf3JFuQ4xJzkHc1cQO_XLtK3fSb5JibWX77YY5NVO13T
+ 1DWTQ8o40fVeL2_pnDIUWIYWX4oazBlAqFixZpO4cOo3OZhbfXvD5.k.BWNA
+ hofo29pQTRYYd6czcedvWeal6y7Gmivfch_dJuP3v3c7lSx_kPrJRQlPzNLr
+ UrISxhsWDTYRsCEuQHcLxYH_cKNHND7fzySY0rtyAS9KGIu13hsciQOuhBPB
+ 5YFMNTtAQue5P_lgRQ3EfVqSX4fsA80RrYWsu5wbHL8LE3tBNpjIdu9S2oo9
+ 0hcXIh5yrYL_HT0WUsynb_QvMjL4LY8BNFJonKAExAO7Ykwlxc6bSS_yCwbZ
+ GMn6hDGPROzaLGnNM8EGJxukcWh4JjFYiRTsdA73v9wHUnYFnAjouOQyeYic
+ nqfBi6axSn5v8JnOLtNFj_Gy79csPNfYDrPSrKAe0Qc1ruOUk8vLtLYhzgSs
+ NbCD
+Received: from 40.107.91.120 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.222.142.148 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 30 Aug 2022 18:25:42 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Ir99LxEvnFRPWEl6Kj0Qh5rtJpjgmrNhICP4yKZAmuPQYc2xlfey8vV4h5GdntzdQ0n+ta4Gs3amqzTqOrLzdCmJReaE4z4tQ8XoqgK6LDKYXXYrXq2ZDYlK1d57ZQVMtbL6S6FwyhZq0UsaFmUJRuEXdNLPKNWA9OfwWWj23RlkK7eNB68MY4EqtCXZMthfSszOxFzFL83SCiGNYw2aT/mHwoybdAhQN4jIdA8ZVG75DRIKswdidKvYkBwTF/aVEJtWSj6O2uPockuwQspEfBwVIIyhidpnx8N2PjqpLv4zcfLpauh/VBUIHXEo7Uuh1J9sw4GZQ5OKLsVR798mCw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=l4JBV31wOPiM804J5r/Ix2imoP1fhHXoXOIc8QhCt0A=;
+ b=GdrfwucAiSY3bHF5ITsnzIVmHl1I0ZiijZpKBm2dnSb9JVph3NUXacRR8Z/kIJrlXtQ0KqeXJayhXnHf//aWU9/yjwNAfZt/icpQmDNZORqUjc56TuvHuJ2PLN2shCMNMIQY8sPr/UpRLF0YA0jurdZ9t0iJZZAAu7RYtsHK8sg1d3wMlUAw1DTwp2jsmxmKUL/nrVXOB3NgaJwkzuh5BapGEFYAs97Vd6y0nWWITickWHe1O6s8DyvWknz0o43OgBKmG4CI64AD8a+71X/Sx3f1Ij231gb10auyYwMIqvtWU/ypsgI228DOePSG7XRRjCxDPGY8j20BplEv69/pvA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=l4JBV31wOPiM804J5r/Ix2imoP1fhHXoXOIc8QhCt0A=;
+ b=m97L//ErlcvTrAtenVCs1ydnoV1AhGeZu12mUMOTZX6lzxLDPRN6nwzm33wx1BbCIbBHxTXdM0BTtqNRJtLU0lR631GaP1li1A85tPZF53fDIoQ0BEXOA74OftWehEi5CF+Jr7/0RDTmd5xveRPonI0N11G5AkrIYcuFQkZCcPg=
+Received: from BLAPR09MB6081.namprd09.prod.outlook.com (2603:10b6:208:2a5::17)
+ by DM8PR09MB6408.namprd09.prod.outlook.com (2603:10b6:5:2f3::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.15; Tue, 30 Aug
+ 2022 18:25:41 +0000
+Received: from BLAPR09MB6081.namprd09.prod.outlook.com
+ ([fe80::608f:97ee:216a:4b10]) by BLAPR09MB6081.namprd09.prod.outlook.com
+ ([fe80::608f:97ee:216a:4b10%9]) with mapi id 15.20.5566.021; Tue, 30 Aug 2022
+ 18:25:41 +0000
+From: "SMITH, PETER" <PETER.SMITH@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: Fwd: TCR 2 FILED: State Farm Associates Funds Trusts >>
+ STATE FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE LLC).
+Thread-Topic: Fwd: TCR 2 FILED: State Farm Associates Funds Trusts >> STATE
+ FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE LLC).
+Thread-Index: AQHYusXVF1fw88SRIUmGxW1jFqWiRQ==
+Date: Tue, 30 Aug 2022 18:25:41 +0000
+Message-ID: <584ecb202e7243f5b6b0b4e9bd4f7694@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 12665b76-9ece-4fa8-1a80-08da8ab50b80
+x-ms-traffictypediagnostic: DM8PR09MB6408:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ VBQzcn5ZY5TVN7WSa3yh+oZ0YpTb1uDKUhXQNTcWnP1uVQj5GayoTVkIMScuO3RwL4aAbsF9o39ojELJ5SYbKFln+Lpq4V2scUPcwgqGIwt4qjd0LPixyzgSxdx7i6cksU80Wz7SQnDfxzbL85MbIZiY5GYqC3HYQyfdHoMZa62whHeVOtn6rSJDXiYikgN1GEMuBFJS4DmPmO3+UzmKgOWk4t5jT3aHFxpIWZ1MN50SiaTA7IBmQX/kF0mtF4WII94XW0YEuQMB4FKSGZka92dph7u07qrArNbTE2AbXp0B1wkJ5B2BWOkUp62odwsjPGMAYy+CM+2rzxte4us1fp4Qe+MvBnM+P73V8e21V3b/JnkrfOcDTZszXbzFTAiwG3Vx10taWLAf+7q1pCTJ/E+p5NNal6utANqJvJQIit8reKBInRG2OWKquIVvR1Cd
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BLAPR09MB6081.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(64756008)(66446008)(66556008)(66946007)(66476007)(8936002)(8676002)(2616005)(2906002)(621065003)(36756003)(88996005)(6916009)(498600001)(6506007)(6512007)(108616005)(6486002)(86362001)(4270600006)(24736004)(71200400001)(82960400001)(186003)(73894004)(122000001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?R0HdPnEHHYvCpv6sdumDHwV6hDjjwr+YpOrdVU+QLK2gLyZTgDYPMdSF+Ur5?=
+ =?us-ascii?Q?B0pKnoegyR88hbDnl2yDNYi9r4eSCfz7nlltL9lYspiU+IQkjj54LbPNamDD?=
+ =?us-ascii?Q?j5JbwXmxHIxnprkQpNl4f7/MePbdK5GDVE/75FyrhoSpNe2LotKuedXt7OTy?=
+ =?us-ascii?Q?jcp6xR1b334gyN3Z0HO1Orbntu7ias6ddp4DmfTmFlcQcQdIEHQ/LyKOHVGv?=
+ =?us-ascii?Q?VdFlwJUMrR+iOTOSWbi8rl32laBUDRcCPqA3nYH51RlP6lgJ8oz/xLRzcA7X?=
+ =?us-ascii?Q?H7ydnle95EbeutANaJ6BIrsieBXo0M7Bb7GlJN+WA66LYxeaJgG7r7QSLpMT?=
+ =?us-ascii?Q?a+Q+g5kGZNpv2eXprBqU5zL7xy7VJmXpGQMhSfQlVg0Jh4BByOTjKruL0axo?=
+ =?us-ascii?Q?eKi03bnNthFhuhWY40YcO0uwHWveUUBB3nbLxqiX0W7KFeOkat811U4aAugk?=
+ =?us-ascii?Q?68htG0A4juSm4dZVEjqMgG19In0UI6ds9Q/PhGqBOMlYgtfSx5qUiZ+5S/Oe?=
+ =?us-ascii?Q?jS1KJwHRW5+uwEXtD6778nuMntpoq0ypsHghKPohV7xLwYOaL4Lo+F4z1xwI?=
+ =?us-ascii?Q?txkFqU+NEwCxMYdrOytAq0ZKTgXKmzMr/32bAXG7RryoJ5I6AkGVuRBNDkvm?=
+ =?us-ascii?Q?hcykIjQ8rd3fiHQWkSFFj3eRkEJdG3U1fJLPxGaQ6tci5QiziRU1CVnNHi5i?=
+ =?us-ascii?Q?17fSGpavK8/oBwGFhuGJicBU/dMKijmnGD9vEMqUfuyWprby2F/NmTDC0aFA?=
+ =?us-ascii?Q?UeEjlhQAn5NhnISGkkKd3Wyiile8QztIkHR20jJmMDANwcVy64IW1Ywk3DoV?=
+ =?us-ascii?Q?m7g8h1NLqeUeq0EuEvet4Px4SgBVQVKRrfuXywXdZi3FFvfncscR+H+CG5iv?=
+ =?us-ascii?Q?5sgdmgaP51hGGj8ga4kIRVUzyD8JyBeneqSYQnAaLjGORZLyVNXGELksgJsh?=
+ =?us-ascii?Q?3tuSxPTJRq4QnXGMbKGwkeJZnwf9nLZKm4uj9ubyOtKgeqcIAK53ViyYaPme?=
+ =?us-ascii?Q?cvn9StTBogIGFXD/PQcuMFdyHkbiZGpPbNgZ/GUQ2lKOFH0opwNOfEOmD9Vv?=
+ =?us-ascii?Q?d0PLhimxHu7aD3shLoR3DVqt4xUZZ/GHUJHJg8y6/KquY1v6+AhKxg60MBzI?=
+ =?us-ascii?Q?cvZF0EigWT8ZDQZQ3151iOtRM/p2ygC/FUNf9C4wtEJNSIOj7eqlKM9AXSvM?=
+ =?us-ascii?Q?gjnskt79qLH5oObOCkaeDv5rdjZcyjthWRatPzkDTafkX2tarUPHpqg2mgtO?=
+ =?us-ascii?Q?LEt7LX98KpCuNX1Qo9CwLHmSUEhy++GPq231oKOM+fr/2KTXEZ7BjFRZMOho?=
+ =?us-ascii?Q?LNArESGu4T6kxXzf/1UPknCF3jhVCmkB+f2Up8CSsXlh+jpZtbaVdIqxgRXN?=
+ =?us-ascii?Q?7/Pcb57bmHU9fz96y/u3Iy2aQ0b7ph0ampll3GMPx3hnblOTFTLrMvkPZdSn?=
+ =?us-ascii?Q?qQzLb8oP1+K8noe3lkLgCcVvwTN0zS+A?=
+Content-Type: multipart/report;
+	boundary="_000_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BLAPR09MB6081.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 12665b76-9ece-4fa8-1a80-08da8ab50b80
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Aug 2022 18:25:41.2848
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM8PR09MB6408
+Content-Length: 2083
+
+--_000_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_"
+
+--_002_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: SMITH, PETER
+   Subject: Re: Fwd: TCR 2 FILED: State Farm Associates Funds Trusts >> STA=
+TE FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE LLC).
+   Sent: Sunday, August 28, 2022 6:02:30 AM (UTC-05:00) Eastern Time (US & =
+Canada)
+
+ was read on Tuesday, August 30, 2022 2:25:41 PM (UTC-05:00) Eastern Time (=
+US & Canada).
+
+--_002_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: SMITH, PETER<br>
+&nbsp;&nbsp; Subject: Re: Fwd: TCR 2 FILED: State Farm Associates Funds Tru=
+sts &gt;&gt; STATE FARM VP MANAGEMENT CORP. || (STATE FARM REALTY MORGAGE L=
+LC).<br>
+&nbsp;&nbsp; Sent: Sunday, August 28, 2022 6:02:30 AM (UTC-05:00) Eastern T=
+ime (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, August 30, 2022 2:25:41 PM (UTC-05:00) Eastern T=
+ime (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_--
+
+--_000_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; PETER.SMITH@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 5HFqTztfNU2X09C9MCL+kg==
+Original-Message-ID: <d42d854a-4ddc-129f-a17e-7457b7e9c2ea@yahoo.com>
+X-Display-Name: SMITH, PETER
+
+
+--_000_584ecb202e7243f5b6b0b4e9bd4f7694nypdorg_--

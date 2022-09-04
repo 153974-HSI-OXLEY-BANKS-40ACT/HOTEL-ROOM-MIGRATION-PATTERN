@@ -1,0 +1,213 @@
+From - Fri Sep  2 16:59:19 2022
+X-Account-Key: account1
+X-UIDL: AGLF1x1ce4vFYxJ1zAEVWKmD4fk
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Fri, 2 Sep 2022 21:29:47 +0000
+Return-Path: <Nick.Adkins@madison.oh.gov>
+X-Originating-Ip: [40.107.91.133]
+Received-SPF: pass (domain of madison.oh.gov designates 40.107.91.133 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@madisonoh.onmicrosoft.com header.s=selector2-madisonoh-onmicrosoft-com;
+ spf=pass smtp.mailfrom=madison.oh.gov;
+ dmarc=pass(p=NONE,sp=NONE) header.from=madison.oh.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 21:29:47 +0000
+X-YMailAVSC: .ER6TvI3bBtQ4IMkAuahSVSto0NNa5T56fRU01vD.Iaotf2
+ kPtLbi9gW0e7eiGTLKIHQ9BKIDTxyxLUcWmwBXp3INtjCHkXkns9fyuXwyi9
+ uV9ZdaGy95u6r.8YQzR5Q.uZChH8Pcfmbjf307IZemMwoeeyaUONIjVeW99t
+ .3yLgtjS.Z4RA56Yca2Gd_SjCr0A1ztJtCh_NG7kjjx_fG7PqOEGk8jfLYlx
+ i1_hGklyuUIEyXR_JwlpfU_B2RWnVXUQCCwV6jcFvZ2fQ5T.kagYY7Yn2VGs
+ 6QdAwLCoM787OjfzuJpkeuEdGnSZNRaJeNNipS6uSFrlbS5sKi3V5_ektnBU
+ Ikjd3Ui7NjxcqPQskS4PCSs7c7i.0lGsUsk2I2bsSR.b.SkYAGgEaQXhxJQu
+ DqZN5DHXD3im0xfUIE8PrApO652Gl__wMYqFa1jOU84w6jmv_pdUkKNJOG_2
+ vBwdLXselhHB84VoLeoEC.0n_tpIn2yV49uH..7Mczm15EDKMrq7HCd.LPdA
+ p98N.Hm4JaEsFHXOiun2J7UxyFS3sIOqYERVKkquufjcBCoATSBuyjl6LBos
+ PsuSHalV24lrlkq7ubVNErp9AdHDXZvFAUaIu7JUNzv4qAl_wYh26d.aiUrr
+ rAkV6t2STwCCMJnmwGOZkJrqTxlByYSDjFIrJRyNT1cuDpEc3CkM81psRIJN
+ D4EW_Ot6fjHjJkGFdDz.9zFlQla.9Giy18ZmBPZA0kRF7kyQ2iJewurVDHBI
+ Jz6tFManObWh9YPm0F1ktThldvjmKlL7a1eO._u5tXiMklWmlRQPcPamQ4NX
+ uy3nytCsdBOYq9IJRX43vdctZCSCA0CjQ.H_TxrzdsbmnK59lfemPGZT_Ie2
+ iQWm2j2idtW35R62HnTXTEercn9lnQMGts.i4TtHvOAeLuh555MSxZwXOSF8
+ 5DGIYkEPSaw2dMhbKN4KhMmiKxfuGUjc9DMyLJHa9Q_Rkf.rCO5wVy5.uNTO
+ wr.4TkAZ1LAPHQDGhdlpJ8HTIiyDtMgHYYXK7XDBO5SN_uhlz_f_vWlAmYeM
+ lz9If0CKy5MiwR_O99f48tC689lx.rCZGdj4cmL2jnEIPsxgdunb9UeNk8Yg
+ vWcjErNb_phPP5tR4M9zGPz.890J1qqTz05Y.W49aUKdvJ2jyrvWMZZ1YBFs
+ c82p3kyhR3sTmWzCsg3mlm0anMPWXkl9.CM9skCGLstXwIYveI2DWyQzd45u
+ 8J8R1pjW.W5aMqmNi8GG3geS5yg--
+X-YMailISG: RNFeTZkWLDutQfMuvOWVVlygBP18wIgaCtQ7HHQ5R_5NTY_4
+ GkoaERWj1oPZGFakZdqNibZK50j70b6WbNiUkpEdeEdDlW0g2hRuHxxE_EHS
+ mg1Xv7VgyCtCP04ZqatOlreEO061G.sL0N_TJigLup4sqroC9YKw4K9Cbs4L
+ .DIV0bHzyHLc4LSJtFrLTMbPVGWTA8x.bP7j9G0Rgt_HgJ2Xdxoim9t0ca3s
+ IdAy5L.Pg6vewEh4fSBfQtYuQB9fXtdO7eMTgd_g1xE6rl2fbHitxvJM6ZwH
+ uzC2_nJ9DG8BoBT3t6uO_XHcCsLk4WbYrCsrTaZSsMBmutTodWAKQ3dhLdRA
+ eStFy2bmRE0.i2Xy14FSx4EhJILtUf8uk5TtBsBmOHrOCLLBhRHDwsVH0lRz
+ kLcaPx8tbncYZV7D8QsF0cHSMS2hMGnqyFO7H5SOZ8uqxHaC_indkszr5ofA
+ E5dpwVioz3oZnpeQrM5oGibLhqfOn.iOhagD5844V5am.rqyr6gcMZXzPlKN
+ 32kK2YwIzg530xxcQJOf_AgghDb2irznIgdLeLOAUXI3UJUt_3dKi7Hkoxk8
+ C.ZjCMP0ld1MmeTTZARlnlh8Ek7JidONVARBJqfCGq5GSLnQLTcdTYgBx450
+ 2kDbhoxWSPp6DjdXzdwTwceNBzw8n2gpwArpkzoRhDNPg1C4jy8Ubw1Kr_OY
+ Sz4xWS_WAqKmBo89_E25lS3gzlM2GaxaakAFYbMuAGM6z40hIejbrCa_mN0I
+ Pk4f3a6nJpD_Iuyg57gYKmRHWaBu4gZ8ZHi5KlA5pzwb6Om_ZzlQ83Wx65Yu
+ vgRD3x.HtzIMaCPagIjK.wn3TxBmPjxtmDOOq96GCMZZ3G.yL8Z17x4Okz8o
+ Y_ebN7XTzsmB0QDIOQUWNvv1evW6NS_PCcQmpQ3oSc4U3fYWA6M_Htb10CmW
+ 894NRipGuCUPWWZOB1ru_tUa4q11hKDeKNUPZMvspWnA.w0iSh.SQ16bmvSC
+ E5XO0Fohk3LMdrg9M0njSFk2avB4v2rhk9ZqovYWX2HnaWzeT0zTUlpsxTjl
+ GMbiMWdfngVmvXYHzbqYJaI7OxrIgeXrq6vN5TEKzJbKrVZCQzDFMekK5AyH
+ eJaxP0Zma9efdeSKUa.9sO7XuEJ11_wxb1XwUHgQg7UteVbUDZ5kr4mjoSsT
+ Qq7p3KveebPoFQn3gR4FFT95iysoYb5QWuSdMx6IgP461YxnQcAXz53uHJy1
+ 827n_1Q8gaO4J3_DYPKJtww9H0AyjzxvHr6e1peu5Jouv14gsPPiOn_1aawi
+ oGLyHgGeDBl.2PbGPQ5w_MxgONmj04Z16nDBptHjUpHXqzFFpVFaROKLtLYY
+ Oc9dQgOo5g--
+Received: from 40.107.91.133 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.253.62.154 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 21:29:47 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Ojad6y6LAs3y2y8UuGrPyDTEmeS6kN5f35D6MX6vB6rfnHGtXJGrqG1EgwkdfJs2sLcMFE70v7MJu7YOJKXnYxsd+0RhCepIFQzIL4OIcoypRl5rb539NkkjLXRdwD9/H/jf9ssMBA6Ye5do1F0MCjl2BH0XzksnYfngZgtZirkQEx/Vl7zNKjpBtNdA2TIFZs1lyp5167xlSpu3JSxhv9kKhx4QoJP7JPTkLO4Lrf2Z5ULOTkCpmI+ewBTTiUgp1fjSW4CzBm+jMHPfTRU8ors4lljTzv3t+SSgJgZmQ0uZNIUgWZcYtVGeGNJw9PjoysD3dWBJTP5CGUa2GISm9A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=JA7IoFWblZqA8+3I/OckP2aKvxfAA8W+f4ONzpwwp3U=;
+ b=BAJseh83aqsmhe2hPCIrSKCedU7bfqJtJ7Z2UlaH866Dnwg0FDw0lnRUTUgEgaSfwpegfuzg8/TLCfV4toGevORG2CiaYHsgZBkVpyMUx7fMEtUm2A2JLqxF+a5HMDdlUPFAP/C3kujE4Hr5y2e7j2gm3BbrnbaQ+6xqVd7vt0QknjNfu6O3cW9TYIjNcEu9UnLMggJ/ovyAuuAFUgMW3o5mqtUgWceHnp4ReiiCZ0B4rrJaJDKyn0LXSJdH1uPq51XdMGCbZp2kG+AhfRM89teK0ptrf+KD7J7y4rTMvo5STi6vxiM365dN9WgJ9NQF+vtpJK6+g8wjbGpjH+Ij3w==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=madison.oh.gov; dmarc=pass action=none
+ header.from=madison.oh.gov; dkim=pass header.d=madison.oh.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=madisonoh.onmicrosoft.com; s=selector2-madisonoh-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=JA7IoFWblZqA8+3I/OckP2aKvxfAA8W+f4ONzpwwp3U=;
+ b=VUfdN+XR3A1cuPNJEemX4QieOI3IzjsVrXTxji3BKBMp1f4DDvUScjyFGQb3f+srOirAN3KyZJKeveZSFT91vM4I++8d6om3mSmdlBrwgaFznSIqMUXM9MlqyNf1DvsuX9fC8isTbyU7UMl0+o58FTpGEJtGOn7LrLXZ21UM2RY=
+Received: from SA0PR09MB7163.namprd09.prod.outlook.com (2603:10b6:806:7a::20)
+ by BLAPR09MB6609.namprd09.prod.outlook.com (2603:10b6:208:2a4::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Fri, 2 Sep
+ 2022 21:29:44 +0000
+Received: from SA0PR09MB7163.namprd09.prod.outlook.com
+ ([fe80::3037:58e4:e1f:3d0f]) by SA0PR09MB7163.namprd09.prod.outlook.com
+ ([fe80::3037:58e4:e1f:3d0f%5]) with mapi id 15.20.5588.012; Fri, 2 Sep 2022
+ 21:29:44 +0000
+From: Nick Adkins <Nick.Adkins@madison.oh.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYvwlrt7hdaiHa3U633md5IKRxEg==
+Date: Fri, 2 Sep 2022 21:29:44 +0000
+Message-ID: <bce894a0b80048c0b8f7adc61ffd0479@madison.oh.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 025386c6-7e82-4d58-aa95-08da8d2a40e4
+x-ms-traffictypediagnostic: BLAPR09MB6609:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ zGKCy4IMAw1TRoCVSOaYpI6uj9GeJ2z1Gx+qzP0bmBR+0LnLqgbNJtkAn6EsHG+NBP97J1V0NDKumiTM16PqtKtVQak6cAJ2TPBtLGoQn4dkYCrWADaXcJ/IkZ9MjL7XjFQ04KxA0MN6zG7hIwZ3gw6OSoK1NW1NHoP1yF4/zuOwD2dAEQ17edh/Wv7SvLl488UVrUIXweTBIDDGxHBRUUTPNGGVV9QB+EmMAwaEbRB0TG/cNwt8Wehq7TpuVrEhfdAB3F8by1SxOQVqvOszQUYFcVMFEcC584YqcBlGdNVNZ1Sh951o++pBPDNnHMUjMYdlVdPXP/w2WQZBT4K1ksUYwdjcICD+8KR1BBUyBHipAGDWi+4U6BYThdTxjIDJEFOojFNK9DC5bnjRco0AYp++VTi6yJUN7TyKZmXA6ZkvnT/L1KI/j0mONd8tzTunRPXGs0PWjE+GJB73VlOjvQ==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR09MB7163.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(366004)(86362001)(4270600006)(8936002)(24736004)(6506007)(2906002)(6916009)(6512007)(122000001)(88996005)(66446008)(108616005)(66946007)(71200400001)(64756008)(66476007)(6486002)(66556008)(186003)(8676002)(621065003)(2616005)(73894004)(498600001);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?FuyjivKw9IIj7tGT2d3lh2o/SzVBK+7PS6nD495p494K9QF/MQG3OBVHlgNh?=
+ =?us-ascii?Q?6/SHbWFcP/PYy6FKPvsUY1r9vEPZYEGAL4CKoEHWzn73c68S3ZvbFfvWcNkq?=
+ =?us-ascii?Q?fCKTewDDgsnEmOsfsW5hEPMYSBFeA1VD36JT5iAAFyIy/9oTYogGvAhSQNEa?=
+ =?us-ascii?Q?K5N7uWkX/Fk0HP8HhE57KMWm0vokyvDT9G+E8yiI1dYtWlc8FgkD4/6+1A+P?=
+ =?us-ascii?Q?7Xp+5aFx7ewwCDuvCqb5oseUMJAVJcQarGmRNuEt7NSxIQE/6x9PZyZccaMS?=
+ =?us-ascii?Q?XTQ4EGujNMWZFXf+pHMLDxVZwaTO0RBAD1Bi76/1ZHrwMHbcBuMo4eJrvpHE?=
+ =?us-ascii?Q?YiWFOpLRNFFEfVy5dooV4a9WOJNWvHY3V67Tm52DpQQ0kmZv40IbwGpCA7BK?=
+ =?us-ascii?Q?0mbthxpdF/SJ4c6vJZyS1NjaRiOHFOglCxAcd1JKjYIYBdPdmo9WIYBOOZKa?=
+ =?us-ascii?Q?3mmnltrYGOKWoAVUYYARztNFAfljsuJXhjPJM3j+uhBOYMr7MoQh8Za0k8Hp?=
+ =?us-ascii?Q?R7lZCdiGdY58SuVU5F9w0XCAWnFqGLCHEvLg/K5hrXCWiMpkA+uJlxVr3miC?=
+ =?us-ascii?Q?1nHLFvN0adiYpMAGwHT/DIvmUpp8YmQVgJ4Y1gMKFfMmLtvXI1IFbaczMD/6?=
+ =?us-ascii?Q?ZU2tIwWL7URGkwd1qSyRil7rDWll2QjbtnuFR7/4DiVuKNKyltJT2OCvEhGn?=
+ =?us-ascii?Q?LmmGgY0ewO0qzrF2bAUU9s4utqkldNl7faWIf1zjcaXG09wyj5NT4ETMi4FM?=
+ =?us-ascii?Q?6W1BX/ivO6/S0+lIqYLpa+HqyxZ1abJaeV4KgDWufWPARdWML/Yjk8LoBAEn?=
+ =?us-ascii?Q?Nrc0zffs7j4YwlKycq+Rj2Qa8lh0vZfPWg02dS1IhJIhOjllxsLFB35gsYln?=
+ =?us-ascii?Q?ikTnbPm8IUnyCCVdhxG2wnVQe9UKLP5hCWXk2ISAElKP11Oh63Y11AjaiT2J?=
+ =?us-ascii?Q?694vpRN6bvhyG8J7+B4N4nYI9kBREUt63E3j7SLNgf3XBKvECL+NuDvClvMC?=
+ =?us-ascii?Q?XLmUPXZCd0RBsBjsvFc9Avk8ucccx5J4ZquHc0gQEZe7lFNYt0WeStRyeBFt?=
+ =?us-ascii?Q?Kp7KEhnEPAccwauZfBFgAi4UWiynFvt3r47NCU3ZZJWPS+yuEoV7dswO4p86?=
+ =?us-ascii?Q?R06Y8eECfKgv/8HSMtQlJB8p1DYRnFU3xGGd+GVVPGiRDwfzntB8urpIVsxs?=
+ =?us-ascii?Q?TyC6OOk2SILsO/2/lI2O0P2Zbynzt7ozhL0u3C/F7gdGg7yE8lrStgLltGC0?=
+ =?us-ascii?Q?cNaFR+59F0uC9ladoxVSS5jz7o/Nd7/LpSVGgxf6HzhGmJwO/moCo5xZrPXw?=
+ =?us-ascii?Q?q82MZ6Z0ijXBNsiTsGycU/SokKt+ezF5j7FvCOU8svOByGR1BV+1kJFWOGio?=
+ =?us-ascii?Q?W59jCHsOUDJRpUjgUGk3JjSUC4Y4KXvsoPaa2HlP7OeW3d1xcH96bkT28vLK?=
+ =?us-ascii?Q?63kT+vlmTfP+0yvdUYi/Odskz7dV/GDp7rvbrcd5RX+zZpYQZEc/ww=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: madison.oh.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA0PR09MB7163.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 025386c6-7e82-4d58-aa95-08da8d2a40e4
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Sep 2022 21:29:44.2591
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: b9b2d16d-cf20-4fc5-9105-8dee90652eda
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLAPR09MB6609
+Content-Length: 2066
+
+--_000_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_
+Content-Type: multipart/alternative;
+	boundary="_002_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_"
+
+--_002_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Nick Adkins
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Friday, September 2, 2022 5:29:44 PM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Nick Adkins<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 5:29:44 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_--
+
+--_000_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; Nick.Adkins@madison.oh.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: kw6yrSOzGkmYG787Q/PhKA==
+Original-Message-ID: <acd111ab-80d6-a30a-a6d7-8ec1a9c50cb6@yahoo.com>
+X-Display-Name: Nick Adkins
+
+
+--_000_bce894a0b80048c0b8f7adc61ffd0479madisonohgov_--

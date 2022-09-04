@@ -1,0 +1,201 @@
+From - Fri Sep  2 16:58:23 2022
+X-Account-Key: account1
+X-UIDL: AG191HE0gM86YxIX7wi+SOUo3es
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.152.9
+ by atlas115.free.mail.ne1.yahoo.com with HTTPS; Fri, 2 Sep 2022 14:49:19 +0000
+Return-Path: <pietro.villani@icmpmusic.com>
+X-Originating-Ip: [40.107.6.84]
+Received-SPF: pass (domain of icmpmusic.com designates 40.107.6.84 as permitted sender)
+Authentication-Results: atlas115.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icmpmusic.com header.s=selector1;
+ spf=pass smtp.mailfrom=icmpmusic.com;
+ dmarc=pass(p=REJECT) header.from=icmpmusic.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 14:49:19 +0000
+X-YMailISG: XqRY75oWLDv4E7IxCdFezXCfnMr2NbT3PSMVw4uUYJqvy9Gt
+ IXu.9_rHHbNQGlBZeMVeXFN8n6RSxvdr6sZjX_.ot.Kn5y7awIjSqZEU.GJW
+ kacBTpOvjxshW18l9JRrN7dsbuXDVPgOu3X_LrozfN0L3IVysjHNbh1UBaSq
+ gkZhrBVB4AKxGSOdvEYztiVjHu_GbcNJsaW49upkEWG7ytYHIZWTLEoAMdh3
+ K6J5Yd9RtFpvDtzv7DTjgs5RnWHvHDx2YN1w7RdtXjVRTDSYGOp59PHOkUVP
+ VWdXBg5ksmYrYaH0Q5_6ObkgFQ6.pzgwiBWC1DTzU7CMf6Q3xqixz1.cnZCx
+ R7O8f7NSNWkjic5MRageuyxA8BPzt.hCmvgAOa8r.SSbWoS3md1Aim8rMjMm
+ .LDkK8ZAYMH7kUafaxDOG1ZCNohKOTNh9mxjbfl0qzAf3tzMaHcKI0l78n0M
+ mAyipb1hzl2S3KvkO7COtBIZnrKKkIbZkdDj3zLkZoHtAyyUarWiorJ97lWt
+ r.Y.AscxK4Z1THxaCYETXpvO.K7KO.88F9x.eiEySFTydI8T3Xf119X9Pfo2
+ 6jW35.QhAO0U8QPn074Wwgcm1TA3PEhKTJfd5bK3Gv57tFXC_tpsTVCnpCmz
+ oEpXyjr7WqKWcVQSJct9FMKgb.3JE93DE5Tf9iVjOrvWPohB0p1D_59wzg5Y
+ mavikYSFdg77JtS9I8hA8rAsVT9QKc8rhYT2.TmqydNKEkuxtgOYKHAtUMNi
+ DKmwKfHdvznWEKpYU46E3oJLQQyWnId.g6WtXXldhHCn0lEwvFN2vN1lyDy2
+ uqs.8ZzvQCItn2Vs5_7dC1ewlB9vPNJ40Pg.I8IjqI.t52x4X0.8Jk2SYfUg
+ r_JWw9RRQTvSinMYZY.zcjwjZmgJ.lVKpm8R2s5_w6ROeZg_1ooItE5fVrSL
+ djBbm4Cy66uB63PSsQXKrGm_nNlQ0FxmLRYD2jXV1ioQzISSdTQt5mXmad1a
+ 36LVTximwGsXO6b7CSmo_66.OjGSjbzOWbziAUQDg1HcJLAMD9Tlf.rU_MWE
+ 1qquTUorGiTnuJeTPzRxbxQEB53gbg44FYVKh7Ft_TyFHWDoMpUoeSipfQHY
+ tpTFYHwq5Uo11AM5AlwiwgxGD4i7BNiHNnONqOpKd.8U7o0Jr4I5Is.Nwv6n
+ ZNfpA5_3yi_BIBRD0IMi6xzHgsPLLy7Tc6jb.baB6cS5DxzumUxjEpBFCk0X
+ 0CelusRAtAgVPVmJy0C7D1jQnu.y0cSAveBpjwMweQjepZYRLPkAgkBiSABJ
+ Qt4SO4dNGsS8o1ia4_eWNG.Dcelgpr_vI2TyQgrsDQh43ZnURtFZ
+Received: from 40.107.6.84 (EHLO EUR04-DB3-obe.outbound.protection.outlook.com)
+ by 10.217.152.9 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 14:49:19 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=GGITULXITzylVMjwnn//0C7lvpevFzg7xXbggrYc1RZ2Pq/dGqphWuYbzF8ayydoOQXnfNpT53Q3IzFFoL4Im4Yi7eoML5SzIJDWte9setZyjGKEWv88OYUlWxtiJWmBpmBe9E9mx8mK3LYUn/wo/d1Z2atKKG0ITE1d7/iT1051Mn1FBzymtu2b9WSkiuWiXBky3LA2ObEb+BUklIAMHH1e4/+zMoBeanLVFb9yAx/UiQfN64Xj5rgGDeQLckuV/DmV+7uGNhfM3jypQN+Bp6bnTnxnlTz3jGDSlPblMlioy83M3FZ6jqQ7Bbdc7ll4cyNfSpJmFjzFPhQrd3LskQ==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=ju6F8jNI5MqJPIeglP3YLDOS/N4biJVWF/5UbmjmetU=;
+ b=aDkZvbJ/PUXcAgeW38xoepN4s5vbtzGE0guhpFu8bNqA8Y3FOQvA38Uuzlupj/mtdm1ASzWwVaWdQ6QeWlk4NG7E//wqGg0hDjTdkrGzdAp0b0fuQPqP7u5tv55m6n0murZCOBx9evvHDVWmuckiJRIYRQK2EdrvcM/bTfKWGcejCAPuJJMFkTcdqS+hcobVvPshQ5LWU4mV+wkyyA8hGuANhANm1bmnd+hfgtdHZP8UpxfgzF1jNHBARHM3V5hyXetHbLpkpswvauOlp0CD17l1r7gaDxXlGVV9YH/2mXy8f0EhKSK8sR7ewN+r523Oh2+773R9jMwpH8NgFweSHA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=icmpmusic.com; dmarc=pass action=none
+ header.from=icmpmusic.com; dkim=pass header.d=icmpmusic.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icmpmusic.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ju6F8jNI5MqJPIeglP3YLDOS/N4biJVWF/5UbmjmetU=;
+ b=pPoEqXLhEnP3xTifBX3URAMM31uuTsWDlAAJI/tm3CVZ30meq0rkq80Zkkv5BCstErMjQ2+2o+I2ixfMB+V4M6jz1qNvvxH76rkQJVCnaJneby7Abv8Pw/2xjHHU52LoCPNg4XciSgCd+PilwcXGZ2XMS52JICZ5bg3zZgribYI2dGxgMfI+59cR6O9dlWbujEhKiGDzRnJyF8j2cTuK2lq4rZgcUHneRyrrngSblsrQaKzJss2gAV8GFBZIVs8A5BB8Z25XUsIF9GjKxyd+dRF8IviI8Q30cygeRroEjMCpyUGmkLbAzhrrArfWfuJtz3QapcO7X/lV+44tQLtzlQ==
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com (2603:10a6:208:a::26)
+ by VE1PR05MB7421.eurprd05.prod.outlook.com (2603:10a6:800:1b1::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.12; Fri, 2 Sep
+ 2022 14:49:14 +0000
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788]) by AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788%3]) with mapi id 15.20.5588.014; Fri, 2 Sep 2022
+ 14:49:14 +0000
+From: Pietro Villani | ICMP <pietro.villani@icmpmusic.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read:
+ https://github.com/BSCPGROUPHOLDINGSLLC/REPO1/raw/bdc3986eccdc81766e55e2ee1d440c8b7140c8c9/MUGSHOTS%20OF%20STONEHEARST%20ASYLUM.pdf
+Thread-Topic:
+ https://github.com/BSCPGROUPHOLDINGSLLC/REPO1/raw/bdc3986eccdc81766e55e2ee1d440c8b7140c8c9/MUGSHOTS%20OF%20STONEHEARST%20ASYLUM.pdf
+Thread-Index: AQHYsHeA4NC45wJ5ikWR5AL1iEKP3a3MVWKe
+Date: Fri, 2 Sep 2022 14:49:13 +0000
+Message-ID:
+ <AM0PR0502MB4050941E26EE44ADCDB23EAF817A9@AM0PR0502MB4050.eurprd05.prod.outlook.com>
+In-Reply-To: <ad88272b-6c40-0845-fd40-c255912b24f0@yahoo.com>
+Accept-Language: en-BE, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 908d4111-edfa-4293-b29d-08da8cf24daf
+x-ms-traffictypediagnostic: VE1PR05MB7421:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ JRyBT9S40D9VXSbdAGkpddikbZjFRRjA9rKNC7p73oFqivXgWqJztWwhjIG+W7h9vUWW48Ese6SkWhZRWVsLOXE7JFUdYuu3C3wS9p/oMZWM4yEwTScHxwaUsoeRQiInvnOVd80kopP2swGjfxPxivNpx1AfY7sV6Jsd8ncbg+fmzehGMtnWF3e2EC3SPCjPCFQGXy6AFaF408UN1Eqoc3HV65l1sz1FzGWQTDdE2r6j6seNffCCRTU76LiHwb/3XRzAPCYsY0qwbUBSzmS8X9v/cMTSpQdJ+lTb3bxl5LTORXUwAwhVqQDxSAKCPW6Xd2yREYMR+nKDyojKoAHVEqWgkIUYHKq53oojizl9U8irQDpaWdEa/z2aM72UwvZY2GDzSdNh5cpuGs4tiH3jAjQ1UF2eCKElGN9ZBlEBQJCYBVLoKlasQz8y/KLa8Ibfn/BTPF9BJTF3MJs6KN7rbLJswoYMU1V5mbNSpkp9w93Lr5qGcVfRW9pHOSgyvRd39J4eCPk5FZl7lqhlxoFzbGrxR8a96Hul2UVqCXdHwxYFa6l84PFIlXSWeNVWpQc6
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AM0PR0502MB4050.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(376002)(346002)(396003)(136003)(39830400003)(366004)(26005)(4270600006)(9686003)(73894004)(621065003)(186003)(86362001)(122000001)(38100700002)(38070700005)(64756008)(55016003)(66476007)(52536014)(33656002)(316002)(8676002)(6916009)(66446008)(8936002)(66946007)(41300700001)(66556008)(7696005)(6506007)(76116006)(71200400001)(478600001)(2906002)(134963001);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?fiOAW+wuw4NKAtHIj0yh4wcs0P/aV86iU5i4FkEWu9+8USUaJ8EEbjnPzABB?=
+ =?us-ascii?Q?3ziOcWfhQeZFu2oQHoOvkaVCVwjNNI/xUoW5wl5fgzhDJwLrt9iKfI7x+v1L?=
+ =?us-ascii?Q?bIWNX9cyG/uidF0fT7icNBnfD+shaEa69GhCtGOyyBp30u0Yo13b4O4U74fz?=
+ =?us-ascii?Q?n0nce7TI0oaV30Sn3EgwVqGsE12F3+f0iSyPsZB1EkSrYIwenpHWUqRYUibz?=
+ =?us-ascii?Q?MdL1blD3lYXZrt75ygjC2g3x7V2Xaqq46pmlGKV8ieao/f88EPEUCIv38yty?=
+ =?us-ascii?Q?b4yeJ51Gc6HygKRGrKH1qLPuEBgPRCJbIB0bOah3heMfx7LTq2x7/1LL62p4?=
+ =?us-ascii?Q?BiYMf6ZJxEpkyhLit6ffEF21IBUYMZJrelQTpeINTL+WN/smaPhy6DY1fw+e?=
+ =?us-ascii?Q?7ipyuLQVzDdhP4kxD2bXwCdCX5IFmSiieavosgjf8d0mhuwWwUZaBjf8h6FG?=
+ =?us-ascii?Q?MfqLuYweC/WKcF/mmm86Df+38jDViJInRpoKLKUE+2nGmxEYCDK3FbQ1waHS?=
+ =?us-ascii?Q?mVEPWGV3PfXLmdZoWKa3pBg9pGdl/clGKCONt1LHtmpYNV8iPfrkzN6feK8Z?=
+ =?us-ascii?Q?BFaOGyIVF2kqBmY3LAf+i+41Q+Wv1QeKsSMfyNvMIvF4dzN+vZ/cPpvrq9NN?=
+ =?us-ascii?Q?GsmiuCF9/gX5R4PhcAFjMC6LSlwtlaYdphUqFeml3/kz/UXCv71BtvT2mIUJ?=
+ =?us-ascii?Q?yi0TlW1Vmg7VZ5kYwcGKTDsoPw+LM0FTeKAWiDohGabo8QDDBeyQojCwtWqI?=
+ =?us-ascii?Q?DIgeDDmgUqNUtyInb+7/sbsB+b7+N0ohEm1SbCyZu1S2DkHtykxW4A6qC0hY?=
+ =?us-ascii?Q?keDXFXXkgGqK8Qfctag33eEdQ72ETtSeeU/X6cpxp0OD/4kY8q1cNwV81JVe?=
+ =?us-ascii?Q?Hkyp3NHVJ58SyLrUJS5wrjPSfMWwCGDqE2YSS+icLaZStZ8d9cq6sagsj3NC?=
+ =?us-ascii?Q?9ceiFArPyN3ScT9LXrrL6YPrzTWWpcCoM02Ur1AIeylcCJwRtPpEqwOSo5S8?=
+ =?us-ascii?Q?or79kpJujAdf8G0E4IK4aZMdXN2PHW91/xDGaC8zCMEzW5BngVbnpwr+K7lX?=
+ =?us-ascii?Q?QP6bz1Ih3dMM2kaTDaix0gaNAD/OIY35KN+S/xYOUtHno1vV51Qh+S0hziKX?=
+ =?us-ascii?Q?eCZPoa4d4jClN8J+bh7y4Q2d4nDfSYfz7pHoEtVx50WVnyJLRwteHJwsWpCn?=
+ =?us-ascii?Q?woiMvN+ocJ5tLewEKIbTJ7fkbjJYbfjoFqBrvd0QGgjAoiCQX0DLUZ3LsIEk?=
+ =?us-ascii?Q?qk/mffn1+6ybUfodyDRFOZJR1rlMGhpyY3ry/aAPh+STlxd12InbQJXRcGYS?=
+ =?us-ascii?Q?FVFoCaRvbsbjbrDtUVGa4vQBzpANMLwZIJ1UTqVH+s+vYxOcoc9qdA/qWq3C?=
+ =?us-ascii?Q?3m2Z3qiLzS03v99m/eeYV9DYmwMubTpoPG2HyE9WYs8DHUNBjlq+gggBPsSw?=
+ =?us-ascii?Q?ng/NO5T1jPR71PkeLrGUGRA9UN1keY1Y6n9c0/y8heZ4LOQ8ElyJWAJiNKO6?=
+ =?us-ascii?Q?5xXIZ7OlVYzMVkwP+dXB/gN8EB2Z5O0rlEtLS/aCObxaPR6ZjxzPqCAc7UDn?=
+ =?us-ascii?Q?jRgrf/TpdLxbcrZI+gDz2687X2/Du/JuAHfgFuQo5DIWSgJO806ZwxuxdXjP?=
+ =?us-ascii?Q?cg=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: icmpmusic.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: AM0PR0502MB4050.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 908d4111-edfa-4293-b29d-08da8cf24daf
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Sep 2022 14:49:13.5462
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 28a4cc59-64d7-4629-87bf-20744de61c93
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: NfIDTkcQspW2tPbfX+WSmV7pHSV5sP69K1kMTLMs/lCb+ojvF6+PPqXQq4lBgpC4y2P1KeTfUrtTVCc3jISCAjlfva6Gfk/6HDz8fUR5YYM=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1PR05MB7421
+Content-Length: 2345
+
+--_000_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_
+Content-Type: multipart/alternative;
+	boundary="_002_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_"
+
+--_002_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Pietro Villani | ICMP
+   Subject: https://github.com/BSCPGROUPHOLDINGSLLC/REPO1/raw/bdc3986eccdc8=
+1766e55e2ee1d440c8b7140c8c9/MUGSHOTS%20OF%20STONEHEARST%20ASYLUM.pdf
+   Sent: Monday, August 15, 2022 9:18:04 AM (UTC+01:00) Brussels, Copenhage=
+n, Madrid, Paris
+
+ was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels, Cop=
+enhagen, Madrid, Paris.
+
+--_002_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Pietro Villani | ICMP<br>
+&nbsp;&nbsp; Subject: <a href=3D"https://github.com/BSCPGROUPHOLDINGSLLC/RE=
+PO1/raw/bdc3986eccdc81766e55e2ee1d440c8b7140c8c9/MUGSHOTS%20OF%20STONEHEARS=
+T%20ASYLUM.pdf">
+https://github.com/BSCPGROUPHOLDINGSLLC/REPO1/raw/bdc3986eccdc81766e55e2ee1=
+d440c8b7140c8c9/MUGSHOTS%20OF%20STONEHEARST%20ASYLUM.pdf</a><br>
+&nbsp;&nbsp; Sent: Monday, August 15, 2022 9:18:04 AM (UTC+01:00) Brussels,=
+ Copenhagen, Madrid, Paris<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels=
+, Copenhagen, Madrid, Paris.</div>
+</span></font>
+</body>
+</html>
+
+--_002_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_--
+
+--_000_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; pietro.villani@icmpmusic.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 00nYMPwfa0C1cAD5nd0U8A==
+X-Display-Name: Pietro Villani | ICMP
+
+
+--_000_AM0PR0502MB4050941E26EE44ADCDB23EAF817A9AM0PR0502MB4050_--

@@ -1,0 +1,212 @@
+From - Fri Sep  2 15:20:16 2022
+X-Account-Key: account1
+X-UIDL: AJZT4npHbS84YxCwdQFEOAmXVxs
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Thu, 1 Sep 2022 13:15:32 +0000
+Return-Path: <CHAJDON.MONESTINE@nypd.org>
+X-Originating-Ip: [40.107.91.95]
+Received-SPF: pass (domain of nypd.org designates 40.107.91.95 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 13:15:32 +0000
+X-YMailAVSC: uja7k3E3bBuenKrCt9GIq9fA_UuvSj5a8Q6eiY8Hgz7ejeR
+ PkvV6.a6tvTSx.q6GXo4i6nDmrBh2Rve67HBqt2mB6i1ogbTlZKqNDt9McHB
+ soIT0Z9Uj0VHNN7.2_et7n8rojdw2gSFsVIrisHXbbhA5yy34lIdeEjMxcm0
+ UJ6P48dkdQxawUCxoecscmpbKMzWYAoZkoNbJkhJ4yns4hFRk1biOxKye29P
+ xlQPPPbt8hYaTFL4AGN.YERI1cEx249U0nsz8YIUU7Yg7IFBQHOsoW99sgX3
+ QDAbeQaggF4jI1aChKl1RqAwI7kSE1gvJL5AOWKeUIyXXXLGkFZxxBWWQowR
+ 5S2sPpQ0DfWZJrPM.D5zs3jD1zcl8DqB5Ta8uEzieNyHKvvsXw4JClCEyA7y
+ 3_92hEtO4MTYrDNKpV._YWOLfjR78mN0C1yYDmBET0SgH.JfAHC54rxBCIo3
+ 9.xq8sDKQ.HcgjzZtz94hmA1XK36pT3SaYHX1AOR6ZgVa5FcFFVdY7fhXr.q
+ SMYTSS4K7uExBZHqCvsZDYSJ7M5dFipKEayjhi2RDvEKcDX5kCkM5crmJt9n
+ YV7W3dgTn6VoUMQ5OO_RSwIEBt9ZxgQ_2lpv8QfMvNBMwzh.iCusWKmmu8ko
+ 1LifxmIBmAL1OW3hr_4trb5uWejyYwKvhyOPFLOwsmaNwJyFbB5nvwImLp5t
+ 7wjAGBhwpEU8eRJNpyEFam2x2alns.Wgq1AuTZoKrRi6UiyeNvVQiMOB8.YT
+ 4M3XgrdA2BtbVK1gXOvk88keg6Ti._63s_HlXuTQkQ.i8K5PEgsbbHc2UVHk
+ AFCWtiNAS.hLE9ks9ZoqSwrm.sc_FQa1.aS3nXewXF6cSE_XTun.Bj52figq
+ jfASepIeIKl3EugIbiRc2kTaScVS1n3roSQneSkI1Gf72RP9eX2Uz5TuPJHy
+ ofSqmzEWUeHRLjj1fRn2L3gKJBV7lsnjxwU3ey2d4wpQ0_JJfxnbSr7ZUTf1
+ kICjWlQBStnnjP3MF7ugeTMlktKTP34D_OHmv0M4tJTFcqPDATIx5UhwO5Hw
+ 6QZpVWECGj5HTg2w3uLyoFWmLeUTbdbCHR8zKgNmBJCsMtaOB2UJkxp2u_6x
+ loOv0xNqDFidn5S6VYwEz5ZaBI3QlwsqxRXcplfg_RFfaE.dwPXE9V9A-
+X-YMailISG: fsPFyOkWLDvkyoXNxqbCLgSknsuVh6RjZqrrwiZi9RSM.BQG
+ fjayB1_Sc9RFolIgCRxzoClZVVURKZ9Xv9gf5KjcuP32KMjYPrUOPPgH.tKB
+ ezmt8m8L6YbLNuePxxFr7.LXsrxkx6PFRi6suIfCj1110q4Rjzku97_Dz8RT
+ GeoiDKMQngbE9uBg6Ajk5fNO_0wRUkMUrSoq96zLXiT2HpmuRjFss7aLVA0N
+ YUkuHPxWC12lcJzOVa3XLasOzzRmoNIKPYZhkHlDhk2Kgtjci.S9_bfOgs54
+ pHwL_Rj7vkf3FZ4yBupgw6UMID9Umj255dpylWgl6qXRTMMfRlbJUwAQs06E
+ yvfAqvHiVQSP91RHAQxIYfNJ4LEfITPVrcRc_im.K2wR0jGzFPXgWMZxExNQ
+ SadWSS7EofKX6bhDYrDQS7mQsWj2ZafB4awInL8.hOqkFHvlLK5hPN7n96jb
+ HaXYiN0cvl9NwgetTzTNba12euvEUwUgIvn.31kwT23hNNvnBWw.8Kz77OzK
+ c95LrFC7tCzQDduMYAqydFwrQJukNlrihQ_.ks2Pia6jGt3Us45TA4wFz4wT
+ .JNowhWswB_qAPwbzu3vdRndadoiyzm4o80u312NCmfPwgbgh9LRrPHggcMc
+ uCaA9itVTWhLRcG8NqiMuBcZQ0kEfpoiSaVXUVdQJPhLoZpB05MtngI79A0b
+ FNfVkQWJ2xlmR2PuKgD5P6DsuhgGD7EQpGahmpvkZl9ljowYa7PjXLAsVzRS
+ xyMiovjynqTuSkhCZkvt_UN0btM8.XlOHqEC984dxNzQkrQSHxLm_YQRAo3p
+ 1JUhzX4I1ASRdyCzsb1rm5phs8nJu8zQ8ZHIXlcu988bSbzL3xgEGeYErvl3
+ oEzIun6ng8XFhhYZ0D7u2onqyi4O8mCHOgAIVGxm1ri25YDgzU2XzoPBqNdA
+ rvwQGwwOEUALSQgIvilC71O2QuxNsFRVsSbKdVDUpgrmjQJVtuW4WUDxwQL.
+ pc.B6NCcEa_AK2feA4I38WHt0NsQ9Z_jn6y36WXkpuH0pqimAFoS_WyrvtIq
+ jyxJ0Js_YpUauoaZS1FMETFYdTylAOYKOxRFGbkpbO0rcFqP1MrFtTcurffs
+ ulzzyWPoaFA9nlO8XAAp4GmLuaL5N70ScILI32XOATNY9pUPNJrRzJauzdoC
+ wZ_RbOhZmTI58j2ZbxtDX075aNjKg3Cul41RXptbuq4JzMggoVbHrHo4XA6p
+ LeXCDS1Gsoq7.9nHzkhT1MuDzBuw9IFRhiFnLeQxrnaQShxKsfYZdmJjtCIq
+ t.LbrsEUe7jkwqAomqnzmolH1_2mbx3ukF3eKWLuP2re1hfqz.AmAFHcjy7j
+ Ztz0
+Received: from 40.107.91.95 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.253.50.154 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 13:15:32 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=FPUMsJmpH9JRlyRHkX3pbAa8xAqmFEGfw7XFAxAZGV5Nbn8WVlpdJIn5ViJQYps5zIF99A9lFiApAHeVz178HQiWqOZxLNp0vd7iLaGl/xWVA5Iq3tqlKSNqvprqIngx3eUpV/F449XFD7ZDlmT+ABi4T5LECTMMV+PideHmYPBKVjypeOOjCeTEe4v9WNb1tL3TACt2Ud96wvuBSltG/0l2ZHz40qYqqQmsdUl3/Y5l/pG9EA10pmxkG9AUjQJ1GTYc65AfNXozelxhtMp3gBF+SHWHwuTyEhExNmvFkyBAHKTnY6JzVckFrYWsZT6GeAVMSDPoijz0CzkColhRWg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=jiJO2LjIBug5nFgf0CW+Vx+fVN9vevvXGbF9oA5TyUQ=;
+ b=n/xkaZz8UawcinfctLAe3VuTQUJvT7kcxR3lDInwzNVvMFFtiw2XXhspQn34d+MRFciRzwibA/4AJaqEs5t8gdS1pOuvEAdmjfuLz0Bt4nSMndjt31/xoWGSy7hdXI02E9VSE8gxDUnAr000O2szidukgbdC3G6ry0ar1v8ul8dRe3fhaTL4edDoWMt08dQPK1iJjNvVwmCInKyHo7v+5qtcHCYdo+hkXSUbwIJFTWZEyBvJo/006ne/O2QnkkR7Z0Z3/+LFsGCXcNEeOyp06U6e0ms4IKFR/ar7cRcEqpGZAbqkjAXu8pso+ONs78e8LcX31q5y+oRiLjfbmNxp8A==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=jiJO2LjIBug5nFgf0CW+Vx+fVN9vevvXGbF9oA5TyUQ=;
+ b=0XnNoLRQZ4HWMKGshpKk+tCanAofD1dba21OtOj4AJ4hFsvZsydNkyZYGuUy9JKGfqgKSBOXAgY8P9usUJvn685qITbeUoPSP6LvJ8gInShy/MSbJMe+fmPzdUwaepbgx/vkEzl5Fkl4+IFKFReH/ltNdBliUJCmdY/2SBnvWoY=
+Received: from SA9PR09MB5360.namprd09.prod.outlook.com (2603:10b6:806:45::18)
+ by PH0PR09MB7625.namprd09.prod.outlook.com (2603:10b6:510:61::21) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.11; Thu, 1 Sep
+ 2022 13:15:31 +0000
+Received: from SA9PR09MB5360.namprd09.prod.outlook.com
+ ([fe80::e8a9:5269:d0c:6d74]) by SA9PR09MB5360.namprd09.prod.outlook.com
+ ([fe80::e8a9:5269:d0c:6d74%8]) with mapi id 15.20.5588.012; Thu, 1 Sep 2022
+ 13:15:31 +0000
+From: "MONESTINE, CHAJDON" <CHAJDON.MONESTINE@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: Fmr. Deputy Director Haines... I found your picture
+ on the internet..
+Thread-Topic: Fwd: Fmr. Deputy Director Haines... I found your picture on the
+ internet..
+Thread-Index: AQHYvberz8GdGswWM0W+Q+zZm7SaIA==
+Date: Thu, 1 Sep 2022 13:15:30 +0000
+Message-ID: <9d33c00064414b57915fdd11937f22c7@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 63328f07-b590-4819-9aca-08da8c1c0ba6
+x-ms-traffictypediagnostic: PH0PR09MB7625:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ le7tj12jZQbTvswhbhDcwp4m30cGlxO87QJTzWXnfisDn5PgY6UNYR83K0FRlPqTZVfCe5DOhvYsAlM/X9WycxIHjWgVfPQmz62tmxo9b9v1plOQvCpiF9HYhKVSFcDliw7tpp8DGsJiy2iler+Bj8irpVZvc0TWIDlTv+0cRro0NdReEKWn8eesVVQJsK4KPyt6vDxL4zC3SgZLWlcCbPNemg+5fGIgl80QUmGlxFJwpVIIvY3lJGb393DUPjuwiHTbKKfdUqdut39DHP/uKhhHN0x/GTHFeeNpbE2s2t0GbPm77CpG9RmML7jecclKXOGjDouhJ5aapHfyCyTDwlgZ7rjA5LH4+siY8ylS2RK0GGE/W0A/g29qpkt2B/ht1SD+XBV4v2LKAju0CN3xs7DKsyLff1m0uSTOZCUvpeiUJuvkINad3IgFUakOf7t8e1ES9ZADRbDsDDJTqcIzJQ==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA9PR09MB5360.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(66946007)(8676002)(66446008)(64756008)(66556008)(6486002)(498600001)(6916009)(71200400001)(66476007)(88996005)(8936002)(2906002)(122000001)(82960400001)(36756003)(86362001)(186003)(73894004)(621065003)(2616005)(6512007)(4270600006)(108616005)(24736004)(6506007);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?l/b4eMQf86wV69hNNTdcveoIMAvSUDIk0JXzujgbkY+jgMfhDHo1/y0XaaN6?=
+ =?us-ascii?Q?JM89rR57F9sgepiHzaxUkKWDt94zwtuIqvprzAR89Nlwl0RNRckcE+A0Lkk9?=
+ =?us-ascii?Q?e4hDy8aP5gGelygikhWEIas2zAoeiv5FK2kmKG7Rsixttw5F8AIWZR1JK9dv?=
+ =?us-ascii?Q?uxt1Ozx0DXHYFO/bscHbGS/JmO23rFn7iykjnemHPI3zGI4FfahF53CG/FgF?=
+ =?us-ascii?Q?SyMMe/JCZRNi+i/npV65BvQ0Qj2+raxIQo9Fk1JRhh2ydkYCZYjo9w+0t2tP?=
+ =?us-ascii?Q?F8OXCuynarPRW8Ly751fItWjpGyyiG26cDXawF5+tIEd8Y0lyu0KQQvfEw+r?=
+ =?us-ascii?Q?tGzYDKBo9HGDdZBiz75Gr+pmyffiMHwkThfbzZkqCzmimPn/ZiXCht6+tKFv?=
+ =?us-ascii?Q?qSMw5t+1KzejMhtTVWYIfmCsDaB5X3/x7MZTAWLd0t7DX607LlxF7ZBUx/0o?=
+ =?us-ascii?Q?b6qBPLd1ZwBS4vHInKUUB710iM76Gsr5eZfwpRoIPcUESbRpGRfrMjDsEZXg?=
+ =?us-ascii?Q?W0ntqEEIVmgJCjqMbSsQqU93g4T/5t+btTvzMZ+WbW4Pl7RlAfpHFO3izmyC?=
+ =?us-ascii?Q?PislwgMfa6/HoNpp6QwuQySTbYkInhwim7VoktQOryUZPK5C8WRCZwIlWJZg?=
+ =?us-ascii?Q?w6YRCLtEsuLSSaJr4x+SI0nk0Ou1HMjPt3HK3RkBqHZ8cwvGM7jE3HpUy7mC?=
+ =?us-ascii?Q?fIlEltFuu2wTXqkgOveXSP1Kg2GHVg6CmCHFiId/VbVXhiiApjqaWKkvJ76G?=
+ =?us-ascii?Q?fYqWrHKXeb+53GsZb8LOeRMhHMLCObIwfEq1ve17kiRj95lKdsRffUvPs4JQ?=
+ =?us-ascii?Q?27ErwZKSLfuVtYixtuqx9KEjPXj9qIuv8Yt+lDLoRehrdVduty6hSDd39m0f?=
+ =?us-ascii?Q?JCW8pmntWLmeZFwF8qv2CSCHnkg1pYu7+aiB9gcrHO97IGck3UxfR2eyTPfX?=
+ =?us-ascii?Q?bC0MtI3972yQag9nJZIdPrZawcivtcuQFJ6F6A3fu8s12XOCPRUdZIh3y+VI?=
+ =?us-ascii?Q?Fj5/AyLhEza9Ns20RG6PTjB4+huFTDH8uDyig8zdZUFEwEzKUqKNn9r5qK9E?=
+ =?us-ascii?Q?T7UTQPOUC3KgrjoObM+Mkds/2WdcRNS2AFV0GEFTMoYn4lEhUbe+CwdnYXft?=
+ =?us-ascii?Q?nfobPBhQulGaXmhCHA2QF/19pvLDJ2vy4o96IYK5ejLXXtEpWIpZXVt0vFeG?=
+ =?us-ascii?Q?ZvDfSmMBskDrWfAtvHZ/eW00lN7H7OWv+xSB556WQWUc1V8XVJ9en96iRp2I?=
+ =?us-ascii?Q?VNwk3bykBBuo2+BhiidiDO4eEmhyePGHaqKpTwPdTkMmYgnJ2rUqwLO3CpHx?=
+ =?us-ascii?Q?TnMRCFY0xELmm3SJLKWg61hiSmaT0j1uRPffmcIHzqObOyPUeHwiXGXXUZK/?=
+ =?us-ascii?Q?NquHOZy91LgWKzICTEYTLS8/xMW/xe6IUIUA5qbcd5i2jPREeD0gUG/u9gnU?=
+ =?us-ascii?Q?Om0JW9ovNZVGfwwCJsCqbfjNff8U2oIoXV5SCdldIz5FL6X1OLc8Eg=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_9d33c00064414b57915fdd11937f22c7nypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA9PR09MB5360.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 63328f07-b590-4819-9aca-08da8c1c0ba6
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 13:15:30.8631
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PH0PR09MB7625
+Content-Length: 2019
+
+--_000_9d33c00064414b57915fdd11937f22c7nypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_9d33c00064414b57915fdd11937f22c7nypdorg_"
+
+--_002_9d33c00064414b57915fdd11937f22c7nypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: MONESTINE, CHAJDON
+   Subject: Fwd: Fwd: Fmr. Deputy Director Haines... I found your picture o=
+n the internet..
+   Sent: Wednesday, August 31, 2022 11:59:51 PM (UTC-05:00) Eastern Time (U=
+S & Canada)
+
+ was read on Thursday, September 1, 2022 9:15:30 AM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_9d33c00064414b57915fdd11937f22c7nypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: MONESTINE, CHAJDON<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: Fmr. Deputy Director Haines... I found your=
+ picture on the internet..<br>
+&nbsp;&nbsp; Sent: Wednesday, August 31, 2022 11:59:51 PM (UTC-05:00) Easte=
+rn Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, September 1, 2022 9:15:30 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_9d33c00064414b57915fdd11937f22c7nypdorg_--
+
+--_000_9d33c00064414b57915fdd11937f22c7nypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; CHAJDON.MONESTINE@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 0a9GWiMf3kOERw0SUdCZBA==
+Original-Message-ID: <a90afb66-ae40-460f-bc6f-fa1758fd2917@yahoo.com>
+X-Display-Name: MONESTINE, CHAJDON
+
+
+--_000_9d33c00064414b57915fdd11937f22c7nypdorg_--

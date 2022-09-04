@@ -1,0 +1,218 @@
+From - Fri Sep  2 16:58:24 2022
+X-Account-Key: account1
+X-UIDL: AIXsXHp/28+3YxIX8QoxYBbgOdI
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.152.9
+ by atlas320.free.mail.ne1.yahoo.com with HTTPS; Fri, 2 Sep 2022 14:49:21 +0000
+Return-Path: <pietro.villani@icmpmusic.com>
+X-Originating-Ip: [40.107.6.84]
+Received-SPF: pass (domain of icmpmusic.com designates 40.107.6.84 as permitted sender)
+Authentication-Results: atlas320.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icmpmusic.com header.s=selector1;
+ spf=pass smtp.mailfrom=icmpmusic.com;
+ dmarc=pass(p=REJECT) header.from=icmpmusic.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 14:49:21 +0000
+X-YMailAVSC: JxNz_eA3bBt.ZTpUj1wmek3Cr1gt0dm9XfPbLCoifDOCIXm
+ lHa2M4dLkw6bDeJrmaKLWSjTzWrvhbsnoE.VsmHYSr4q9PZ0ohwlTPpmacS7
+ mW46A8TPD5fD4JGzMPqqXqlBZ_3WTPj5yzcy19JgohmUehEuAFy5yLFH5XZ4
+ Iq4M4PcmElDEXaopVtRr8CIhzMYah1RDQmuhb0ttk4ajbL3MWFLsAm0y9uOi
+ gXUGEFV6bEQbRkOk35k2DZfQPhO8ge7nXfy8EHfUS3ylNY3uD0SrpnXg3dGk
+ GKe8pn9YBpjZhm.X8aryKaHS1tllbpBjXzOiNK7AtbeRjAUqTcAilcbZZrkt
+ vZIfXmSAHYkp9FJIXZ954cM43dtqFm0ldccFdaWo8G.FCvEnV0_ISB0jVpZf
+ djw.uzv2RwBAYaeUbbuKlBaN8uAV2HbfC_WAAhl_OJwu966l68cNEdR99Zaj
+ bC3OShI6_i4MsTyMjDJbRH17y3KYodLrUi88LgiSuSSK41G3qO9SZ0Tffp65
+ J7nHtTrbOoga4YRo1HKiy8oOltv4z.k6Uk8gU..4ArtyJcC1a7GGdQb964io
+ lqpQzLwd7l5EzOC9mGWWFUa1ZWYGbIRxG_kdXJtk2EfIy4YvYuOhswBYvepf
+ pvQpC1UXBv0wuJTv30Eu6Rg_SZYPnlfkYTiDbm6no9gOH1cxLokFX6RXmuWD
+ 5DrJnYtumhg_2SlWnbKD6OcJupq8_RuQsT_zdVuqseJrxylNqpZ7knxP6Bja
+ xIyOj5uoz1kexe4EQh12a4cVdTL85weKxo46Qi7wiL5YWF0r7m_TWbrfBLas
+ mw9MUyLy_4NW5IdBu7lcD0cTaceuywDE60jULKxZlG7PHQUioB2FhLQ_WPI2
+ IW6P95hydSRvtGVl2b8Hp6ir3cMA.EYr5Gh0QgAuTFCXvscqRbrwm38qrR6k
+ mNwxk9rtVPfO.uzCfgs0vxVYvDjFQxGqYbg2OUEWF4dQc62YRjU4lcflXafy
+ bAiIfMZrJrIa4pwVGqFtZfLt2EHzQMsbuztpyAXxECQ1Vu4YZunA82_MX464
+ I.ZOQh.lurz9kU7h3UeUkDePF18ZfrM024dNmJKEIjh_TEHcOOAbIzE2uJFd
+ ZVf7BfhWYWhQVkfVfo7zL.KCUVvmoEfDA.bfDLvaRR2Dfkv6NJ4QZ3ixbbP7
+ s
+X-YMailISG: lKAGYeMWLDvAl01WjVyYvlUO6UXQqKv0V3hVLGVMzejJLdzl
+ MCY9v0ps_TJOUDzk7H5ix9Htc8jqmctgnJ0IZL8CGXrIIchqkNdTEygKDyDH
+ CL3CIJJMAEcSe4iaB1aaAqjxikwPj1VbCLDGL1xekmgLOKjiJJHKuvDpgeMN
+ b4RV1sH8ArZdiOIIjdHf1xBRTDfFeSEW5e6D05iaPukPo4wNprjYOOOOprdq
+ AZt_7W6O.VWWV69uX.7dv1UVWsRRlslqydtqjDCaq6kRD0nTC.jDMDFlZAOi
+ SmKLt6z7x0.KSmDkty4b1dHMI8Y6xCdg.2e.BbAEeFMuCIvO70cjB7ESfK0q
+ yJJ3I538zOEKUuluHgMJqmUQcyB3jb2YbTiIKAdBUKxqwR.KB0KTEcxOK0pp
+ 3rsqeA0z7Ci7uo6JH_yeGXykzhKMMtnImHvmpbloF37bu6brFXL2Md0Ed3B0
+ 9smCXmG56J8U7nHmR__XQz_cr3a940iPSphu67dPHFvFb3O_5vGhGUOTCEZS
+ iExRSZvilERfck0QY55Ca2K2m0eWo3MhEKriEhEuPA9oeilP6W.M4vyhPPEX
+ 7rIBu59z14se0FspVviD.QZ_h3nYute5Qpm3ICmPkDGN45N_ZqGzYK3EhPa5
+ vJIMENGgKjT5kly0Xw2PXnOGaGwOFCX9R1Aj_udth4wGvc0kAVtpeNpCKcKR
+ ZxkmBCei4fpkt2wfddBNFlT_FGPH77PVc61d1RTnu1OKr3QZtp7LGYtgQ12G
+ Y0j9_8dUlJwUaWyrZxGMJT_x_J.m8LEVZw6orp8iSBNU3CdAsZS3jO.Pzp7f
+ no5xhwQsIRuFBG1imkSn9jzbI.pP_XR3mG7Z8IUNxRXFMEJyrGZsmA8mZAyh
+ gOULB4t8.4Iwn4nbKntDUF7FqPMYQWLzgjxEejfZ.WvG0_xxQE_F8q3gd1Sm
+ DMaFDkcRhR0DIT9IAwyvf_VT0ekoHA94TO8CalyJvarn.W3iWjWDHYme3Dr3
+ fhKzR07qKhedI8ktTq7eYJByQWVaB3OCNkJpm1vDfAc1EhbnQtwfJQslN4mV
+ RYv6dIvrWF4waaiF6IA7mfc0WdpKumcSOkCdyjdvA6KygT2EQzbLEouWF_9V
+ EBCXPib7FSESvUP08H_lwtPRjBgMEEvKZn3Hn4niW7ZVCAci_k1_o.5bnZYY
+ gDUCLX1kummB8H2gQzf_.ZzoFTJYRzvHx76feYIcWK33ithMIeb4zInN2.Y9
+ l99hWv5D7O1F4_h32ly2cCI_uhnoWxh.OG6f8wFgG7pRlmYQSbkRDUOjNlph
+ pga.HsHBAxmgRcJPzmGGEoaHAczmhLaaL9hvC6Xq
+Received: from 40.107.6.84 (EHLO EUR04-DB3-obe.outbound.protection.outlook.com)
+ by 10.217.152.9 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 14:49:21 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Lvgl+PZvzpKOG810jsGancTjp0XiMvCc0cCFcvR3WYq23Y5zCOlbd+oSF2PGCqeIBadRiwe6Z9LXXC3j+2rHB3MfV5PVb1WFVINvXtw4Ak4e+NB9eA//oGYYAKygpGFiiZp57+KYEc5xd0bHycswsxoto7c2WSdFheDicZFg2fJPUDZtUoguYd0lc2sMBXdnat2Bn/Dr33h0VoAVb2m6ZSbIFRBJWMmq0iOhrNlyVO+G4MufjD2fI6JE0f1zMwqwvhGSHUvPyA9sNZa+6UW9rgIQD9QEDEk6deT4IfytL7Z0TYh8YaDWTftW9MSuZFsQKUS2L9kpGKH8jCOxTjySiw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=+ZmB2yeIOf7QI+Cp/mziFF5+aN7XJfpE9KZu51aqQoE=;
+ b=bLD3b0l2ll2tzSlbMN+YyS469CTIo4wJORB1Xst3CJCMynQKdM+EaMYFT0yUQd+EVNcByBNoIq9wISB8Twu1MHnM6ze2fyzIY2DaliC0+9jF5mezrLZm0kXbiliedtZjWkO+QKV6Z6m+a4kAixWHBNMnJeK1u0Kaj+FkNXGk8q1Q4qOIoEsQKuG/iXJAtUNeSP+qObJ44dms1egwJIo2ideoks3HJ1f0h8emWFCXXHY9oGkifPk3svwKRj8pBJ2L935h29ouYlHYoKzWW1nSMNNN0rBlCPY/GVseGOR04QLlEb3+SEU7MPhS9wwWZfcUi9ndej2ks1Ca0K15V8G7kA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=icmpmusic.com; dmarc=pass action=none
+ header.from=icmpmusic.com; dkim=pass header.d=icmpmusic.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icmpmusic.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=+ZmB2yeIOf7QI+Cp/mziFF5+aN7XJfpE9KZu51aqQoE=;
+ b=BSHyITpL3GuqMX7IMlkx13UcomywZjF0I3RY5GSVTVDsYgyI5hD2050gkvCH5/xg1Co88etnkZ0GTN4K6hOv9w/6p7a17dwGh+lqpLUc8Jzpo6FBSgJ2N1DOz2oskhwpv9ykuZ24RRICTgEwrAb7OhSE64WKZdAE0dw4E7Y9OVjNVQtzcEFrAfJmsd8H0OLQMhoN2Zi0a8TiZSEGoOjcl6RKgcfmxbG6FVXXt8KV0kB3UnOdOh89KSkEzjQZXMm/hGwXSyDc2w2Uo9RbBil7ZHtuPhiN9NSMeYDx4k7hNpwEqcAr2RpWVj0FJ+oc1UFlpg/YD2YSdi3FFm4iNdSZZA==
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com (2603:10a6:208:a::26)
+ by VE1PR05MB7421.eurprd05.prod.outlook.com (2603:10a6:800:1b1::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.12; Fri, 2 Sep
+ 2022 14:49:15 +0000
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788]) by AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788%3]) with mapi id 15.20.5588.014; Fri, 2 Sep 2022
+ 14:49:15 +0000
+From: Pietro Villani | ICMP <pietro.villani@icmpmusic.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: USC 18.21 representation alone, is serious prison time in the
+ public eye.
+Thread-Topic: USC 18.21 representation alone, is serious prison time in the
+ public eye.
+Thread-Index: AQHYo9rXmZwA0waqqUyJAkLir/DIMq3Mbpwb
+Date: Fri, 2 Sep 2022 14:49:14 +0000
+Message-ID:
+ <AM0PR0502MB405003AE6AC54BA445164978817A9@AM0PR0502MB4050.eurprd05.prod.outlook.com>
+Accept-Language: en-BE, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: b9dad250-11e2-4023-8ecc-08da8cf24eb3
+x-ms-traffictypediagnostic: VE1PR05MB7421:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ LgarnWGOTUy8DTrawqFfgj7P5kGJIvcki3OWB/Z8DeQGpyst88S+IksYtd7rugm9wtJpiJIIm3EiDdba6LeKXvBCtJa384+3JpktWOUT/J4S/aIRP2D7cZqqSaB7CHsfsUgyLvnMi7O+djTe9hPjNQ5aXPSo2txRlQqwkkUOEgzwz7trLzQdVjf6r/Ki+EbQ/K2rushiAD7jjq0rGEM9bdM2wZr8/GIWHCKMknnI4GA4WiiyoSAjU7DkOj5P0qD3PDDsthRhJixhUg4IzcGaDb/6UqSmWwKw92lkWD5MPer4cces0Wukl2tY6/hQHh/pm2+nbYg52z62lyCv3xxkjqunN2974k1ehUCcEEsek7r7xrmN+r09NAhYLTKDletYs3sLmvR46BgePnmXF0DI5hlLRWOCyq2zw6oms+geoGpSWRACiBdiRa3CRs4o2yPIl27RO6ym1JHKeDryTp+m7spiwbIDUd310+gL4yNdFNd/Zrx9j1nUrwMhqYzT4Pjr
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AM0PR0502MB4050.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(376002)(346002)(396003)(136003)(39830400003)(366004)(26005)(4270600006)(9686003)(73894004)(621065003)(186003)(86362001)(122000001)(38100700002)(38070700005)(64756008)(55016003)(66476007)(52536014)(33656002)(316002)(8676002)(6916009)(66446008)(8936002)(66946007)(41300700001)(66556008)(7696005)(6506007)(76116006)(71200400001)(478600001)(2906002);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?Mfv6IX0GKsZop1peir+5mM6UbPX6AnkYzljQubpe6DwY3KHjKhJXvoQtRywg?=
+ =?us-ascii?Q?rb81Qkh2cvxsknnTCyHdxq/2UwXlPM87POJ3v4W2roLZBcujIFYxHVBGGR6c?=
+ =?us-ascii?Q?m8AueAJdjmNAqPMz4YnIho1XbZOKSltnulLBCuxyIOohgJulHFX0j3b4ldir?=
+ =?us-ascii?Q?K+bbrmlErKGup9z3Y9EFk6mwCRxrE3/ExMJKd/4MZYpIYgYXX1eEi0YMe1tQ?=
+ =?us-ascii?Q?/jpth3PFQPlHmNVUj+AzrJY+eI8vMlB6QK+oGWJO4703hiaysaeeZus1fBM6?=
+ =?us-ascii?Q?BIiLavXoT7wrED9/NRxrB4bgagJFnYbvsNpWMm0Vi60GurcajvFDJWI/wFCu?=
+ =?us-ascii?Q?3agSceCKXYn7S883ta+9MK5DqMmlg2EQGU13dwA/jS4h0WVW2dBhyDk5YMXg?=
+ =?us-ascii?Q?7B5BWnsBQbfeJ+zTmQLXey15Yx5x74Xer+QY1DWE44QQAW0U790jHsXDy371?=
+ =?us-ascii?Q?c7h9zDi+JYXqpx8bKjP+s7naxSdvH186ZHCEkqIDrsnxeFxxlAzlo2oNxk26?=
+ =?us-ascii?Q?xMaSbzBD7vqbqR4gkR9FMEoi+FDkjHScJZqc7EcYOjaZaOB7+fdrqPOhzUpr?=
+ =?us-ascii?Q?9ZySWKNiX/ut7u5C9Dgs1Zl/dU0y6PhvnRYMjKCo+HhfuhBitbG6q2dPc993?=
+ =?us-ascii?Q?ZHTWlNzkXKncTyLVBThfSuSCgL3GQ4AOIYUi/edFQmrUD2BzEiSkPCU4ieG1?=
+ =?us-ascii?Q?BxilYXhplTmFgJch17D0vPW/45KT24J8aNmtfZdjIwrAmq0a8Eabpt2kH+1B?=
+ =?us-ascii?Q?keAjvKBh7Ii3lGzTjxSjivWlb1BIg9orMwWZ4CN3TGErWpOZQYV//XLGeRk+?=
+ =?us-ascii?Q?Y3Iv+1yXKrCISM/ikzI1qoFgsqcImQBL5Br4G7UtM/6UmoWgc22exhy56ebm?=
+ =?us-ascii?Q?9UkXWXbJQNS/98N39YCiJuJ6WEcd7S17TuMBiAhOOqLxr2Js0cbB1Tjmaq4/?=
+ =?us-ascii?Q?N5bMudNxOiOlIX8co486/MAzqUi1+5/D5a6pXWabXQOMUptweM7uRlh7pxnZ?=
+ =?us-ascii?Q?KoUg7o7W4kXHjgZFcnnUoIbTFF2AYf9bvRZHiPyb5I2I3GH8ucbyJJzz2ziO?=
+ =?us-ascii?Q?aUj3t2TGybm3xTTNu0i94OeIcVx0S91LzbqgQhOYbN+NtGpoawpYKuKfHMsY?=
+ =?us-ascii?Q?vcFPWkg2PZtj2+t47y/H2oPTzYp/7BXSgzAs9f0+GVhV4k+xxmr/Bjd+HMgh?=
+ =?us-ascii?Q?dzqb2F9CnUf38Dxy6fuiGoyT7eSEIzQ0fjbjmjvvyRuSBFObpm4pHczXQn32?=
+ =?us-ascii?Q?RKBJfld5krbXzQccmjALEI84I9CLSz5c0DCMpmbtQyysVWs4zBFwRTabaORR?=
+ =?us-ascii?Q?7YNECkC7U1MqdNoAmU2umqvPYMLhbb28w8yLF9oLA9Yi7tbP/EK6LZmyIgmB?=
+ =?us-ascii?Q?WeGulVqRMLMVIxxyqNfTv1+1R3Q39iq4Acb1rYAn6bURUFen2IT2ht5+cgIi?=
+ =?us-ascii?Q?z9CEkhI7WzjJbsH8d2gTgS2uy4h6hw1VAJLxhURmSwqLF+m9NO+VDBNYqcia?=
+ =?us-ascii?Q?2EzNEHt9JilOkOsN9P1BL0vh9plMJJ3PyROgkTAJMIYoxg5vU7JjFYJCNIAS?=
+ =?us-ascii?Q?PG/rECdWA72by8AQxwtg7OcD4DZUh58LUfmtsLbEjyGGfN0VJTEYOXeP3LMP?=
+ =?us-ascii?Q?GQ=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: icmpmusic.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: AM0PR0502MB4050.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: b9dad250-11e2-4023-8ecc-08da8cf24eb3
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Sep 2022 14:49:14.8430
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 28a4cc59-64d7-4629-87bf-20744de61c93
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: JHcYo10KQnI6NEXGxnTKDvRShmfFmbpGIXgf3nlwdiRC7TzLVqzsiIKWNEsVMjiRMJxquIn8GoIkO6QXL05tYdXHn5dybMJeog5xNyqlTMc=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1PR05MB7421
+Content-Length: 2076
+
+--_000_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_
+Content-Type: multipart/alternative;
+	boundary="_002_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_"
+
+--_002_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Pietro Villani | ICMP
+   Subject: USC 18.21 representation alone, is serious prison time in the p=
+ublic eye.
+   Sent: Saturday, July 30, 2022 9:08:11 AM (UTC+01:00) Brussels, Copenhage=
+n, Madrid, Paris
+
+ was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels, Cop=
+enhagen, Madrid, Paris.
+
+--_002_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Pietro Villani | ICMP<br>
+&nbsp;&nbsp; Subject: USC 18.21 representation alone, is serious prison tim=
+e in the public eye.<br>
+&nbsp;&nbsp; Sent: Saturday, July 30, 2022 9:08:11 AM (UTC+01:00) Brussels,=
+ Copenhagen, Madrid, Paris<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels=
+, Copenhagen, Madrid, Paris.</div>
+</span></font>
+</body>
+</html>
+
+--_002_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_--
+
+--_000_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; pietro.villani@icmpmusic.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: E+WevL1VjUeOQduk/MzkOw==
+X-Display-Name: Pietro Villani | ICMP
+
+
+--_000_AM0PR0502MB405003AE6AC54BA445164978817A9AM0PR0502MB4050_--

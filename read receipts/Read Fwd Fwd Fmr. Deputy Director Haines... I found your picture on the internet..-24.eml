@@ -1,0 +1,212 @@
+From - Fri Sep  2 16:57:13 2022
+X-Account-Key: account1
+X-UIDL: APluLXVSGxySYxEBIQVHkNwfwEc
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Thu, 1 Sep 2022 18:59:44 +0000
+Return-Path: <JUSTIN.CURRAO@nypd.org>
+X-Originating-Ip: [40.107.91.121]
+Received-SPF: pass (domain of nypd.org designates 40.107.91.121 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 18:59:45 +0000
+X-YMailAVSC: KlGglRY3bBtOlxy_NEBZ79ecneAtyFlpJGPQTO.CZnqbM9K
+ iVOYiOEQpSR2m4Cfk7SQ4DzBQPRD_kOkpoCf8ykOWZfri56GVJN0ZqzhcNQy
+ FFLKBCxdvH9fJbZucPsTGbSzV4NQe3Kfp25C.FQtIRPtog81jU5Q3.VPAlMs
+ NM4oQxmJ.zKbiNrbjnyS8NU1w_WZOr6zZZbGNz3756cQMGdYOpgppCv3bN.m
+ hebxHzqEtxqbzsAZZs.pCnLbdNVq1x4OWoh0OwkNucl.owcjA5v83dUUTY4S
+ a06KgZ4KXsQACxtFghellEG8L7OaHLFBHR8NCp_v5__.qFIyxuAAonhPwByT
+ L.i2Hi99g1rwUdJBXMLReO3zdJUdaFhgTrnx6e2TWrRW61e3Q9kDFX7bp94h
+ ICFMoANVaVph7Km4U2wW0bPTXkAY9X8qjSOrmCHeoqjPY001KtCI2xXbekwI
+ JiGAqKbG20rEwaRKnpawIIt8xT.FtCeW1h03qbSs_U.aw0_J3YvYTtctzxyY
+ P2Ocwxd.M_e5ZGixoH.O93S0_sCbtrF6mIPmnj6IhGFbAtuWrNDHA_a6Et2v
+ 2oYrZ5nTILAFXtWGypudxCE58WmDuXpR7054TMFlEisuYAWoF7z3PSJRWXRf
+ iOkL_H1Uv0ibLPT1PKZQffx92Xsq9hOEL_IUv6G1FhFlaV365xwuOF_lIDUR
+ tZHIepgfT27_O2vWWPLw.xc7V9WBsAR1tYUdmELJupEWJ1b8XSnHxcid9PJH
+ aeioUpelrKc9VmmzPR.9ZgzcmnrIN3ABVhm_kvZpJ9bJjFNOA2ZFM6ytpniO
+ 7gcu9YKtuHuMDDCtY8ck1A0S1ab_myRBqP9wrp1IFQ9lScWGJj.4bscslOsf
+ lO8CCpTo6fYV2f8SmsgEzXRpJOaby_azpVyj.ojxR2T4P5TZ36e5CM1ds1om
+ tSFIp1rAAeCmmEJsTi8oEnKeXK28c8khdV8AjzU8H2mPCH64YQ65RZPf3kHN
+ a5BKogHq.xBSD3MJcJHqaE6nQ67RcHLDbzcE3f5Hdm0R7BdbaY42tJ1ja9SR
+ 2PHZJlMEhzQzIyqB4MMeishABGM5qOlNk6oIwLfylgCiun75olNtSR3u63m9
+ xwvwL33dYpLQD2B4ZRWAh11Jrlxourgh_0A--
+X-YMailISG: hEQClFkWLDs1QvMC6IFfhCXpkzNJYRc1md41HhRdYO35iFAy
+ qPw.oXyzY6i6X9SGPaQTfC.7AKULSQ130tCd.Sh4fqkttIdBFNVm8HgrECna
+ abHViGxBQsikhcjrQrnkYL8dtGSn07p5r.Eg8fv0tZGusEWVhrdkUjJXrZjD
+ MNOk41AuCISWW_HmQgh_jO1DYdbmF2qaincOMMRdLKrG8Tc1c6S7xSGr80AR
+ sDmMIC_6Z.s76D9_UNjud7QR2QfgUlrPkqablGDu0RVzuArHjGkBz5vhDT3c
+ awPL1XzlqeAzq6Ck_iLoTmeH4jDP7UnAR13UwW8HI0KfM9A1dt7ksKI_kKZD
+ C7Txev6lfNtnOxm1aZJVisUPBF7_MtIHqMv3y8dU.wy.x4R9z_Xnaqtseo.i
+ xd5RY8k6igh4Nj8c0bzB8Obw8dwLNbRN.VUpAVku2ADv3NTwy7z50iZ4FwEC
+ 6cENoeRJeR4YIYeQgHuO.qalCGRLmkwHbT1YPjP2SzBCnjID0yeqyFU5TH9k
+ hVzmAvAMzRgiCVYUhgTT6KMuE.9JdqUC.RvHR0eh39yPmwbPwreQEuQ64Uga
+ SWpibqOXTm0rUfQ_A4GkO97trhkSdAXVFn.h.L1lW66974z8_1dnS.FqNDfi
+ Xu3ZoNfuUSRkZ2QbiJe4JbJijhik8xOrgpPPhcR2BQRd1FlukhXfC9tOjPLI
+ pa4bI4D9SYjUiMu9Kdn5vuik0UrRt1SYX2ipa0A2XstNOBD0.MtS6ArCreIT
+ bpUuK00oKeNMYbdSdewBOJqbREV_zCo0JxwVsSvDB.P8hvYsM4QGNe2g_9S4
+ XBbvj3LhiOmPLwQyWOT0MLOkIRxHlcXYvlM0gCrcwOR8hmOkcTSfvlBG5qkl
+ ZVCCk0NRBhrHCGmGcTsXIlucYDj3d3wwLUwBTBWUwHlGKKpIteDT.plbTlpf
+ eUU4dA2pl2FYMmdgOGDF7sCK2.V9V2JWsWbHjIDf_Sr8N7hJyOPuHl.srXAK
+ xSq8_mW5YveH_33Om6oZQZPT.0G5zik25zGBG1JkHV.T4kgiRvw3o8QHlTIj
+ MsXihk2E9mA.u5PCkoXoI4OsjF9ReSfjqZjRSKYN9l.L7387cY5w8AYYFuBy
+ zQoIQ7MHkA.Bv2oNVyMBPyA0WhEOC4c2Cq_aEgE7zGaYNstYRzLDUsjscfYG
+ WYYT3W_75uP9VHpZBnr0pme.kTsFsxmPcwdf0UnUqdhSTWYqExtpf7CFvkIy
+ B2j1QC_NwiDgU72sP3fkZXCtxRc3fRK5NR41V8WHYM.oO6CgnsbxDXrzTh7H
+ oybOeQS_PPhuOzFyJoY4YBnBQqC7NqQ6CNPDzfX6qQwuvGr8h5Kf2vf.21cr
+ 3zBN1lg-
+Received: from 40.107.91.121 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.253.31.117 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 18:59:44 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=nUuyOestD62Iv/bCzLSvthPAhZ8+6sxfKg5eoS9mNd8vlQ0kgy79vhxxUZgDGVWIR5iD3FwidLLPMxNJ5X99tVPieZIVueAU72gCrYTseD7rrdo8wrOCldqxqa19/Pkoy+gO39ayOUsw/ZzLdQ7haXx+OVNg+wUIRpfvCZYQwriQ6Y2dCWyJ8ugeMnKIqi9uPLuu5t3uMRgu4sDVh6kJYtpHl8XlRe9T8He091+yjlE/enUfPAs2Mtmr5jm4jdYI4TFSKdV+iPtTzhhxq4JycSVMEAnYp47AyoXdsfDGPmpkGVDNwWBrOJtAGU2ICxsIveJnw9WurCPaUay+sSMjyw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=f8cw0dV7YdqvnjGZ/FvhF/fvsAoPuFSMBVNZVXmGXg8=;
+ b=RMtFWYuBRgQM2xPesgQ6R3KbC7e/k29u2jefAk3+8ATCbxOG2HeaFEzHDwAABOhtbNt0FX7ME6fPnmVPPwzNh/SiLWWv+OAl9MJvwTbc3o+nibfFv6t5kwjY6WtSPLCYEzvhnLvI7WpV5Wevl/h8RxlQAr4tNiEjcnKrZkmAce+rvWZFftaFrbZwfGN82XiLOWDJNOcfawBW3li0Iabx6ARUczjsMdz5nlowbx8H5rgfP0rgCnBbhohW9XMXUXN43ME24YJAgWSWrA/55iyOvIltdGqqeYuR4plbiM7YPOJRdlhw0M/W7GOqbfFnQnKdm/UEQ6iLlssaCLHEKmrJKw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=f8cw0dV7YdqvnjGZ/FvhF/fvsAoPuFSMBVNZVXmGXg8=;
+ b=L3uSj2rI73eZL3sFbQzAm/NAkhJ9aV8XwAe3bGLSq/wjtdbWjBST4zH6ncE4kZnvtpwAY5jX2h10tPzTvPnaxC+XKcwJuh9arh0FDbrXi2CCVZ9xGntHg30TUoqeS4GGVP4SjC7qOK3Ycamkcn9l4UZCnn9k1fi7cgy506KPcrY=
+Received: from MN2PR09MB5356.namprd09.prod.outlook.com (2603:10b6:208:21c::13)
+ by BLAPR09MB6259.namprd09.prod.outlook.com (2603:10b6:208:2a3::12) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Thu, 1 Sep
+ 2022 18:59:42 +0000
+Received: from MN2PR09MB5356.namprd09.prod.outlook.com
+ ([fe80::dc60:b741:2461:c7c8]) by MN2PR09MB5356.namprd09.prod.outlook.com
+ ([fe80::dc60:b741:2461:c7c8%8]) with mapi id 15.20.5588.012; Thu, 1 Sep 2022
+ 18:59:42 +0000
+From: "CURRAO, JUSTIN" <JUSTIN.CURRAO@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: Fwd: Fmr. Deputy Director Haines... I found your picture
+ on the internet..
+Thread-Topic: Fwd: Fmr. Deputy Director Haines... I found your picture on the
+ internet..
+Thread-Index: AQHYvberPJMslQu6rUuY7iSMKvQpuQ==
+Date: Thu, 1 Sep 2022 18:59:42 +0000
+Message-ID: <b641d595cffd41a6b056b39f51c01669@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 624f20b0-8242-404f-ba0e-08da8c4c2124
+x-ms-traffictypediagnostic: BLAPR09MB6259:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ /4bgshgGdehjpM8qUJSyJTEn4c66KT5oNNgGFZy2FEJ1SlGU+MFckca03BpzltQzg8pzxol25hT7g/M9ZWPyGx58Ne99iO1j0jm2pb5otztE5ezPe9qXxe2M6fSE2h90qL8EZQplzvg96tUX5Qo2drKCoJNpS/4bwmI8JqW5707xdAu7VrvlENuRO/3PG1qhCA8QHkcvYJ+lwll7mVBjI4kv7vOP27ttOy5qXELUR0NZiju7qyMFZwKU5QqljgyJXfxSd0Y5jpiZceHbik/WRM7qZ7bVZE9XwFRh/6UciBq8H8GJlM1G4Ek7wTA27DqjKoUZhXKW161tdOVeQlqMEXfv5/P+W9ACPoEQo/MQ6EZnMl4YP8teLpntalV+2yY/Yzq8mRM2sJjhv7HMJVZzmkIWIdF9PLcCclLNKQ2UGfO47gPTvuOBgtmbuyAhZfjq
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MN2PR09MB5356.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(8936002)(2906002)(6512007)(108616005)(4270600006)(24736004)(86362001)(6506007)(82960400001)(122000001)(66446008)(498600001)(73894004)(621065003)(186003)(2616005)(66556008)(66476007)(66946007)(64756008)(8676002)(36756003)(6916009)(71200400001)(6486002)(88996005);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?PjZ8xhmgdMnkEU2YHfYeP6gKuskn7jXIAh1XYGCYIaRJv9H+smyIdVeb7yej?=
+ =?us-ascii?Q?vXNgoU3TXGemIampgSw4dI6Y5Md2t+LkLZbEiL0zC96H236HzZun+kBmpfdO?=
+ =?us-ascii?Q?xdOu2HJUP9a0QU0chEF/if7GsXpCPEcg1eG923G9LFSFYe8mV8Pg4OSstY7T?=
+ =?us-ascii?Q?K2IGhfA4K1daIQXh3m9Ay3SsxyG4aAFtIg9yH9boKwwZ5vteZ+RodVxR8yJO?=
+ =?us-ascii?Q?WzXMV+0vgAzoCZKEmgMaxCOaBdn+HQMOlmpg+QuX3L9QkpkysJrJyRqDXSy/?=
+ =?us-ascii?Q?P1VrpS/l0WpAY7IapRF4dECbfdlZWHa3b5gPl0gvFuPwQ/Dz0gt41/gulRGE?=
+ =?us-ascii?Q?caLZmgb6exEx2pal9P6v6Q045g5n37NKewDnB0ij2gBUO3CBNCJ+JITlyo+F?=
+ =?us-ascii?Q?yRSOjyjjUrVjzozxpzFH5a4G6z13tq3oKTdGOvyX55rNlVMwnT/lmRqRlPZb?=
+ =?us-ascii?Q?lKE75wkXvPkizffLumhFMOlfQlTNJPnjBLPHgghWQy5xXgklUBPb0ZwNISgH?=
+ =?us-ascii?Q?FsfcC0WkqpoLDIPCZHSSiQzcfKWI0w8BvuD6252LaAYrBrSaHXWcIQEkHmuM?=
+ =?us-ascii?Q?GULq2Sd/ediBSHFmwrj6htbh/K2ZZ7wA0izKZhXNgqBw6QnoWJw2YMMoD3qC?=
+ =?us-ascii?Q?gkjNmT057wsDz8aLRhI5Xj96Z/jJjLPa4XYItY5MT/tsO65dN7NddJESilmZ?=
+ =?us-ascii?Q?Q6DDY8V9XF8lBo7qd4qaKCnZQBW7xZfBLo4H8k/7LbKaJV4nRKwoCmXUhV9x?=
+ =?us-ascii?Q?CKnjNo515ZvNFRX4tdzZjawYIqk7nFmPkQrVxgzKGWWZaV3BVMXr1d/JliFS?=
+ =?us-ascii?Q?zxBQn9NX1XWoJILRkJOovS9jlGDZXC2/86aOO2kcY7z9geoLuzbqjhsLbofc?=
+ =?us-ascii?Q?CM11eO7NWDbm/4lNq3tDpP0fDPN+7RmFER3CVtzs9DDk265AAL0xReGHaS8P?=
+ =?us-ascii?Q?NzOX0hKumz1IliGvdsRypkkskM0Qc1AO7I/hmtd0dly987kvOw2yAf1swBzU?=
+ =?us-ascii?Q?GVvEXHOpuEKcsf7ESp/Nftc7LyJpuah2dGuVVfcNf+2NiUxqSAH2/t6G7Xmb?=
+ =?us-ascii?Q?uE+sW+vseKScegNBz+G6Mf8lBCyfwdWUrmVPijoy8HzpjYftxiu9mHh9imBN?=
+ =?us-ascii?Q?MIW/N0+h7mqmHnixhVWlsxLfcv3sDahOLnw6eehOoptLCha+RrlrQz8DzG2C?=
+ =?us-ascii?Q?3hStTzn35MLI56WsNJ2crUhcRR3OfBps8rRwJdYbmlZHpYEdNdKOwNWbgRos?=
+ =?us-ascii?Q?iuGht74d575uJrqb8c7t7axxXl2MdRojF8aUXsr45Ff8Ke6zV8fOWjeovO4N?=
+ =?us-ascii?Q?IPqeH4WiuIfzfa+v/qbnFWcuemSiLyxka32TjTMRLpEugqW4uy1D8fVuA+EQ?=
+ =?us-ascii?Q?uzG/zwbJ5KbfP4smDyX0XWR7Xoj8btUEL8I6BUrp6iG+hzji+lzP8WxmZ9qF?=
+ =?us-ascii?Q?24fDCq16czneu3g7iWO3/t2LuKDEkd03+uhSdTyLUpkjUXNiYuObuQ=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_b641d595cffd41a6b056b39f51c01669nypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MN2PR09MB5356.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 624f20b0-8242-404f-ba0e-08da8c4c2124
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 18:59:42.7336
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLAPR09MB6259
+Content-Length: 2003
+
+--_000_b641d595cffd41a6b056b39f51c01669nypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_b641d595cffd41a6b056b39f51c01669nypdorg_"
+
+--_002_b641d595cffd41a6b056b39f51c01669nypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: CURRAO, JUSTIN
+   Subject: Fwd: Fwd: Fmr. Deputy Director Haines... I found your picture o=
+n the internet..
+   Sent: Wednesday, August 31, 2022 11:59:51 PM (UTC-05:00) Eastern Time (U=
+S & Canada)
+
+ was read on Thursday, September 1, 2022 2:59:42 PM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_b641d595cffd41a6b056b39f51c01669nypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: CURRAO, JUSTIN<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: Fmr. Deputy Director Haines... I found your=
+ picture on the internet..<br>
+&nbsp;&nbsp; Sent: Wednesday, August 31, 2022 11:59:51 PM (UTC-05:00) Easte=
+rn Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, September 1, 2022 2:59:42 PM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_b641d595cffd41a6b056b39f51c01669nypdorg_--
+
+--_000_b641d595cffd41a6b056b39f51c01669nypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; JUSTIN.CURRAO@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: krm/5nDl3UuV1QqsH8vEoQ==
+Original-Message-ID: <a90afb66-ae40-460f-bc6f-fa1758fd2917@yahoo.com>
+X-Display-Name: CURRAO, JUSTIN
+
+
+--_000_b641d595cffd41a6b056b39f51c01669nypdorg_--

@@ -1,0 +1,192 @@
+From - Tue Aug 30 19:53:08 2022
+X-Account-Key: account1
+X-UIDL: ANiBihdX1YYvYw493QySwC4ND7E
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.151.74
+ by atlas306.free.mail.ne1.yahoo.com with HTTPS; Tue, 30 Aug 2022 16:42:05 +0000
+Return-Path: <DANIEL.SENDROWSKI@nypd.org>
+X-Originating-Ip: [40.107.91.131]
+Received-SPF: pass (domain of nypd.org designates 40.107.91.131 as permitted sender)
+Authentication-Results: atlas306.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@nypd.org header.s=selector2;
+ spf=pass smtp.mailfrom=nypd.org;
+ dmarc=pass(p=QUARANTINE) header.from=nypd.org;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 30 Aug 2022 16:42:05 +0000
+X-YMailISG: .IItqccWLDvT8HJfFqOtbkllB812705vEVzD.KOspLGzvr96
+ MtRcYELPqvY4avfXz5hF5hTbZAMjb3BD3HxZYhXJ06A8CnSa1W8af0nVQght
+ xStANpg56sSfxCqkZd_hsp4.gon2AivLTOrZ6dyHclF6vq9CUOuN7cTM8XdA
+ P45dHYNzNaS.xgYcFfTQbmvG9MQb9m.R5LrDJTiko01sSzlFknrfWv83FAOQ
+ wTlUxD8U9ZqAGlrsPqwGSX_HZitnvdULKV73Y8ts.gIAXjZdIW5OXtUpir16
+ HBujjPlx4DNfU.tKY01nnt064LvU_FCAKCgc.JBgYNG5dEkWoYg779hgxkxz
+ mOBzMNa29X3CTv_t9rUiT9Z1uox0_3AoQ76ttHvVl6iexeQup1Ip75QtB_9h
+ hq5wooMKVSj1CGs1BbItU8KJ7Rh4MHfwnCT6th96psFiXOgDHI2OBwy6zXof
+ yb881r8G63vj0.GxZfR4un4YRAmsyKRQjVHIxarOTp3mVdgOEaekLp7pVX8W
+ xVfCyFBiWtEyUtXwqKE9y012QFnsJwR4s09gI1OmQCHgqWiwFF1.1AbmkoX4
+ Yl4PpsH1l5dF3wwrSiemBggwvXM_O9bxBUEdjiUNtZPOhKgt3U_Ubq2cFfBS
+ 7TGHuNm2n94zn5iUFMlPd0hvd2mJy5t1wtsmdeovqIKrly4UGNYQHln1Jt3t
+ IlgNz7dBzAQzS.vcp4esEkBGelBcUEn5eOswYMPmTt55_HEyCFTcnBdOFt.0
+ w9HSKcufjjC.VwlBbVyUVjxNXHv_yMViZC2SJbdrF395Iqif0gs5oZh42tpi
+ xVTzzbPpFTJ_Yod8W6Rfw7j8tqPMNRK0r4uwkZoKVvZHNl5G4ea5SKP3FEXa
+ zkbKnCS3tme5Bck_mGiP.BYNqFOjfyEroSCsRrXwPw1Rr1q_ThkeN7nod2A7
+ 21t82pkwuJXI0CLNhTF_pi6W9T9Dz.gsbP0O8n9EXdF7_gz1yrJD4.ehq8A1
+ NmjXpF_R3Ro._ihvRvBkA.ygYuJJnJ3Yi30AMBqdHscULonpdEnp6JgYfRW7
+ 34I.FED.20ChH8Wtx7PsbG2QjbtST4svubXKeKa44XfwzLVivwgVdjAT9Okn
+ t.UaeqaHa.iuqO.uibqSU9CivXJIjBm.CZHXLcqDHGu.V3Fp1J9VL1VbgV7K
+ X8TMer2J3mUulPZdmkX0v1fUsuDkephY.cR_dVKjg1rRLZ2rHBLIlPbfGYjZ
+ HSm3mStVjiWy1CmiGdhKwZgqt89M9OPBfxAVt_ervE6YtYUsELu9bpdRh52E
+ KhltYOBZ6yfJs7tFIIG.eiZDe3vIlwn5JSnlGLpfYATykhxTHjvpQ40edG2g
+ sQLK
+Received: from 40.107.91.131 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.217.151.74 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 30 Aug 2022 16:42:05 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=ZIyyjIZRZ3DBwvdFoNsuv2U+oQkMaqQ9gHmrgDx93mNPfcmbN3gGPFPd9pioxaMBc7r9An7SdpYlyresQDRHt6HcRVqZSoTjs73A4ZAjORzZekQEzt3kLSVh8ER0sLDr2+IoWRdvh9LpqythOtsT+Fz5ilL2Gi9M5guaH+xa+heppp+oRkaEuYssWLyOdlkq4QZ1BA9wlvxkLomtZKQtDRGUIqqG3YMrrRhhDoaoP5fr4+IRl5tqLpKrtq0T73p+ZDYyDGCKJN05m+M8UCQrVsu5p6qxchQiy/wRJIufdLggfTEqtMGne2VlCIh4T9grMFxfgZBFQvPyKqEavieO/Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=hgNAEzcX8/lR7QKBeOXqIKNbgAtwKziTiUtXHSHrUjo=;
+ b=XldaN9Aodz43in1al5vI2Zz3fD+Wt4bSPS2EyK+E+xwzcpD5csmt4ZZPPFsF5p50rPaRLOx1rgDUcaFKOB2YAxzxDt8Q76hNGjbAtz/kq9kIxThn6LHlmJtt5Eei5DewW0rdao7hBAEJqtgGQx18dlnEE9xpPqVN6aeJigFhPVAEpF1QSK2Gmrvxj1jK1zS7HIo0LTIF5g/O62bQXc+MUerw/N54l/DKsQWcuMF6sBH59KLTeu4CD36lrmmDRFkfsynrJPB5/n90Ksf1MKkTirGthEldNIafpNdjgY7PU34iWRnEyQFA5ncJ68DeBuAO4B+rjqS7JT8tnMSMZ+OxgQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nypd.org; dmarc=pass action=none header.from=nypd.org;
+ dkim=pass header.d=nypd.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=nypd.org; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=hgNAEzcX8/lR7QKBeOXqIKNbgAtwKziTiUtXHSHrUjo=;
+ b=DqSN/TuMzLQ9xv2GT0x9KG4qBPDRXw7Mv43oR9ZOrdLWiKoDGeDYyUDUlcCVNM+j/oBe9DFCntVTxv5goB10+TLq0ng4eG2MwX8gd9gHjFZ/LxmY2SGKoAHbPJKLOi5XkYd+WLdCyxvYabilOmF5Mjjdhhgh74i7WPKKbsoIyHQ=
+Received: from BLAPR09MB7185.namprd09.prod.outlook.com (2603:10b6:208:2a2::16)
+ by DM8PR09MB6216.namprd09.prod.outlook.com (2603:10b6:5:2f1::22) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5566.15; Tue, 30 Aug
+ 2022 16:42:04 +0000
+Received: from BLAPR09MB7185.namprd09.prod.outlook.com
+ ([fe80::6c85:63b4:541d:cdb1]) by BLAPR09MB7185.namprd09.prod.outlook.com
+ ([fe80::6c85:63b4:541d:cdb1%8]) with mapi id 15.20.5588.010; Tue, 30 Aug 2022
+ 16:42:04 +0000
+From: "SENDROWSKI, DANIEL" <DANIEL.SENDROWSKI@nypd.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: xmas - did you save 15% by switching your holding from
+ STFGX to BRK-B prior to December 22nd 2021?
+Thread-Topic: xmas - did you save 15% by switching your holding from STFGX to
+ BRK-B prior to December 22nd 2021?
+Thread-Index: AQHYvBpcoyJhCc6O00Oz2eNKskWvbQ==
+Date: Tue, 30 Aug 2022 16:42:03 +0000
+Message-ID: <a7f93c8b99b141e59c7a9e028c8b8423@nypd.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 49a1d20e-640b-480b-b4bf-08da8aa691eb
+x-ms-traffictypediagnostic: DM8PR09MB6216:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ FxRbwwWrTNP23QqhsK7Lz0E5Bqkdj7ZpjC6hGvQPskJhRgH+N7oYQwGXxj3HmgtlQaFjXyUmgvJoUwetymWNkJDCDFVWi7/ZCLlKSz93W4cY47Bsm1Pt7Vkwsr+HrMHKPZ3Dkqv6FaAk+oXLBRWnBDHEqc0iMjQl8CWrwWNHnkr/yfHY4UDmIFF1uMmMnKmd2ZNDxv6w7at8ZI8eWxZ7odITeB6JyRn00cC7VuEHT/pxbkPc116TwlJ8hfuLIdWN6BTGRTcdDR7XdUTIGeVKr55ffi6lPpYDxOBKqgC+gDlakBVKY+PbVfZkdXrIANAKrvJ9bq1lh5194/WXrf8yUA2avV2Whq5NVl3D+FzgjGVXv8XUUo7PdVCBG4nm0MvqXWUFrdfoJ28/Kg7hDgIRQpR2eZBF0lZZ527EZ7ed0yjd9eXnH4Pz/2tPfmdM6OT8
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BLAPR09MB7185.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(498600001)(8936002)(73894004)(621065003)(108616005)(186003)(6506007)(2616005)(86362001)(6512007)(24736004)(4270600006)(2906002)(71200400001)(122000001)(36756003)(66476007)(88996005)(6916009)(8676002)(82960400001)(6486002)(66946007)(64756008)(66556008)(66446008);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?D7mqu1qA2OygdZ0rPP+NKBhoBN2S1n5Ch7vFhyVkyuEkxLHYbPeGDA//K9fE?=
+ =?us-ascii?Q?Ll4zFT+jhN8wHu+Q2HEVI7X4g4prU+iCuYhkukHJVpWnfTs1691cKrT2FJ7j?=
+ =?us-ascii?Q?z2e+JrAO6MQGZHIvN66+7vd1YBiTpa64/wDt5Er/PoGHYmrBaSXpRaQJLdjc?=
+ =?us-ascii?Q?2Y7Jm4Fwx97jQQUj5Y16rAEkeD9Uw+s7XeIqMNykq6LNHFHPSNlwy/svsv0F?=
+ =?us-ascii?Q?2CyhM5aKX+ksXX94e9MMN591jHs56kNsq160LmFUrUJdINeBD4XscnThk+wv?=
+ =?us-ascii?Q?+26UHzaHpY3iVb+7x6WPTFqLVRnC17MpMguDU/wb+6xUYoSdt6FIDbO8ZM0H?=
+ =?us-ascii?Q?iujvisYd1KmLp+/CGeXP7+WcvBLPVi0l9yKnqAWQvHKWpAUu4J7hFvdmukZr?=
+ =?us-ascii?Q?wlgO+DOdPLk1nXbNq5Tu2F3x66BlqRTEJO5d3Rm4+wzkw/TBJu4FSJOWfBwy?=
+ =?us-ascii?Q?KYS4OHcNaYUWIWopJwD9S8bIvlUawKjDKTW13lJk84roKDzLm73k5UHNBnsK?=
+ =?us-ascii?Q?kO5ES7Q99szXhDj6vj9B2SFQgR2lRvkKRN3S0B3TAP774Dpwdfbntz78IWtC?=
+ =?us-ascii?Q?3Br5fKY1laO4LP4+4+/Dgrm4kq2cRLrotYZgauqZqCQyuHWeiwNyfLvHdpIK?=
+ =?us-ascii?Q?1v2/2PCulK0l4i0/FwXs4uEqiedsnRY5DdsejqgWksTVDwhhftmjTkF1QNJu?=
+ =?us-ascii?Q?R/L7EhfyRQsEhykM0DnJDyKUXEPDuFFkBhAFEZtIbJciOoq+i20wzsbcH5Jr?=
+ =?us-ascii?Q?vglg+gIWrKxDWLxefMnEfVUTg38wbal+KOvvXFjL4G/qVuvpgTlubsLoE6ba?=
+ =?us-ascii?Q?rcxI2tL1Plad3HVnKOP+9v/b+qjO7oC9jE3TA/2e2mQiTYDiFo9962TBc+s2?=
+ =?us-ascii?Q?Zhtc0S5XZ5Ctdb+QgIaEo0Odv05Y2BwQqfpsqHBcK3oFSPo1LvJ3Omai9tZL?=
+ =?us-ascii?Q?f7C7zluZloiVAuzHh79yDfWP4arRY2vlcyWP+F8bXhsd9DLdIwId7cH6b9P/?=
+ =?us-ascii?Q?oDEuzsJgCU00C2GbBkVP70kb/CmAx/4+yvi4JdSrgJH4UCRM25wj/WkIEJTJ?=
+ =?us-ascii?Q?I9wuFIk2ryO46oVYqygNY/3bwkeYIEuu/ByDRCQunvge2RTkoia1QzdWq6wz?=
+ =?us-ascii?Q?0BPuzX8fKAKYu9VyPpFUuUx86mh2BleIMkcuuZ34A7LN6wGglEDuAAm6PoI3?=
+ =?us-ascii?Q?/LhhvyjclnVlwk3kV7/0YnrSn6yvHMiIPbvsAL+vVt1wJaZNzArAzs9FwGfW?=
+ =?us-ascii?Q?e97gLUj8zD6IL7PKFFDuYNALdHFu8J5YkzVG2UgI6oHyZFYBnoQZEqxfZgpY?=
+ =?us-ascii?Q?yUDHaGhnNpHMeks/RcRKyv7PHWMHnxwph9kNEn+iLIqA70VwLn7QrHJXPBLX?=
+ =?us-ascii?Q?1R2H6BVg2QUxnBnt2qOA25G//vhG+pjfrTTAE4xThAV5kFgalEdKElgV05lI?=
+ =?us-ascii?Q?gY4qPtmPqgmFhYktRk0fyMmCYzCKcTY3nTYE/3/VO80pR2vXFhmxjQ=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nypd.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BLAPR09MB7185.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 49a1d20e-640b-480b-b4bf-08da8aa691eb
+X-MS-Exchange-CrossTenant-originalarrivaltime: 30 Aug 2022 16:42:04.3069
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 2b9f57eb-78d1-46fb-be83-a2afdd7c6043
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM8PR09MB6216
+Content-Length: 2057
+
+--_000_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_
+Content-Type: multipart/alternative;
+	boundary="_002_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_"
+
+--_002_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: SENDROWSKI, DANIEL
+   Subject: Fwd: xmas - did you save 15% by switching your holding from STF=
+GX to BRK-B prior to December 22nd 2021?
+   Sent: Monday, August 29, 2022 10:41:07 PM (UTC-05:00) Eastern Time (US &=
+ Canada)
+
+ was read on Tuesday, August 30, 2022 12:42:03 PM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: SENDROWSKI, DANIEL<br>
+&nbsp;&nbsp; Subject: Fwd: xmas - did you save 15% by switching your holdin=
+g from STFGX to BRK-B prior to December 22nd 2021?<br>
+&nbsp;&nbsp; Sent: Monday, August 29, 2022 10:41:07 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, August 30, 2022 12:42:03 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_--
+
+--_000_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; DANIEL.SENDROWSKI@nypd.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: zENJ9e7hVUuLzv3bzzk4uQ==
+Original-Message-ID: <de929737-0080-6052-a51d-df71c976cdb3@yahoo.com>
+X-Display-Name: SENDROWSKI, DANIEL
+
+
+--_000_a7f93c8b99b141e59c7a9e028c8b8423nypdorg_--

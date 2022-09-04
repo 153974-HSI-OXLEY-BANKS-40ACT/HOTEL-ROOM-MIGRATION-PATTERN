@@ -1,0 +1,191 @@
+From - Thu Sep  1 06:52:40 2022
+X-Account-Key: account1
+X-UIDL: AC662Pc8cjx0YxCbaAoGaDYxJnw
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.211
+ by atlas315.free.mail.ne1.yahoo.com with HTTPS; Thu, 1 Sep 2022 11:45:44 +0000
+Return-Path: <isaacba.davies@dc.gov>
+X-Originating-Ip: [40.107.91.75]
+Received-SPF: pass (domain of dc.gov designates 40.107.91.75 as permitted sender)
+Authentication-Results: atlas315.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@dc.gov header.s=selector2;
+ spf=pass smtp.mailfrom=dc.gov;
+ dmarc=pass(p=NONE) header.from=dc.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 11:45:44 +0000
+X-YMailISG: OUG0IYMWLDumFwf_P7pvCBrtporAXyki.v.eIXNZxMH9B7ss
+ ZYWRygCWgLCAQHK6nNRtSNZ5dNIWP2OrSrpJp01PsVvjmw1TKjoDoFEkYQ8e
+ G4F.uHWg.t2VLbwS98q5sZ6XjrKBVn9.5Vj8uBexL.iSfqMA6YhAi5A.HM9B
+ ObM2TOGMS7NTcSKurDYaBjSDwY3G9x.YkJWr7XYwJ7g__69YhCeNf1ffdqD.
+ j.soZ4efhhIvurbuEYPbU9vfLgdxGUHpxr.Z6L4BTBCwJLHZjb_AmRG9Xl7n
+ N41npDStfhBHJ8R.bYHZ6EERcHsB4HFt04H2Pnydka26HJ7jFD8iv_qdez4L
+ JFoY5wnnBipZuIWv3SXnHg3VWKD6dRAjzIpYb_K6owAjjSlrm1AWm_WuZIwN
+ t.sD8yEYXUlD5NCrN0nFf9Kvd2poAlM8FKnwa.0RLyOnlf4BRnfY_7oZiDkm
+ rwPeYGG7UqkQjSZmReAJwg2HTA870vzKkC5NwzSM9JKkND2CwlP9pid4kjqT
+ 3mWBWMaKBnpy2GOZCLsKkiGTpYVpSp5caK9J0b.M3PSnFDgFxvezlgToUfD9
+ ovVhAV8noZlDiGnxZ_ef7GbskLe3VzgbHaJRm2tZ8Sf554wLO3j5JQlDLcLH
+ THHuy_W5Zgpzyi0Z4y0Mq5IOMTQSS1sQQlhy3kvHR_CscSZPs8BoKBVBEtZ0
+ ktHdTdanE4tKiTE5C0gK.F4JWxwq2gIcXcX63XAkPCvaxq2TybkgHBlfj4up
+ ZCswlONDWlBq5.de8o3SSWeiJokJbE8oCr3Y7o7TTDQ7rYtYqL0xU4IvOG4O
+ grOkH2cTQQxGId.X.Oi2trRKjRtyMMwhImbHIAk60Dwf5TL53_jg26gjAjl8
+ 2r3y9.4NTk_qAg8JyztP8bL78eKBrdOG_Od0qUQTJjSP1K8bzIsdjiXaeHJu
+ CEpD0JOujK02BuRST55ewPTFL4ZB42j6WD0rW5dhsUMVjiNB333I9hT_Hvhb
+ WNO6i4t1mVnMQvhuc_XZ033dTSTiC6RUoq87oW8ESMVsYV1VGBOvU1U05OXC
+ z_0wQHqozPcyqOpqVuLELpsb60pibexQb9hX727KO47bWbgKFmaNFiVpUrby
+ QsuCJZa._35kfwKNid0WgXwedd3fs7iEvhqyPbj8IAzCMhMjLtnGgNuGXbjp
+ IbVov_KU.JzUAzQzf2v8UYvn82aYyVp2yEPX7.uAI6NGY1PfLNjWTWYT2LL_
+ QEB8Hhde1UeTIYBO9BpK47gRD8xchC9IZ2bm4oqOQOlijfzd1PJEbJGU_P3c
+ p9Cxyjgdf0ZCrDZAf90uOUy.XHhwMFzXwP03ihCtjhQ-
+Received: from 40.107.91.75 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.217.135.211 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 11:45:44 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=byFv0PH5ALZ6jIjsA82ok4uDOrw9ie+flB9OQJVxlIF1iuJdsZK/Qz6tOZqRPHbDb9B7uEM90kd2axDp7ClxKoGSUIHCiYISgiQ6AkfAO4cKv0bvJpd/tpsTYmc/UG6dIMmXGSXKIxzKyFdJ441K8INxDCm3i8K4jUxB/b5xvuMUgNO4OvfiRwAie8ZpOYuTVGq71TbEIHVaC5eokIfod7PdwSbxPURuSOs0ZdNK0ThvaFwHKuVZZClB7bBBvwDxmQz2Z2wY+bdm/jaYn5pjll/2lLLNhZTVFpEOfIqXfZ1bch7u98tqzcqLlP+i2QsYvWX0399jqyOYs4Jg0ziYFg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=KCQc0P44SmNkjToswrShJirPYYX1l4OGCr3bdZBoVhU=;
+ b=E5rGs80m7X3eNA3qN0xMPRfpjfE2YbxZ/4XIrKgI5O+DQ/9LweZBQSGgx2OZYW0Db6ZBiKgTuCvtgTcw7ISxzD6gObjNJZYG/KRUUUArMlPAYAFSfH8cFcJWJwaBw1Jn9Dmt8bJ9oMPWQ61wpyJRvNPUhoItOLa3z9yn3ow2v7qvncPIz0oMwofnVNMsCmvsVwfhKZUmztUc+IETW+zNR/acFN3judD/kVmwQ16TXgf8ngZA+VArbsodXyLMQASvRXL7YkccVyJOqpg2b/b7o/mDkItefaOt4Kr8patxjpK4f9q5hJ44F5YMpATiNMrCgK9qbgm1wZnvD/QsGuqC/A==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=dc.gov; dmarc=pass action=none header.from=dc.gov; dkim=pass
+ header.d=dc.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=dc.gov; s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=KCQc0P44SmNkjToswrShJirPYYX1l4OGCr3bdZBoVhU=;
+ b=o77HJ77n9UefvuZ0NvVVnQdRf3mXnokQN12CQfa64QOjJ/VKodTDvnWvtI3EfTvi62bN9T3ACQqUIPX51oGUstfdLx5hnifz03nr6FAuuMkvnOMdqESd0ZrxTqUd85VU2UcQGgLqVRy8g0lUGtges5HJGlMcBLjg+WuwgNJSFZlI1/cp+bGkw1ofHvfHpVVV34OW2jyYq4xmcafL5NPyJZKbNBx9GRLBzmtp0BBMv62PNkCt3/4PFozQZnpXDkHqn9icn5Nxm/ii1qJUfJblmapEp9aZP578iB1ChtQXeNKs6NTarv6ZNFiLkx1JQEd9RZLixWyMMpD+7m3eowuMSw==
+Received: from SA9PR09MB4864.namprd09.prod.outlook.com (2603:10b6:806:40::7)
+ by MW4PR09MB9524.namprd09.prod.outlook.com (2603:10b6:303:1e4::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Thu, 1 Sep
+ 2022 11:45:42 +0000
+Received: from SA9PR09MB4864.namprd09.prod.outlook.com
+ ([fe80::c478:2c3b:7eb6:ad28]) by SA9PR09MB4864.namprd09.prod.outlook.com
+ ([fe80::c478:2c3b:7eb6:ad28%3]) with mapi id 15.20.5588.010; Thu, 1 Sep 2022
+ 11:45:42 +0000
+From: "Davies, Isaacba (DOC)" <isaacba.davies@dc.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: Fmr. Deputy Director Haines... I found your picture on the
+ internet..
+Thread-Topic: Fmr. Deputy Director Haines... I found your picture on the
+ internet..
+Thread-Index: AQHYvbXT1VThp5mXPUudMSxGPuofHq3J8YsA
+Date: Thu, 1 Sep 2022 11:45:42 +0000
+Message-ID: <b3406520b4b94a60a939511f7a5b6f87@dc.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: bc66849a-a22e-4282-8195-08da8c0f7fbf
+x-ms-traffictypediagnostic: MW4PR09MB9524:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 3SioMGaJYYdoP3rceAowqShWfJXPv6DXCdyRJHL6Nolc802IjZVtJ3eBsCO0FzK2n2aU/z/24DhNJ7V0+xzvgfoI5wgdzNOK8FaeMe1XWw+Mb1myCdk7UsFjZfRqDb5WYonQGmY6TwOijj01ex6g+NrRrM1fc8XaTPkQqCqdjSVaAsTE9Jrej5V6jRRR5zJrgJBmUr40QJNxp5QQbb4ka68YV68VIFYNxR1FD86t3n/RgzoBjupLwlNYT5yY/g6Xx4vfo4omQhTPba5+cbZVq6xvc4IYGjrDxIySmio6+gR5RlYwDyFnauwBglmCqW0kGJPNO6qRMjel1sltG/5iytdT7PHujHe+PvqLTG+e3r+5AXkW84vUndaSm/hE2PoTXhmOQSWcEq6nTXJAWtSBsnKAzAEtRXns9lTVnJS34NJxnI82kmHQn35aSA9U6CUUxZTvu+T7unBq/uqnwrEf2w==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA9PR09MB4864.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(73894004)(186003)(8676002)(621065003)(6512007)(2616005)(4270600006)(66946007)(66476007)(66446008)(66556008)(64756008)(36756003)(2906002)(8936002)(71200400001)(498600001)(108616005)(6916009)(86362001)(6506007)(24736004)(122000001)(88996005)(6486002);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?aqkFVF4QgnZch9N/EMu4FGAJdKufV7AzDIM73qGnBvv/5Neb/FCji+TufgE9?=
+ =?us-ascii?Q?BVkEc5ntB6IipgWIHyibvWPdYBdhtpVFYfSXNr4yeIKVyzn06Lfnz4SxDjEu?=
+ =?us-ascii?Q?8cceyYSLSZPpfnyKXpa4VqZx5g1V36SjAOlAUpUtyNBwNRHnezLv3+O88fBP?=
+ =?us-ascii?Q?SbJwSDjdG9H9djPBq9P5OF/aCcDC48yEwnAvhYcIn+bxqrbdDXYfTQH9ED/v?=
+ =?us-ascii?Q?0Mv0u2yxXISnIO2zw3E1zzrA2JpWQLlSmsHyFPFQCdCJyNorcMtgW/HtxyUy?=
+ =?us-ascii?Q?kH4TmvZYsgHBA9JKnukrnASLyas7+U+MsmcJFsCxw4qTz+HT58rKXe3Wl6u/?=
+ =?us-ascii?Q?ois4SnBnZ2TCVvKKp+QcRA+4SIc0upVUeQike8XqHeYo9K8pxYX7izDREp45?=
+ =?us-ascii?Q?wSx6zMlMpxVXdE4YWdQQYo9bFbsuvmDbiiK4C+KEUvje/olQfMbTUo4/S+cN?=
+ =?us-ascii?Q?YReLlXk/bpHkjr1N8G80HSWKG4J2hHEGOjKTtg5MhmJWqogbDfJ+XozTHI4L?=
+ =?us-ascii?Q?5HowUpSaUZYU4Mzy/iNVVdD35qDnY9DUEjIwlZxVOL62kS6d2FFkm9785ZCa?=
+ =?us-ascii?Q?K6V7CvgaR4kIXxqm1RJCtiQgKoOKPtdPSvdcaSS6MtteSrFnUZCX3JevxCWW?=
+ =?us-ascii?Q?oj8T6ciKQ3YMleXArbcW+JhuRy7kJR/AJBxzup41sG9rOdaE6OWWWkUcn+kp?=
+ =?us-ascii?Q?tyt0Kr5FniySrtsh8eLmaSDinn2edOtyGUIgGCN2eIOQKuq+iu39SAgBSyff?=
+ =?us-ascii?Q?0O5JDhdfd5X6UW99KdLa7SuMybJAYSKbWZJYOClvGJsuD8tqP38GErCBz38z?=
+ =?us-ascii?Q?NkDKJdBCCedPHsBPdUlZSiovkbbYl17H+HOS+1aTCzcWOgWQZ2FuhxMIOgBq?=
+ =?us-ascii?Q?nLeqSNqwW4xP2f6v0z//zzItL0o/EgLbv8ai/ipCX4WT/K4chNlSh1hzZPsQ?=
+ =?us-ascii?Q?Jv3dfPA/eIlADT2/IoBKopPx9c5KdOYJdPpjOIZg7Pa9+10T2mkU64No+/hr?=
+ =?us-ascii?Q?EXQvZYJo3vW1MAY2D/NDz770S5aJE6/OxtzJAuCJ6MdU7TSgyGhZrBwFXtrf?=
+ =?us-ascii?Q?TgF4nYXGk0TZ/h2CyzGrEC02DcjWscjciiWoV7J3b6eAbWQS+B7FEtzTM/ct?=
+ =?us-ascii?Q?I88I7y6TsA3Hdspnzcnj74NSeVYT38SnGrJ9RjMDj3g3waYC/x6yAY9tHXd5?=
+ =?us-ascii?Q?qReQRh0OkIyqYBWj/VcloFONPn1ZDxsJJOymkFdYkx8uXJbhABOhjH3yrjBM?=
+ =?us-ascii?Q?fG7GHtS7lVDPjCjrn0kh0jgSMwFuPSa4issU+L2D535m3mW2uhCr/1f1yrpO?=
+ =?us-ascii?Q?LTlQ74PuWW2C2SjVX7IWosgxCyRSeq5ZftP3yTM87PS1wMhOCTnWkXEUs5Kd?=
+ =?us-ascii?Q?yL+TEJy+SUgOa4yjMSHu8UP5jvSBWAFU1nkVMkt8XCuFwxN76XBxoXzstmvi?=
+ =?us-ascii?Q?ZfcHCcgn+vYb8zJcjPhllXgCKT89cxsV+J4FTGLRQZjIGdg2C36RLQ=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_b3406520b4b94a60a939511f7a5b6f87dcgov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: dc.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA9PR09MB4864.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: bc66849a-a22e-4282-8195-08da8c0f7fbf
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 11:45:42.1376
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8fe449f1-8b94-4fb7-9906-6f939da82d73
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MW4PR09MB9524
+Content-Length: 1997
+
+--_000_b3406520b4b94a60a939511f7a5b6f87dcgov_
+Content-Type: multipart/alternative;
+	boundary="_002_b3406520b4b94a60a939511f7a5b6f87dcgov_"
+
+--_002_b3406520b4b94a60a939511f7a5b6f87dcgov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Davies, Isaacba (DOC)
+   Subject: Re: Fmr. Deputy Director Haines... I found your picture on the =
+internet..
+   Sent: Wednesday, August 31, 2022 11:54:06 PM (UTC-05:00) Eastern Time (U=
+S & Canada)
+
+ was read on Thursday, September 1, 2022 7:45:42 AM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_b3406520b4b94a60a939511f7a5b6f87dcgov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Davies, Isaacba (DOC)<br>
+&nbsp;&nbsp; Subject: Re: Fmr. Deputy Director Haines... I found your pictu=
+re on the internet..<br>
+&nbsp;&nbsp; Sent: Wednesday, August 31, 2022 11:54:06 PM (UTC-05:00) Easte=
+rn Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, September 1, 2022 7:45:42 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_b3406520b4b94a60a939511f7a5b6f87dcgov_--
+
+--_000_b3406520b4b94a60a939511f7a5b6f87dcgov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; isaacba.davies@dc.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: qMf/oJd4qkyFlUag6EXLTw==
+Original-Message-ID: <979070f3-e6fb-b440-3e19-107ed14a34be@yahoo.com>
+X-Display-Name: Davies, Isaacba (DOC)
+
+
+--_000_b3406520b4b94a60a939511f7a5b6f87dcgov_--

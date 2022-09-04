@@ -1,0 +1,197 @@
+From - Fri Sep  2 16:56:52 2022
+X-Account-Key: account1
+X-UIDL: AHpR2AwChIF3YxDeEgUoUHWuDf0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.137.137
+ by atlas218.free.mail.ne1.yahoo.com with HTTPS; Thu, 1 Sep 2022 16:30:09 +0000
+Return-Path: <WoodNYSDChambers@nysd.uscourts.gov>
+X-Originating-Ip: [40.107.89.123]
+Received-SPF: pass (domain of nysd.uscourts.gov designates 40.107.89.123 as permitted sender)
+Authentication-Results: atlas218.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@fedcourts.onmicrosoft.com header.s=selector2-fedcourts-onmicrosoft-com;
+ spf=pass smtp.mailfrom=nysd.uscourts.gov;
+ dmarc=unknown header.from=nysd.uscourts.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 16:30:10 +0000
+X-YMailISG: eaGNDBIWLDuwjoLFKhd5ZPrFMNA9LxpIUzc8XHp2kRxPE3oN
+ 4YWSGV96RAZXQGJU94OYJWvhvXcPDyA3yCcWEvWGYuu1H8GLBMKR9y_YCj5q
+ BVY.vRQh7v7maSHo9Hwd2q5ppeUxN0wW3qBtDdNGMMOLTz.3dMpoXhxNgOU2
+ vaS7l_pbsw0M7kCWhfLnOMO8jPwIbiGPjZQ7N9ZBLFRsHHXPjWHAoFI825Oj
+ pY0UuQMC9QfSGVkklH2ZV_OT7xCiHRZzeF66ScXdRm61TW4lMtvIJDRS3.0Q
+ Bt5yDaZ.ggNSub50KKE.uKgpFNFrWT8TnU.AfcbxFwrvkVBBrdxWsC1m.F5a
+ a_z1TMUKbnqqUOuJDby.5HcT4qLVqNG_5UkH7pkiTJWi81Vz4UFfqfdUKJtY
+ TrPOjTpiXBAgeP6a.DMQE2stSDIPwjWKzC66G.Ts96mJbyCH0b.Rg4EyXVZk
+ H7Tz.aZOWfgMyFnji8h.u025SiqozZc6yVRz8APqpYPu8D6g1FxyyOV_7tac
+ YgAkUG4rFUH9A2hO_fCcfbHuNnEHbouxoflC3CwZj.wiD6cojNyoYntj5LoQ
+ QRBzrLmzUGSgFqECR.PGvyrKtZzi14bIeDGdlin0r5XszGbpW572z5WXUH2f
+ 35wD0YE89_qyM9_ONhnJ6sBu8RQfzma1k.clsv.1O6sQUvyQI4YAzXXc.wXm
+ tiLYAgrqXnKHlnsGs_ixmyOiyLkw2pHRxH3YZ.38RlQdPTUjKqgdeZA7c.4r
+ 0IkAf1bi5Qb6I_JTm2orOMc0r7KSJCu3nRxo3RipzE.wmu4OCaRo2D3SkV6q
+ 3FcYSdeMW1pib22b7HhrX2CAZ3zsdENS8bLGnYBvacjQVx9mspJvIGrxK5OK
+ OBxnxnBgJq4W9KbNd5dwaJFs6RiKsr.v2nPWFZfdqFtYtQXo8DBtQOJDkaPK
+ vQHs1mxLEGXH7pbRIMlWpLzlmolWdn2BSt1z1D0TRp4U.2_9SHiqgQ_jdZ3_
+ sFIR0momBB_u1D733xhb348AwGls9xm2EbsAWiuBwoyQrY66hpMOOEjobnVi
+ lQ52.R8URe1aFUk0I6JbWuIbMw000JMDhtoodOhGMHhDTpjUKP21XLwKqNct
+ Ko_AwX73gDnVbbeMlyCEQd6pp3nBMOFYCULYXsTQ4hJjLm_FazxujSPI3FDV
+ _onL7uRYEXwFtnsUVHzxVfjo1ednVSiGkcO4yYGLpra3MlHxjevaIJt8pIHR
+ .Iye3ryvGLQeBq1hb970DIAtyGq8HXXHTDyL3Pm58zCnKjj.7Aljc64mLKIw
+ eLCzo2XOpN3n8yUjAY8KUj9NeHpttBhT28T80qYBITvsmkdZ8aL_1CRxj2A7
+ 8ea1huIyGsTR9_b714lc
+Received: from 40.107.89.123 (EHLO GCC02-BL0-obe.outbound.protection.outlook.com)
+ by 10.217.137.137 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 16:30:09 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=eDoq/CInAvNwGThDvgt52nrt3SeLMgoLuP/78mag7FC85Gd93yQtvzSZy39+CCNjHkQYLbXmSbJ8dbG4LcXAfWpWpzJFBoNfk0ARuvfbDX3WjRu3l90ztxuJa5X1Dt8rM3gIUG8gLnUDMu5h9myGH9PkVWu1IAWQXmwpLu5rWXRLQv0zhO3Z4g1jKO6CkIuerCemtcn0vmQB9Awc6UaejXUm6CUz/RUwAqfyYYqpSKB5kp9lWUKQfSTK0mInyWe4PYeonDhFcT07kvbco4eX702RTBk2Ana40KMcNOUik4FB7jMJDS/eGd/HqUWATdmvTbEVC+30LqTmHcTrRpXqXw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=0R38lq75WknqWzjAJrOrOt8SgP1x1EdH/P5T3nupTWU=;
+ b=ncphGjLvD0C+lsTp3f0TXaPFzYo1ZozSi+8hnHtOzgU2xf+r5cVBw1xsQYCjAHH0bw19K4Qg5ka0TBdaH8tws+6C0xI1ZM40hc0oZiV3uyfGFfRojJwM6fc0MbMAO3yljnkyu6HrucGzIADb1Ex5txs4hnARuSjBTJcjWm2l80QAVqAxzg3+HOG1u6i8mw24RYjrMjDFsvFF1iSFw8M8QhOwczPk6LrUgh1BV4vhceirufEBo5ztW5/9880+LMe1ztMaQEZv31mz/2AEYZGJ45cM94VGdhv5rwoTTubZMu6+cshsfugWP7izlR2Se/vbfg0yfdEb8Nky4Hhtc1kOLw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=nysd.uscourts.gov; dmarc=pass action=none
+ header.from=nysd.uscourts.gov; dkim=pass header.d=nysd.uscourts.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=fedcourts.onmicrosoft.com; s=selector2-fedcourts-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=0R38lq75WknqWzjAJrOrOt8SgP1x1EdH/P5T3nupTWU=;
+ b=d4fasuWS/4oudUGU1Sw3ku2XBZb6/hNBspo83DExZFQf5uDb8oq4XqbzUWOz4mHWlxGbB0zUrtE7l5mX6bUueUpo3APDGjfINSvzfGW8la0cavcjGWH7umu5CewiYUvujfMcekdobxaVmywpGDOGIn72GbwSV55wVQCkfEBIRjs=
+Received: from SA0PR09MB6969.namprd09.prod.outlook.com (2603:10b6:806:a8::24)
+ by BY3PR09MB7924.namprd09.prod.outlook.com (2603:10b6:a03:348::11) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Thu, 1 Sep
+ 2022 16:30:08 +0000
+Received: from SA0PR09MB6969.namprd09.prod.outlook.com
+ ([fe80::c4f5:509e:6494:6e8]) by SA0PR09MB6969.namprd09.prod.outlook.com
+ ([fe80::c4f5:509e:6494:6e8%5]) with mapi id 15.20.5588.010; Thu, 1 Sep 2022
+ 16:30:08 +0000
+From: Wood NYSD Chambers <WoodNYSDChambers@nysd.uscourts.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: xmas - did you save 15% by switching your holding from
+ STFGX to BRK-B prior to December 22nd 2021?
+Thread-Topic: Fwd: xmas - did you save 15% by switching your holding from
+ STFGX to BRK-B prior to December 22nd 2021?
+Thread-Index: AQHYvBqFDSN/GMsuJkWQVWe9ggmM0K3Kx+Hh
+Date: Thu, 1 Sep 2022 16:30:08 +0000
+Message-ID:
+ <SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9@SA0PR09MB6969.namprd09.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: f77547a6-4374-42d6-e8df-08da8c373c0b
+x-ms-traffictypediagnostic: BY3PR09MB7924:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 0VplijLI9rwh/71qpFttpGQSRS3WUPOtncI06WGBrwyCkdNretQg//UiQ1Gp0yTpzHS1/oE19FjOQpaqduxCoa2Y8gvbvLTC9XBQMWj/8z9KAjHNkwpeWkPULscIr3ATJJG4OeerLW+xtNCSRXOjqEAsjG3rGwmpj6xSQenFX8XFqd/AgPKOZS2uDtp3J12EYOYpU9AUGM/Zn/pVR3M/bXlEkn8Q5InGhkcth4GuV6a18bJPtvfWORt9+mLgyEnLpBh6cPCfUNSBVGd5JV2KTgrSs5YoIMMnhrz84JA6nULWrTAb4TaanarFXLREb8gXT9c1i/QHH9Fdq6JPsRhe/Ri6gudfsCHj9AWcHtMajxYty8NsaN3zBz53s8XrjHLra9O5+FtW+Yt+wOvhCa++Rpktc/KqujQWfm23nqc4x6ibj41ShGOBetgCQvc8OO0Fit0+Rg0Q4B8NvNYX3Ge9tDwJObLj5Hpl0g5pJkscURr+R67D8aa7N0TrZkkFgY2A
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SA0PR09MB6969.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(8212001)(2906002)(66556008)(66946007)(76116006)(66446008)(64756008)(8676002)(66476007)(6916009)(9686003)(55016003)(6506007)(4270600006)(7696005)(26005)(8936002)(52536014)(498600001)(71200400001)(621065003)(86362001)(33656002)(186003)(73894004)(122000001)(38100700002)(38070700005);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?Txm5jftmnt/3Nd0L1NDz+8pJ0fdipXauGeUUueU5UhO7Houo0jGBJvwOZbhg?=
+ =?us-ascii?Q?nU/bVgaW1mLWaAnyqauntysuFDTJtPX3m4layPKQXGbjVr/VySDlW4hez5SK?=
+ =?us-ascii?Q?mdXLVmcPwmXE4gZwOf8L0GCp+R3QNMYIgpqg5YPm1JsVMHbBlv2Bv6Sr6DUu?=
+ =?us-ascii?Q?b7LuL92VXWz5P3E3wmcei5kkdQbxGCjm2DPV6Yb+ujy1L+92CkNtF1eKFYHk?=
+ =?us-ascii?Q?IjGMxZms4Ya9T1AdT9zb+HmqgDoW7/locsyWoLOX8cMMzFz1MhdCU36wAFB0?=
+ =?us-ascii?Q?Djkkr6LKf5l+qiggl7tzo/2oihslw5+c6loYA1TDMvR7BEzYCeNUDTfoWi5m?=
+ =?us-ascii?Q?eh5Vo3IW6DP1tUw0qrNjYfQDac3bcc2N1yogMX1WiV8G7hKg6E64eNtP9EOl?=
+ =?us-ascii?Q?siWR8ixxROy5VsDPQbuWAdTxF+dCVRIoNnaEbrz5oF+9qUGIItbM5f5+5qz2?=
+ =?us-ascii?Q?caRmv+ctQRU9HQVvT45govhs4KdSPL5tGwuLydccl7HK0+WKpXs9clFQzeRZ?=
+ =?us-ascii?Q?pwS131AfMsY6dP9L6SfTvtd186BpYagFRGaUneXKN+ODWHcX28p5//cnYOLS?=
+ =?us-ascii?Q?k+6eMbBifRktBh+53eDXJ6fufV/AP8Rs334Xs2NJE0m/A7QC03732uiT2Urk?=
+ =?us-ascii?Q?fsAcId2hFDnEvS9rte9BvdDmB69Y3aniHeE4228DfLxmqF9CUqEBKxl9QD5F?=
+ =?us-ascii?Q?Uyr7F/o2r3+SMRGmfSeSa+R8Z+biUBi75KqSOUFNBL/rBSBNALeZWjNpS5XK?=
+ =?us-ascii?Q?li3+tZ9PirV0uZv4SM08DyiwoX/zM8nQYKJpdUYpUDD6UsHKDBkjjf0emH/+?=
+ =?us-ascii?Q?vIkS3EvKIwOYtEYiKqlN6EXNZAah6/3G6ndpfJCJqjpirIjCTseqCbkxi+s3?=
+ =?us-ascii?Q?jRMO0yaCFscfI02Se/gOOImiCcawBmg6KZPOO0dPOPnWx40WX58CfsnofwIM?=
+ =?us-ascii?Q?RGsVr0tw4dBjC0O5Id0lBIASSev1FkLh+u5BHysu13QU0KzOJlWEUYbTuUgB?=
+ =?us-ascii?Q?zmXbcHluf8UgB+Pbi2cbGsAAZ+RScisrNB/T5zhlF8FudlezsilbMMMcRTH/?=
+ =?us-ascii?Q?vrVmjYdeOdbCLPVmmRZIcQQttVKy4KVNn13KcjNRpC2LhGgyMkCGaFC+igSA?=
+ =?us-ascii?Q?/VaLsphp+0iey/75XWvZgwdpn0lBLzevirtYYCI3ZwnJQ7jxfST1aKE5/shU?=
+ =?us-ascii?Q?fl34oN7co3OMUE6TNazPHJB3TnUVQCFmnrcOWS4iA5opp1s/IOKvxr+pdKXU?=
+ =?us-ascii?Q?geMzPPw/6sHFVk/cBQtUEB98TEzjJxH7CfSjdtQULLCJkCuOWAytGkv1A8R3?=
+ =?us-ascii?Q?V9ebLHLK7Lx0yh4qs+3ZXKNRehICx4ZgACUOCtL0raK3KfogyPtWMA5VwHp9?=
+ =?us-ascii?Q?YHvUuZlDWr7lW3aqV40CG1OL5NAdsBOhWWvXyOhg+VByghEOv8b3vaxcayc2?=
+ =?us-ascii?Q?2wuCvKujqUuRQVbcy+sUd+QfMBIy1/TqGgQ9Fl2GWX2HP4fxStGjLa3itfg3?=
+ =?us-ascii?Q?0m6rMUO+Z3Fmb+IhQa0KkNNGC/85mVgnVRYyRGcDTPsvWikoI7PaHUiHpYnS?=
+ =?us-ascii?Q?f/NIee8RAKTAzX191veb2eG23tDv3GhKK/rhihOgBtzTp41XdDbqSWGwX9Pa?=
+ =?us-ascii?Q?aA=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: nysd.uscourts.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SA0PR09MB6969.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: f77547a6-4374-42d6-e8df-08da8c373c0b
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 16:30:08.4537
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 1d66f037-8266-4d1c-919c-67c6543d3542
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BY3PR09MB7924
+Content-Length: 2123
+
+--_000_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_
+Content-Type: multipart/alternative;
+	boundary="_002_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_"
+
+--_002_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Wood NYSD Chambers
+   Subject: Fwd: Fwd: xmas - did you save 15% by switching your holding fro=
+m STFGX to BRK-B prior to December 22nd 2021?
+   Sent: Monday, August 29, 2022 10:42:44 PM (UTC-05:00) Eastern Time (US &=
+ Canada)
+
+ was read on Thursday, September 1, 2022 12:29:44 PM (UTC-05:00) Eastern Ti=
+me (US & Canada).
+
+--_002_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Wood NYSD Chambers<br>
+&nbsp;&nbsp; Subject: Fwd: Fwd: xmas - did you save 15% by switching your h=
+olding from STFGX to BRK-B prior to December 22nd 2021?<br>
+&nbsp;&nbsp; Sent: Monday, August 29, 2022 10:42:44 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, September 1, 2022 12:29:44 PM (UTC-05:00) Easte=
+rn Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_--
+
+--_000_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; WoodNYSDChambers@nysd.uscourts.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: ajli02vuxkWHuU7zd+LupA==
+X-Display-Name: Wood NYSD Chambers
+
+
+--_000_SA0PR09MB6969CDFF4ACF7F2C28D68E9EBF7B9SA0PR09MB6969namp_--

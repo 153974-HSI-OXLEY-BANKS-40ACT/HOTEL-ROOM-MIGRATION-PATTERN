@@ -1,0 +1,211 @@
+From - Fri Sep  2 15:20:49 2022
+X-Account-Key: account1
+X-UIDL: ANLGBTouiq6hYxDDhAbhuIZrM/8
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Thu, 1 Sep 2022 14:36:52 +0000
+Return-Path: <AGuirguis@schools.nyc.gov>
+X-Originating-Ip: [40.107.243.103]
+Received-SPF: pass (domain of schools.nyc.gov designates 40.107.243.103 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@schools.nyc.gov header.s=selector1;
+ spf=pass smtp.mailfrom=schools.nyc.gov;
+ dmarc=pass(p=NONE) header.from=schools.nyc.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Thu, 1 Sep 2022 14:36:52 +0000
+X-YMailAVSC: KabJqOU3bBsuYMHiR2qcyX3OwCbsFSTt4CQBPny7P_bJHYe
+ .lKujSC_3untiYQcvrgxW3CZ0QzpMUcFOfCNOfPO.6P6EKh4iNT_uoefzAh2
+ GeZaWaBC0BMUfZku72edwdbXkuAjlFQLkl9YUK.SgPdFy_nYyJRrdCzvnzoE
+ u3Dsd3K7M0BdvM7F9SCI43smWo2VsZpbHRXIT5tn42sTpefdNQjBFPOHxUF0
+ vFy8bif4zkjWKa7djO5WDKSm_gpCc1SK3sUSu6z9FggNBpc61pnFUrXyhvga
+ n.tDI7hrAUVFUlt9CXT1OnR.2zvpovtwtRUinQTkTjfq66tD6iFvQW6r3lKP
+ vPkC3Ma7HfV7sJGtkwf7CDp63LqKD0S7fBXMKR3_o94cTq2rmuE9qmaKRvv_
+ m6WAMBvDIlit2dHlQvcXPCxY2ms1.A1AmPKX942HzCjjchypbSLTEFxJCMs8
+ mqwoMQ9uW1JPKa7WkzpwwaQ3qCETkVMwD9cKl0vHAE6WPK05HA4i.AKeiN7G
+ 0Qh_AyKiBLYMJJbUN7NXUegKQLo5kHA_ZwmkxRoXVUz.2Qbida0VQe9Cm7d_
+ AhKiHuWgaXiPvVWiKpzIA2g7K7hiJ54o9dEUKfOkulTaef46J5Yezb7EeV8i
+ AT7nIUDciKmsaqd7JJYMJSqpuDMu.AWly7jITN7uBzS91HmzMw6eqHmTSak.
+ vfYpBwvoSD2rZnnTAuEDlK66WyiBZgA1kv2fFzv5NB9iMnrx2LTYRvrMUwzg
+ 1cS5Gk8nN7BMxysQI31WwNZDBY61RCZDxa1HgnE6pSzOObuqLlZArNAqw3A1
+ au1avtccZ_XaiPmhRnKE7VPfraz2iEGjW8xrW41_hkcYuIHXuPF5FU7E43XM
+ kCytvvVQeX.Nc6sPgTX4YOEUhuHDciDhldpwOOoVXfePua6Jn_rws.kL2TZ0
+ _Qf2XiQ41qyPKnpV3eBlvtcr39C.UAh2SZb4isK6V1xLH8yiN0AfiegcXGpR
+ X.zBsCDKS3LlLznsv30K0xBBYnqoNNyuU8vRcQe8Mxe_9w9ZMxv79ZctaOiY
+ R5TTYkFXk8_uDud4v6GXcyp1QemTBjbo_UwyM3pZV67t.M89noamIiwkfHl2
+ oZxv1uKgAmmefNK.fS2S6DoZdy4WcurhtBusfAdU.Pg51o3UVJh7ITz5xE4G
+ eNrl0fB9rh8oMeIq_lknMjsX.J9c0fe4A
+X-YMailISG: oq6lL44WLDvgmsUXXum8froJvaKUDBA8NwGr_.zc2hGyC91c
+ 7GTYgAPDwrIsHLFL.JeYilfIimaEEqhydtanKQHt1kKTgIF3cd24MZ3UCzXO
+ FOwDXj2mH.FLta9x9ZhGksnSuFqCbkxKeNLZfphmT5L56Y.3L0x0Xy3bYI8C
+ DsUjB7r7PVDYpOaMcnTqhA2NeB7E3OX9ZQqZ816zKru.KKUC3b0_fniYSCfJ
+ zrmcQxZlmv8GcSKmQD4ayBr6U6VRDIZ3OrrvxV1Pj222Fm2Vunh6oLFafFg5
+ nTs66qjexOM4LGPxKaB1xGx1Jc8eQBMSszHKVwFydaI83QVVkZbsfUHMr.OU
+ GJEPINM0SUEx5H2gg7QbLXk4vbDURgy.YKnkANdMXve8a_o6qscuV.KEp3W1
+ ei0Dn_XovXzS1K5QUwcZZJ7TmT.isPQX63Lix6Jt.MHQr4lN4CNM7gw2hISo
+ r2V8G8Oxg_lcLfbGy.Lx_R4C_AuDNYLWphXCe6ea449Md6z0Y2nVKM5pludm
+ buWW57Vf71T.wV7WodgXeq3sogh6VzMNN6Bt0SZK6K8.6.ZgsX6xkuW2ouDh
+ rRjlw5kNOqdrFo91Ef6gsq0JDtoxfi.GyNS.VwSh5ephM3OtVGXtYleVG9nZ
+ RtePnzvjIoP1SyBJ3q8FNsLEr.CSld3uWagVHco1TjvJjz9NtguZPFymKXB6
+ QW5cbE7kfl3iF7mw1thndKYeMJ._U2SY0ieni78HvgPjNvTRa6QEi_JCEHCt
+ WN_EEbf_jW154A23OLKpoZBH7kNV.f8BbCpQmz4p0oh68ydxMI0F0VlyJzEH
+ uqGxt0vjh0qQ44hbNXYhTm5ZEUNIP.XtR2pJTsEhVcUGoj993Uv.hgITbk3d
+ Gn_Wsq9Lq4NAAijBDpadaO2R3AVzR5h9hRchCFRMH9KwLoJEn.kBSqszPuzX
+ _MHQlOqXYomPhUSgxikzImG1HJe61bY_NJpA2Ni7kPkXBB4GNQhiwXbC.gyq
+ 1plyRY9PRCjD6IJRdvTR6xqEIg8k_sf_hqn8OPFpkx2sEDOAI1h1oj8CJAxJ
+ 4z5nXIAqqlEJalzpQr2U70qRVwQEuDLxNdXuzycqZhGh1pTsxBEomOqP9e1C
+ H9mlLf.GR1Z.p5o1THH4.vDz6mhth33nlDCGab2rbWudmOHxj0JRksg_3Jtr
+ OGHf4.K9gBmykipuVWn79VJR.L8Fjup66XIb0LLE_AaAQa_XDFdS56dD3t.A
+ rqJkXKktoVn1ShVqON_OxUmFu9bxZczUYVo144_QlSjw0FCywYm3W9ICJ452
+ qCCaljD4D8ZBcJM5zAER1UPCJu7W.rVt0nZSRE_EhNc-
+Received: from 40.107.243.103 (EHLO NAM12-DM6-obe.outbound.protection.outlook.com)
+ by 10.253.62.156 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Thu, 01 Sep 2022 14:36:52 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=LY95phVe3mXNqnogYOcWNZ09v7NNPa39xB86Vvim5WlfkVFqDi7+KgIdgqChqfTaTNb60NV0shJ94akUkJJGPPIh2WxFYMMZ2KTYOOH13JuNo/+6vM0Q+MI0werIG6kbfkXcGXU6zZLHj/MHvDCw+AXuFzz53Xd74g7aNdLDxiAuFqMIaHkGfNA1YvhzRwBe7b4RnhhhsCJNwOy7U1LwCOw7cJufGMvk5gAxldNfbx4iypupMw05rIASr+NvoiMGDjjTSh9MfsiXh5YfxVoW2FrIlidooybrwtepQ1uOn8jfsGbNUvtSeidsaJbsVnR5/1c5I15ArWyNfQqereDgPg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=R5PGemvCOT0POYhNOoHzcuWrZnvAYBPyRnb80gtj7b4=;
+ b=bVkbIuhkq8CZSkCA3U2S9vXSdCrrR65zGseOddLNhUssjD2FNvUHeHKcgU/fonxTwre5wQYw+3ZzxylQ/mcipFiliJ7mYVJkZLDxsVl2N5k/sF6t7NPdRqVCdOF4j69UwNUf9Uc/fU08wxYud/FRCbktCTcodGpxlHfIZ2zx+aJaEYQWehS/7XsFD+VdId69DsU5pTB6Isjb863LM5kqm+UGPb0erewC95B6Nk4GpgVdCY8zkmWLaaIvIJzbkAr0tvUPKJ9hB3D5tqRCTJwhPOWOqALr51naKzduBBxrlmJmL52gPTID02Z8Zl/K1X3nJNBbCT+kq2SCC7QML+26YQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=schools.nyc.gov; dmarc=pass action=none
+ header.from=schools.nyc.gov; dkim=pass header.d=schools.nyc.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=schools.nyc.gov;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=R5PGemvCOT0POYhNOoHzcuWrZnvAYBPyRnb80gtj7b4=;
+ b=srYKvk1oe5D1duCahFkU0hhEzQP2kHL4EKIHIKgUUa8lDSlsPxnKB6SXUoZ8b0KlCK5deBaPlIpgpKy3iKSyJFND5nucxTPlFHqJ0FEH1PL0gl0bHngVPHP9P/macSr6XuqCwhGz9jPPy79a8zc9f2SZ5tr+dUvfBSm8dNv4lSk=
+Received: from BL3PR08MB7281.namprd08.prod.outlook.com (2603:10b6:208:33c::23)
+ by CO3PR08MB7847.namprd08.prod.outlook.com (2603:10b6:303:17a::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Thu, 1 Sep
+ 2022 14:36:50 +0000
+Received: from BL3PR08MB7281.namprd08.prod.outlook.com
+ ([fe80::7974:ba2b:7039:ab0a]) by BL3PR08MB7281.namprd08.prod.outlook.com
+ ([fe80::7974:ba2b:7039:ab0a%9]) with mapi id 15.20.5588.012; Thu, 1 Sep 2022
+ 14:36:50 +0000
+From: Guirguis Athnasios <AGuirguis@schools.nyc.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: Fwd: TIME SENSITIVE INFORMATION [ ENCLOSED ]
+Thread-Topic: Fwd: TIME SENSITIVE INFORMATION [ ENCLOSED ]
+Thread-Index: AQHYu0rH8jAp6WmiuEKhyBQNORUQia3FHsGA
+Date: Thu, 1 Sep 2022 14:36:50 +0000
+Message-ID: <635af5acac804823beb0d92fcbea439c@schools.nyc.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 50e0fafe-f1bd-4b37-e7c0-08da8c27680a
+x-ms-traffictypediagnostic: CO3PR08MB7847:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ csV/hwyQiomPK6Urw06FJaFBqiIXhXk1NTztT3nFX9ndYOhduerzIGkVWEelFYK0lStWTGKXx2ie1JCZPFYmheK72MuZO/TqaecExC8KebGi4NyhjYQXkFY/OHKmbMUOnEkpuRqqnB+a0USzgmcFoIX7hgzdG5nP66mzlILN+qJ0gG+mEDQU1NgId+iIIPS7DZWWDMy9Kdfig+WzKXqxuhIYldOvd/IMO3m0sTcbjf2ff4DJUFjhYZ6t6Ydkz8vuszpKypgtzoqG+TR1Dur/oqYT/7ZHpvirCYDHPoHKVwGeEuNPhuF5PfC/MEZgdAvrPCl872xokzH6Qx7HN35io8bzKyeEaCvyf7AShBswua8qoUWvyDy7dtJf/3DTN4Kkky+0apC508eVIzS8SsmvMqhP63Yz+ivQnDsf9uy+jfte78TlIJ0dcqBECK31XkIuat9ds1tr53fzB3qwpTZ+jw==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BL3PR08MB7281.namprd08.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(39860400002)(346002)(136003)(376002)(366004)(396003)(108616005)(24736004)(86362001)(122000001)(41300700001)(186003)(73894004)(4270600006)(6506007)(2616005)(621065003)(88996005)(786003)(6486002)(66556008)(6916009)(316002)(66946007)(66446008)(8676002)(6512007)(66476007)(478600001)(64756008)(71200400001)(8936002)(41320700001)(2906002);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?PHkbQ1Tackv3IWoy5NLIfeLfmqg32NcnbfbIMnodXAp6ia2nTUXKaRx6JiKr?=
+ =?us-ascii?Q?YrK3qiXSz/e5t5ZwYe7HJAXfMIcLFrRBidNGF3Fc319nBFERR3pjEtz/Zdww?=
+ =?us-ascii?Q?Xcncp9QI/E6a+FGGlKAf1d7QpC6eSQzHVs5nyOf4oUWF6y6SA+vO8lTRo6At?=
+ =?us-ascii?Q?T9HHEzJ9FH/OgcMqQ0rnNZ5G44Q3uOHnJJ62xBB6/lQwbT7Tdljb3M81CbOa?=
+ =?us-ascii?Q?vtavGO1bbsWv7RoUzIrG8ZhuwDD71yfs4Jf2gUq0R4NFzRyk/n2co1g0x9uE?=
+ =?us-ascii?Q?sKWOT01LTvJK9VH643vH17DJTYE/u0f8tNZImmvmutRUksEe7PC9N/pnvw6W?=
+ =?us-ascii?Q?nKJrIBiXs7N0JCjklHE1LwwrkH/rlHwvZwwim1lzII+orM1V/ishJXxOGKI+?=
+ =?us-ascii?Q?1w/W48b1k7sWe479iq1xE2ViLwih0gtDhqwReDwcZKVuGsbEQhl6zwGxexIk?=
+ =?us-ascii?Q?hit4xKROXVVN3PpcgMZjhGwR5O5id7dTeA2bYzecAMFgulV7s5JhX5CdtPvC?=
+ =?us-ascii?Q?Cn/iMSI2uw4LVAkrfNF+wq37rD061Sr1e07Uvn0zk9B6i+FsnmhgNv4PtPec?=
+ =?us-ascii?Q?ER0Ex2UCf5B8WNcKTDm8ZFexM8ViZNAs6cwhQaSWCLXYnRoJBVBLeMozcMdk?=
+ =?us-ascii?Q?u/bgK5aJSDIUYY4bNPj3umfvRIvEgRQZEQCDXYJwJ6GOtQtrOEJ2Sla3H8T8?=
+ =?us-ascii?Q?PdiMwEOh2Dba1NhE4u4VmczyFryVwGSe5CV4zeFWaem5V0VOLNUjdbiRqS4E?=
+ =?us-ascii?Q?XcnOCKXl/jLuMzwdwn9Yr7UpvguGmKuztoJC5aqJ1hcaYsXxJ0FXy4ffTe90?=
+ =?us-ascii?Q?xB/w7SElS1uip1SpF64dQtQmy+WoS5MX0e+gRlCJbWMZPWHnrXSVmbiF+8GK?=
+ =?us-ascii?Q?0ZLsByaaq0j6/ick4O99NPoxAdRGKFCD8eaG+XfLWijmfqcBH6pT+ey28IwE?=
+ =?us-ascii?Q?kdVl05Toy/EKzT4q64T+uOPK+1Lj8TPgd747GHkrf8CBQsRdSjt3NLY3dkYY?=
+ =?us-ascii?Q?+udnIKe+i4bpggMvB5ZJsDhX4syMi7KJEMYbwmIk/D1TM62wCPBdqnN28lRn?=
+ =?us-ascii?Q?rNY3fqFbk8JgryJxifRF7TBsfJoeSJz4r+/WuBi3s+778YKw7zU45bSJnv3M?=
+ =?us-ascii?Q?2FC5vF2/zflemUf4c+OTcRYpK7wbo9h/B4+54UiCYz1VNrA6MUJqr4wu1Skt?=
+ =?us-ascii?Q?pH5Zdr+zSbCUXetAeJPxmwWZL8Fi4L0ZvZ6ipNwbwvQt1MplaDeVxhgUY1Mq?=
+ =?us-ascii?Q?vqeXjOEviJM6xKM+uu8FX+36T4dI0gyS9AdILSDJA8Vfyv3nFx2oKK1pUYrg?=
+ =?us-ascii?Q?XFabmabS5AmtDXkfQDrlyNfEMAAlSYGej+vcLV41UeyxQ3jQ6feTauR75xvV?=
+ =?us-ascii?Q?tfYeUcuCqz18hhDmx3ep9Oj5v1ZBNVz5mga3Eh/UCAJ0ryX4Y82ng6e2KJ8l?=
+ =?us-ascii?Q?tQrTz1x7LAn8iB6z/nEqwT51XF4YY5zpAJkSYUVbhY7ExSBbykEjbQ=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_635af5acac804823beb0d92fcbea439cschoolsnycgov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: schools.nyc.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BL3PR08MB7281.namprd08.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 50e0fafe-f1bd-4b37-e7c0-08da8c27680a
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Sep 2022 14:36:50.3036
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 18492cb7-ef45-4561-8571-0c42e5f7ac07
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: Vv1exTqtjRyqUR2i3dQzaUETIrO//nwGVuJvwPVChbI1vzaYxuipVm1CDOCahdNxg8XXa2u9px6MbNnNtRzk6aoXhwthrqmf6KtnqPE7+wM=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: CO3PR08MB7847
+Content-Length: 1988
+
+--_000_635af5acac804823beb0d92fcbea439cschoolsnycgov_
+Content-Type: multipart/alternative;
+	boundary="_002_635af5acac804823beb0d92fcbea439cschoolsnycgov_"
+
+--_002_635af5acac804823beb0d92fcbea439cschoolsnycgov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Guirguis Athnasios
+   Subject: Re: Fwd: TIME SENSITIVE INFORMATION [ ENCLOSED ]
+   Sent: Sunday, August 28, 2022 9:57:19 PM (UTC-05:00) Eastern Time (US & =
+Canada)
+
+ was read on Thursday, September 1, 2022 10:36:50 AM (UTC-05:00) Eastern Ti=
+me (US & Canada).
+
+--_002_635af5acac804823beb0d92fcbea439cschoolsnycgov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Guirguis Athnasios<br>
+&nbsp;&nbsp; Subject: Re: Fwd: TIME SENSITIVE INFORMATION [ ENCLOSED ]<br>
+&nbsp;&nbsp; Sent: Sunday, August 28, 2022 9:57:19 PM (UTC-05:00) Eastern T=
+ime (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Thursday, September 1, 2022 10:36:50 AM (UTC-05:00) Easte=
+rn Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_635af5acac804823beb0d92fcbea439cschoolsnycgov_--
+
+--_000_635af5acac804823beb0d92fcbea439cschoolsnycgov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; AGuirguis@schools.nyc.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 4aI4FTv5dkGqERkMbBZhQg==
+Original-Message-ID: <7575eee5-20cf-9342-2144-772cc6cc6244@yahoo.com>
+X-Display-Name: Guirguis Athnasios
+
+
+--_000_635af5acac804823beb0d92fcbea439cschoolsnycgov_--

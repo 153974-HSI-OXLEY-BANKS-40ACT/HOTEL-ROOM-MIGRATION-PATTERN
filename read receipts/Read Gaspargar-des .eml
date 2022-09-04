@@ -1,0 +1,193 @@
+From - Fri Sep  2 16:58:23 2022
+X-Account-Key: account1
+X-UIDL: AOpBREE8LZNYYxIX8ArVcP+CDxQ
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.152.9
+ by atlas309.free.mail.ne1.yahoo.com with HTTPS; Fri, 2 Sep 2022 14:49:20 +0000
+Return-Path: <pietro.villani@icmpmusic.com>
+X-Originating-Ip: [40.107.6.84]
+Received-SPF: pass (domain of icmpmusic.com designates 40.107.6.84 as permitted sender)
+Authentication-Results: atlas309.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@icmpmusic.com header.s=selector1;
+ spf=pass smtp.mailfrom=icmpmusic.com;
+ dmarc=pass(p=REJECT) header.from=icmpmusic.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 14:49:20 +0000
+X-YMailISG: VThWnWsWLDuFl.HF0zP7MlFvdRoCcsQe5in890irJrzbFAXo
+ 44dWiNev.T8LorVaiXR8tR9IYgngCm5TOSALvZptRpwSYex4PtBldqHtG1dY
+ uE2uG2ppy8V98DmDiAAYjYFoI0t8J6jBdXvHTRObR3oXqgDbnHhjCq47Ywm1
+ i44X99qJFX1jlOEwTDlvMrmmntPMVAMbbyL.bMr6LtEPx1FDMr2xydG90A11
+ Cmec6e5lAvqAqwXU8ULxdRBtke5.czHzDWOWkKrXGilsL.hOygTq6Hdc6sma
+ XbJP24uly_wAM4f8Q9zdWIK3KxhblihWsWz9O0J2yEeQyjD9fkU4Z8AQkKKN
+ uhCaAX6FL90Nj_V0B2bA.dOuBec90WkT8OyUwRzLT_7_X5A6WQtiM3g6cj0Q
+ CDYsvrwKaZtsVdGEK0Xe88cIKgtPlhGs7OMrIAvNXQyHnwE4xRtQqX3COQdk
+ LaEoUh4lbTlnks8KCGWtdJS2fTZ.IsVYuQOoyk.Nw4ubK0BGtTsoo1drd5WJ
+ 6.GtXgwS6DhvzxC8rBCTFoHhS0XoYabUWe3q69p_qgfUUA92lvuRGGh36JZH
+ 29mVuqS9PrTG9k.QhcQ_FNCFrWg3tt8rqA2BZL16ACcH0heRf61MRBf0PjiO
+ UIHUsaJeBeeEGR65e.q4XZfsljOKpnsXeqUnxQdZ_mg7xBkX5ZzLGj49flz6
+ MC57ONVVUYm9DV92bl6313rSHOLd02Yg3kwxj7h76EEKgu62zoxVQZDFMDmJ
+ XID1hjjtSaOjp8YzWHoSMFdZK63oUEKSJxGXUL42guwL7TDL3cc7iBP8iTd3
+ pFu4IX.fvj_9xQja4WsXx0st.fKxIeT_7NqM41z1R1FMOSWs7NaedTdIC6ln
+ jkAGH_pVFLI0ObRsxyDWGRR4OXErgvN7ffVOqHRXlvPlkvlKPFY5Y62BE2qR
+ TD6qdC1U0CsYBzoLSxEZLYrilM6_r7eX_UUjt2uDHXoDXbxpAr_H1yErpFT_
+ T2LzhOgGML.keDDBAXfiK5pQVhFeIG0F9Ze33u_i8HHqWbP7.ZOqGBCiD9qS
+ BAIQtsia1uppTD.54_XTjnrul8N_mvo3jyyke052HSD21NP6aqy3rhOTz_Be
+ C5szIbPNzHVtHEzI7Wv_VAGupZSabdhsgvIsl_BZ2aDmHmrbtT8YamiIXcGU
+ VVVi4LbD646P2NRx0oWSTkLRe70DX_b1JQRSHJLCcuI1Bg0J8QSiqZYaTUcO
+ BiodwYN4uwQuobZFk2p15lbR9rluZJ_WY_kL62CiYsTSdjllDnZCSZnj3FaZ
+ WwH1K5PQ9YkVvWbT.UiGv14NcTG3.cgGNsfv9nwmkw--
+Received: from 40.107.6.84 (EHLO EUR04-DB3-obe.outbound.protection.outlook.com)
+ by 10.217.152.9 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 14:49:20 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=OzwQhJfhoDmotshPQXE5l+H7GO8nHlEqN9fDSuc7NDmQBfPxU+1aEg7rdXePL5VFfP85qbVnghCeXkI5OBEBMlt07/gS4CyusUpc9FSJwZKF1W95SwnOhQubUZ/LWcEXgndFmLdc6kRaWUT1p0FzIr99tL+X4GxZqzZdzCGZvPQvtCW/+UF174QsN+NQt+iYEKjng411DD0mq2dmzV1JVGe5qW/CXnI4QAcbGTXtr5IDSYlFVtW5zP4SvapJQXme8IuD91pNcn9fejTh7MSaleGIOhCIWJXW50IkxZUlSePaSyM5tCLw57Qey8kcvH3RldAIYKH8OLAJjggL8d022w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=6yb2qgRm5WPfIkYruY2RgqaWOpS0/Zn/v9zXZ+OYA+w=;
+ b=ZLHGjSt0uT5g3xfbP6X1lozKd0ZxkyCzkLKB+eRlvlDTf8c/yeDgVpvBT+HcLCVUP9qikQSE3hk20k9oYnIzX6x0Yg+lHUGqnMLzjhAA3mmVm6EhmNc/8t7B+NX6hY8hm6rvcTepJJv2+WXb6TbpV2bolOdAQyweVa83u/Aq3OE0fS0gzhzx7HjnJWZAKhHUwxMdtI2iOgEOGfGNpJ8po7zFQYcMu4MrVMQ+SESRKN+w6r0VT/Kanr6kJwVea6+mw1Ll+OCxbrbvxDP3Cz1VFbR2tqx2SU1XKZn9zQQrcaHmKNW43X/yy1b9ZcMBdgFIoFv2Ya3mOkFfxqLcuZyWvg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=icmpmusic.com; dmarc=pass action=none
+ header.from=icmpmusic.com; dkim=pass header.d=icmpmusic.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=icmpmusic.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=6yb2qgRm5WPfIkYruY2RgqaWOpS0/Zn/v9zXZ+OYA+w=;
+ b=CN1rCTSb4zZwoqdRod3ACGgWY3DqkqGtK41lkZNIPqPB3QZjAwbCSWUDlxXxW7VXLn1bBeWte8By7/THIUoGVI7nhDps8PM/wVOrM2zbQw7mPbcWzsK9h6C+SYytrdLrZybxgQSnCzNujBBqgSq4WKEjHpSXFwhoPvpLlt97hKvwYCzc3Podb2tXCxy3cNMiF4/KSkKsgfvurIiYfHdF1kVUyvT6YExc4lmIIFbbvxs5ECE4ARNfumDhZHpot/TGRm7E1dtmbsSO6F4rPKu+G+cOu3OPvMvwAg8eosPPS+ZUbbFC5mmxTn7q1g3Di4yWHxVPtOK+RVnTugM3+DhzPg==
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com (2603:10a6:208:a::26)
+ by VE1PR05MB7421.eurprd05.prod.outlook.com (2603:10a6:800:1b1::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.12; Fri, 2 Sep
+ 2022 14:49:15 +0000
+Received: from AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788]) by AM0PR0502MB4050.eurprd05.prod.outlook.com
+ ([fe80::9429:b02b:fcb0:3788%3]) with mapi id 15.20.5588.014; Fri, 2 Sep 2022
+ 14:49:15 +0000
+From: Pietro Villani | ICMP <pietro.villani@icmpmusic.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Gaspargar-des???
+Thread-Topic: Gaspargar-des???
+Thread-Index: AQHYsGye+cXO4NcJ6UamfgZVGlXQK62veTOAgAABHwCAAAgggIAc0wau
+Date: Fri, 2 Sep 2022 14:49:14 +0000
+Message-ID:
+ <AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9@AM0PR0502MB4050.eurprd05.prod.outlook.com>
+Accept-Language: en-BE, en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 0ae1616b-18a1-4fc9-f4f4-08da8cf24e77
+x-ms-traffictypediagnostic: VE1PR05MB7421:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ IKbaq4HU7tghfnsy3Trt3ak7hOfO9Fexm8zcjXU2IzhfWee+z2D3cxBQMHjsKm+Ib3Q6A7xF0mJDZa54YG4UHPC11qO2hO6k7IoPmATTIr0bdZMWQURRI6pHP+yAbIxcwWS9P79M86cV90P8OxUvrB36faqT646ZSVFpQQO8hKvcw6lmvzA+q7okkFFhNYyNbM6DQN2Rdctlm7z45sDWh09d29fGbhNP8AvR02w0GEHHhQlxWoXYHalr4x2b5EzJzSZTisFlP9IlUJKs0aKY5UX/PDsJYBBmGsL9MDrOrOhWF7zKHtiEEZy8GazvEVZRobmAoPbOv1HOjzHmScyhldLuVSkqi8LCbGCqQqpMfGhsDpzujp9dWGSCmTw6HDiqEWlbsy+KavNtdkuvxFl02M2wmA5grSuju2jVWvKd1Q50OhQCyNAgs7dtcRkkRtXHpzCjQmKZXVcApPYs8xD8VBkTUiHCPy619+mEwDTnQ299xPqsu2Md2hpBjoCLGFnU
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:AM0PR0502MB4050.eurprd05.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(376002)(346002)(396003)(136003)(39830400003)(366004)(26005)(4270600006)(9686003)(73894004)(621065003)(186003)(86362001)(122000001)(38100700002)(38070700005)(64756008)(55016003)(66476007)(52536014)(33656002)(316002)(8676002)(6916009)(66446008)(8936002)(66946007)(41300700001)(66556008)(7696005)(6506007)(76116006)(71200400001)(478600001)(2906002);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?2x6FjpGNneDcEZq18Rh3dISS04KkRy8fCMw0Pq20BjrzIni+MGOBUg3ASNQt?=
+ =?us-ascii?Q?HvyaRGkWO54WXTf8ZlISDDXz++iV8AhWQI86dshVNbvABOXnApG81Latqtd4?=
+ =?us-ascii?Q?W6mAhFXtMoBWUhRou8Bx4EwnvxcsDfmm8Sklcv7YyNPL009qyyFiIgYuliZB?=
+ =?us-ascii?Q?R04Gp3BV0MiwthRLCgARPQ3c/BwMy7qb46qH6k33OvKrMOtZg4akklkfj5TD?=
+ =?us-ascii?Q?oR5l0/3iqppya0MhXtBrOqSMHLUdmbjwXAdQCY6RMqnMmXUWcq7t4Zd/8UWe?=
+ =?us-ascii?Q?xALcf1VsnRxtuwhcjNZGk2NhAqeEGW4Cm/x64dAYSa7L8ld7RNqWlvbhH9gL?=
+ =?us-ascii?Q?uacNJmwBY3VO3iCbmJLFPJg8i/EJCmiB3OouF9U1HXOhUn7A8vkC9rXvexLR?=
+ =?us-ascii?Q?XdRmoq0zvI2hlL0RodOucYtLrRhGLgJosUldBj7GajU9SXAIjWjV9WnCmCMt?=
+ =?us-ascii?Q?Zp2uzLitBrzrYFzeTXNMV/L8rVS9eTA6an4Yo50LPS2TbqEEEAVbGMiJ/zCC?=
+ =?us-ascii?Q?PVEjDkQA9HXSRz0UD92uTNzZUi//h8sH+lWliPWJzaU2A1E3f5lYYAZFNlcz?=
+ =?us-ascii?Q?Z2VJlCTa8FCN6FGYqaOk8z+KUcIAS+UyZGSddI+w3yfVQ8xbVr4tPE+XurN3?=
+ =?us-ascii?Q?GvSxPo8hvMMSHXcV0HOYUHqFUx1KTiO4NcTZW6cPtnbFy2iRwOAiQqmfnfkC?=
+ =?us-ascii?Q?o885Pv1z4vsxyxHewgSqJ8tvljxqR4ubFAfdnbXQ/9OiLNPyPdSExzGnwYaI?=
+ =?us-ascii?Q?HIVYNIS/Sx+h8C71Rdko2AN73KcXOaKheUwV5MmKC0cXe8aA3vn8dqk5qzPz?=
+ =?us-ascii?Q?2L2LEoqGl/n7zBblGxzs/RjMv+R8nDcy+p0bBJYwLH+M4SPPd0LwDRNQvXW6?=
+ =?us-ascii?Q?39whhxCmdxVBLmgftRLFQCT+2PzpJ0Mrtuu3y8HzDVJjmNLwq+smKC8JSgFu?=
+ =?us-ascii?Q?2vuSEyBTuo4mSjlqvGu6xkhCdZbjD8kK/Hg1TqCZ3zf6vUuS2tInlxz1yxub?=
+ =?us-ascii?Q?RUi3031uC7e57ahyMZU4bnFk+mq93wJMTFLqqL5y1zueNaRlwiAqE/plsjg1?=
+ =?us-ascii?Q?vw+9UfVz7Eu0EpNdltE33clJKBVy4Kgfg1JrzS4QWactUA0MZuSF3UTStW2V?=
+ =?us-ascii?Q?VYoGUWDm2kNuVOCFOQqAOsHJsK9dp3ZjE2yeUuhNYJsXSEyPfEwx5V3+3FfR?=
+ =?us-ascii?Q?DGqwF1BAe8iKrwb7veklhi2Ea/Dq8XUOdAMTXDEGiEseYtUvt8ujLFz7aBJj?=
+ =?us-ascii?Q?3aWeHYj6zHfAE9TbHz63vESFEV2qwTqG0X/bPjgkATr6kv/g1mxCLE5ZNhRU?=
+ =?us-ascii?Q?pGs4p1SNgQmHTUgjjtbLVl9JCSGAmVuLBWFyZRyJr4DLpLH+ieqtLdnz7YRQ?=
+ =?us-ascii?Q?5FgFcFqQ7dc7hA5cvpPEUyONR3AA+48hF1Y1NExe8aRJCGUA9j4c9sHKN0r1?=
+ =?us-ascii?Q?9sCBgAynJoiYHpmVDVY4JlbqNsu1vBF+tqKKLK6wyOQe2mQCMcBPR0S+Q9c/?=
+ =?us-ascii?Q?9TSgOs2GmgQxnh2BeZtXSBoZmmnmzqPxAV1wuCf//Oo3qKPaqi4K6JkibUqt?=
+ =?us-ascii?Q?PEjQ6higYB1Ym7XRe1rJ5icFJJd018UzWQi38w6SxkocL+ofeX1n3WgD6prZ?=
+ =?us-ascii?Q?KA=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: icmpmusic.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: AM0PR0502MB4050.eurprd05.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 0ae1616b-18a1-4fc9-f4f4-08da8cf24e77
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Sep 2022 14:49:14.5618
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 28a4cc59-64d7-4629-87bf-20744de61c93
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: wEeKUx8AOnpCtVCOESWKpd5rygWPZnDz7gk9rmWSoXLzsnQ/pvAZLQ8oadmi3w1yWLmKO26d5asb5mP15xo4z2vi41H7PqCyEr3YezhkMn8=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: VE1PR05MB7421
+Content-Length: 1966
+
+--_000_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_
+Content-Type: multipart/alternative;
+	boundary="_002_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_"
+
+--_002_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Pietro Villani | ICMP
+   Subject: Re: Gaspargar-des???
+   Sent: Monday, August 15, 2022 8:38:37 AM (UTC+01:00) Brussels, Copenhage=
+n, Madrid, Paris
+
+ was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels, Cop=
+enhagen, Madrid, Paris.
+
+--_002_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Pietro Villani | ICMP<br>
+&nbsp;&nbsp; Subject: Re: Gaspargar-des???<br>
+&nbsp;&nbsp; Sent: Monday, August 15, 2022 8:38:37 AM (UTC+01:00) Brussels,=
+ Copenhagen, Madrid, Paris<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 4:49:10 PM (UTC+01:00) Brussels=
+, Copenhagen, Madrid, Paris.</div>
+</span></font>
+</body>
+</html>
+
+--_002_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_--
+
+--_000_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; pietro.villani@icmpmusic.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 8ub+8XTwhkCdJGUu5Pfv4A==
+X-Display-Name: Pietro Villani | ICMP
+
+
+--_000_AM0PR0502MB40504FDB4D88110A3F3CE0D9817A9AM0PR0502MB4050_--

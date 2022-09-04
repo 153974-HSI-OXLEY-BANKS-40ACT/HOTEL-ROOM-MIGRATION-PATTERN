@@ -1,0 +1,212 @@
+From - Fri Sep  2 17:27:53 2022
+X-Account-Key: account1
+X-UIDL: AOrHo+lXYia0YxJ/5ApUiF4d0Z4
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Fri, 2 Sep 2022 22:12:52 +0000
+Return-Path: <nchini@bainbridge.com>
+X-Originating-Ip: [40.107.223.99]
+Received-SPF: pass (domain of bainbridge.com designates 40.107.223.99 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=pass header.i=@bainbridge.com header.s=selector2;
+ spf=pass smtp.mailfrom=bainbridge.com;
+ dmarc=pass(p=QUARANTINE) header.from=bainbridge.com;
+X-Apparently-To: ms60710444266@yahoo.com; Fri, 2 Sep 2022 22:12:52 +0000
+X-YMailAVSC: aeyRkmM3bBtITgXjObSJOj5kNWUdw6R7KrLZbvrYmggrvG7
+ VhJTqIKAa86GtOMExsmH1Ere2UMz3Vok5JLYikIkI2pxVFbZjMYAn6.xygr.
+ ZIH3zpfsbvJLUarZjbc.n_6EyPW_eThPgIm2pRFL1B3meZdGD2bJDAxMX_lJ
+ QzSAxQR2Ex.HQO_m7dS5kH0ah6d5xNknWbNNeSEuXQqjBQqa2yuY.YvuHWgh
+ t49boeJy0EXxYzHc6NmCyG4GdOcIhN7GcXG7ea72lSnEONwlDYjfqHyhZ5i0
+ QKjMEmzNfN2_fDgT.OT4JPqeK4vrmnaLhI7pUDHbitR24DimRUwfoNjQRHOk
+ TXY5kDeW0OXjZTE3lQ7ZXCLMaXlGDaEdikN_9SWbiHNpAAYu3c7mHFhG4oF.
+ 8x_F4KtRPzFFjwn4gd7zVqgF_pfw546kidcsPgR.f1HgRvFKA0y4aEhgledC
+ 02WMF0Ni76HZB7GVXjhCH3KWZE3kjKtVpDol0z1b_7sX.IcCDm3wiqbkX7FR
+ HKIuPURAmmEaIS.PikfrCipthkyME.AzV6g9N8L7UEPH0sno9oaeu4oKtJKw
+ I_ZxNF0nJ8MjucvwQwhjTeBanzpIMEtepzYvk3.x1IYbQ6kEaK_gJjlCC6m2
+ 10sVOOFWQLPUW3eaoFb8bIHzmNazNywGYFNQpACTQP1yvbXPXH.L5xGsOYqP
+ bN6837TWm5AkWTKvhS4ERjvHFZdrxKSUFCkr8e6OTgcZBO0QlMIwSbRfkAX3
+ 8x9lZ_dN9tPocYCIQD7Hml1foHzEaE.NziICSXZ0s8JKjj6iCnrxatX8zkV_
+ ZPO7UwpmDhAlUrislqRuBuSUqUW540dccSWcwFsG3SaaB1yliJbHsCWaqpz3
+ GD08iObuKS2Mi48jRnRv.FCVP6JsJS2f0raLG1HcDFh3SP_NVKTGmaL9DCTX
+ i4LC09Y1FS8nMpBooFJzy6eDXLmDbahv679tosconI0nuFglRt6ArQkUaPf8
+ K7LVh.7aqIU0oei98CpF2FVLzmfg0wuUKhANkFmBtE.VQLesYf7bmCuTN4Ks
+ vnoSxYPaOzItZLQB_Bxo9aPy7pBUeB.Bvx7uBeR0KJ7G3vQ3xYgB1DkXppaz
+ aMjJet0M-
+X-YMailISG: VwrhPQcWLDvo1I5EEJcdaaUQSwMhrM3WL9JLR4lzr9eeWTwE
+ krdWSgqDNqgsZ4EJQheohtHZBtnodu7UyZMPA9U6r7iu1h4v74v1oKaUfRVf
+ TEpIlrbXtmnWfWMvDBX.q9fmWDu_0aCz7MZ6OhiEfj3j.7Jcr1ug94JoDorA
+ y68PnNMmDLvRXugcWTSiGT7pdW.WyT5uD2Dc7SZ40yReT2oP4tzOIbKa524s
+ OSAxHlBJ34gZluFZnnGyLcdo90jMonnjxQupaCloyKmeB3jbaXvBcy7fdjDi
+ QFi1Ufl6dI04kyaJ0ug3zxHKw6924HK5ENly4oo3vhN1ZBraO6NFHN_ygotF
+ 5tSnjyPgrdegKMmdYMLdoEjJ8ZaJWgGpcp0ZdzRHUlx9a1ae1CZYTPOYk.UC
+ W45KcwQv7uZJNDQMBv6PkIUwSxc8J2jjRa7SbWEwgOwATjPWndqH.hu3pes7
+ 4hywn2ZRxro6GxljfFWfMzO7APuJPSCxRNZNngPTSGziELyTq7NM1uoSetOr
+ 1RKVSJieDEKX4WgxLy1Rgk._UlpYHIeULdyhepBZ8tLNIn1Z.GKKe2dXsNZ4
+ q2qeqmDTSS8G6nJCK4mHrJr.vTpzah5R99LPKav5iAkO.R8Z7cy3gQr.neCo
+ M4GPnGJTTqrGyMoIAWLd0kT92SE8SskHo5zNKJXMuU8QfQyG.pAw5nkDT7On
+ gFSZe5wZAPx9POxaK0ymxYOjuAFtuRq432pSg9Nfi1osqJnmyhN3ISvo.iIm
+ IZOtC_qXl0cotAhH6F8bDNAXpsgO6jn84aDTkj0NqthQtXeWVJ8cvMuDGw0Z
+ JjueRxUzBDuDN789u.oiMSywilZYzw0AanfE16uqfFBThFdSts0aFDKU8Dwv
+ 8Hpu4V4b25tuNrGsFt2Mkpml.SX7.E9LCqnU2ulagRSvwZvS6BnC3Ca5iWsJ
+ 8RI3LiwBzHASgWUNBvMjGclZRjTOvZBdEpZOu1nfEXriKPZSkuB0sgC7gWXd
+ FhOE00V4nNNltmJrCOAhmNqjsmKqyL9qq7MY4OmaQDE8AK3dDaqmS0kWj7mj
+ PYDzdrhLjgIBeS7k4ucP_WkaU6l6fczqOy4Ght5VdRFcNiE7eyJ.MfEr3Xnt
+ 2qUXjb.bQ3w_PNSwearnsmqj0w0W2_6bIzg5vQ0wwZnkutmdnX4uyYexPU.2
+ SXCXmhA-
+Received: from 40.107.223.99 (EHLO NAM11-DM6-obe.outbound.protection.outlook.com)
+ by 10.214.167.142 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Fri, 02 Sep 2022 22:12:52 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=L9pwgWRNuqqejpk3eMNjEV3PK4a5ye2vJZ2eBCYIPQYydQ5Nuf0nhEpVMKSpGU9F9qfvk7dMynN8StOtmZ83YprG9FY9/27grseB6n9IQKKdiHia0O07dhyKVNevdKxDl/NmBuowX0nHAm2RdFC9KruF3f0uPbxKNRIcSKCVNOcAHDnxNeI+SzoDr/Lp0T26un05SP3uyCwSQzwtYynh3vdv2nyIFybBrKCbs3cyBzd9SwvNwZoQOWlnphyNKI/gi00m3v/6sbXLpld6Orozunj9mXV99nDzvk5DKh8nVl52tTQesI7AACruymgyb7d60ZiOj8uPk6Oi2dBxU9HX1A==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=/ZOyjY+Z0ax7ynDxZ9hAeR6bRdbQIXI9XuDEchC9lvo=;
+ b=JMp7qQRPbv8mqOL6dq/lyHigjdn3agDX6ACwlVx+L3vTm+GT8tbV2mt9ynwaqfu1yUIkv1rZZhdu3MTU8lpSH6fSvpERK9JV/Nr1oVbnVhcuX7qXEJt/aSpTiDEtzyOaImms+hUQpLqPOoqkl8GPoQyI3QXyEMyYfPgPX6TzwilPzcpw2IK7BEL8nIIDa6INDMDHQAaTc/RYc6w0bkUscCEIaOoDTdGDKaOppY7CAbeQTjPWDRnrIBlqrh6+9TvcDpxfiuHs5UyBG4umXksJbr/XnCR3aG0BAsP8c+yXJdAkPSKK/TlwnzL23JZ5W+ffS2ntbYTGLBuXcYvQdinvAQ==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=bainbridge.com; dmarc=pass action=none
+ header.from=bainbridge.com; dkim=pass header.d=bainbridge.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=bainbridge.com;
+ s=selector2;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=/ZOyjY+Z0ax7ynDxZ9hAeR6bRdbQIXI9XuDEchC9lvo=;
+ b=LVpW13WxS6HJGJSLp7yYxOWQMHAEhTvYTur6f5iB820/yeJNdPFx1d3Fx4Q+4lFzu8C++cHhPZOJqP9WWxB2N8Qewh96jvkUgSw5xXjf0mKPytFT39d8f3iDDqu64o6jF4TIiSTjYVoRXM5fqjhv14ZrXWY/C/1ywRIeKJUyj4DqJkXkLHCUrAj4xoQsE+yinKROx3jV495bm8cyvaW0HOzWl5POjr6rEco1iRtyOn4/QNh16st/iMqN8Unpr+CknIbAmNrO4OD/SXpr8Z6nTg7IelICn/6PGB96n1Yhl8aZROrDvxR7LwexH4WWF8ZISZvCqsxd8intZ5yrxikaqw==
+Received: from BYAPR03MB4231.namprd03.prod.outlook.com (2603:10b6:a03:76::13)
+ by SA2PR03MB5834.namprd03.prod.outlook.com (2603:10b6:806:f8::19) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Fri, 2 Sep
+ 2022 22:12:49 +0000
+Received: from BYAPR03MB4231.namprd03.prod.outlook.com
+ ([fe80::6cad:bac0:c3d3:3487]) by BYAPR03MB4231.namprd03.prod.outlook.com
+ ([fe80::6cad:bac0:c3d3:3487%5]) with mapi id 15.20.5588.015; Fri, 2 Sep 2022
+ 22:12:49 +0000
+From: Nick Chini <nchini@bainbridge.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Fwd: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Topic: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Index: AQHYvxgYZ2IfFdvF/Uy2fB8Q8v6S0g==
+Date: Fri, 2 Sep 2022 22:12:49 +0000
+Message-ID: <05c3f0ebcc04467997fd6346c867392e@bainbridge.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: f78b1df5-396f-437d-d67a-08da8d3045e9
+x-ms-traffictypediagnostic: SA2PR03MB5834:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ Z5YPHyVrNVxhuvGrgA7M4kuQrkhZ/l5NFIKF1tK4+wV4oz8pj0FcnTiTxA1ICZubyg1j3o7oAN6Ak6vK8gJHASrwkF7wEuZAwzS4/Iqk8JO1XfaScN6fIx59OCwfKKU45/2oan4xk6dlGjd/w/hn8ysGy6jHjBjMlsQ9bOPr17pw/Nu1Pkx3LwUwTHs9KdhXD40EK7viTtQ/D3QaapwjtCZ1UurNlEVM4mXDnvPpd7Zs4j2bXAiPxyotVWqDFimdEMMHrQUIuG+INPfGAIbZlUNV/FKlMp1PTF6OfsZ0728Zelg3nCvpM+6cq2Y3sNh5n3uNJCom2j8Gaymx2uM8HujjMV+7xfGTjVcsAqHZtB66hrbvV5I9pEGwdHZuj0aFuPzC+7PZYnakpz2snbb8sD1sDq2nA4LJORyaIpvEkaaR/MILLO0iAEopshV7ME9Tg9OcTW0AXXdQzZwRyMoHDg==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BYAPR03MB4231.namprd03.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(396003)(39840400004)(376002)(366004)(346002)(136003)(108616005)(6512007)(86362001)(4270600006)(71200400001)(24736004)(6486002)(6506007)(41300700001)(478600001)(2616005)(122000001)(186003)(66946007)(621065003)(73894004)(6916009)(2906002)(8936002)(36756003)(316002)(66446008)(66476007)(66556008)(8676002)(64756008)(88996005);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?MqurI9G1EETC4/g5ddKcCZbMuDrTbylxoPGd1ltPyJL1jFV80HZ4gmfJRjCX?=
+ =?us-ascii?Q?3hMfTY+kNgBPx3d0MatW/bfw1OrpwlFUtB1MJmgg7g1ysRtQlHv5+0Ea1Y4H?=
+ =?us-ascii?Q?M8ofFIv5XjKHAdJEuIoaQunjAakpbbHMtT+c3EfTL0+Kb10yzaTTvLGKa2oP?=
+ =?us-ascii?Q?Ly7lQIjlk68AZlWni1lk8TI4knfc6gnFLd1t/I3JqujqAffHTUKVtQTRqZLe?=
+ =?us-ascii?Q?psmEVSE5t+hgX1AEGtvl1d1JT30mi36U2zM7NcsKkhaUPPRQ3ae2xBQjGqSa?=
+ =?us-ascii?Q?IRr59JfAZevDhOXK29wMwyvr5zkr4YwIyAj2GTYiO1zKrczd0chuzXSjBkVP?=
+ =?us-ascii?Q?qUD1DycxeaNhTUyGiz3fZkwXyKgBf+ZRPAp1O7QwRORVn8GXaQHcCbbh91Bp?=
+ =?us-ascii?Q?IY/BqcTSARAILQC0Uey8sjbN6Y0TYsJ+sseNpB9t3Zra405qUf8ONZakIQ9w?=
+ =?us-ascii?Q?wt+6w0cZqR8AKjDwjNG7t/NHKGc3PskPyr+hNCdKwLU9mRbFTKlWtq9Ayoll?=
+ =?us-ascii?Q?wzAjJvXa/0TcqCkGuamLkf9r1jB+CWERLGBwNqav6uOQ5fMePTTOr/f5+Sb4?=
+ =?us-ascii?Q?KHJTHMI0bM+yMCnmL/ZfYHXPCArxWFJFWB4PpEmpLOW+7pIaDJADsAp1W3fa?=
+ =?us-ascii?Q?0U76I52qjsjlHi3oVQg1NPbGTYiwS5VHllZEF+Xvr4Y0fQh6CWfhzWspA8Ht?=
+ =?us-ascii?Q?oA6sWriN3E8WKHmcg6+gWkjya+600IFNhemVXe7AeotlA2KO3vP91sX9sdh5?=
+ =?us-ascii?Q?nvDcyTgYD6CkJo7yM++Lg6ca7B9SnFP+ZPP/F7lRzLbX5DvwBYG9fPj8BiX3?=
+ =?us-ascii?Q?rl+k6gc8ffSbd010BSQhoy2sgrS5eNih5B0vi5nv823+Ke4B+q1MRV1D1bY6?=
+ =?us-ascii?Q?a6UA2qIfWO2f70VkCCfMvJcTxCb74iZ697GTKzoLqBEuddc8kbTedd/rEfsJ?=
+ =?us-ascii?Q?XD2ykLjFX0qMHjZg57y24brsNXy/AGYYmGADbukE861rslqA8zIUwHWq5EK3?=
+ =?us-ascii?Q?J7iY7ykf0UAAR1w6auSUxNDOGygt6ypv3M5LORe+UJxK5Vm2VQ1NoDJUgM7t?=
+ =?us-ascii?Q?suk/lZ4MqpASnuxYhEiTpOqPV328AF8WaUlgleVUgiMBliY9o1QKW8kxV2yg?=
+ =?us-ascii?Q?RcapY32s22YvPrkxTi1vx/iuV+jmNGSGzlk5Iv5uxYzoz2XOD79M5oGT+g92?=
+ =?us-ascii?Q?iInzU0Xb5TnA0x6WFq5c1CeATYaNpU+vAznycTmc5VRE7nuMYeFryH1iw/Z9?=
+ =?us-ascii?Q?H3b9CMNa8ZtJAKXcQavcv68C1DDfPU00I5KPLCr15W84vm9rk3AbJ+YWeb2p?=
+ =?us-ascii?Q?nzswvhU0wlV4JuPOVYLPEhH2JjBSGS3T8L6P+cBnyiB23nqEgI/xTuPfHSf9?=
+ =?us-ascii?Q?uSQ1EsmI462O3bKgeVZmmc8R47z/Er41sgySNqhpMl/EL5Es3PrWqiCJatXU?=
+ =?us-ascii?Q?z9eY39EUIGopV62r+QNsxRH9sAfJ15tswSVDA1hBJi0dL7VwkI0Y0w=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_05c3f0ebcc04467997fd6346c867392ebainbridgecom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: bainbridge.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BYAPR03MB4231.namprd03.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: f78b1df5-396f-437d-d67a-08da8d3045e9
+X-MS-Exchange-CrossTenant-originalarrivaltime: 02 Sep 2022 22:12:49.6620
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 13c6d1ee-68ac-46ec-85c7-fef5fc31f417
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: uxkKFB3iGCY/Nw7s0UDvR1YyYXq4T5qVc0CDda3jNbYvMj4DU9TyXECp/CAIYumGbvOxKDFRCn4gmolOk0RcdA==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA2PR03MB5834
+Content-Length: 2072
+
+--_000_05c3f0ebcc04467997fd6346c867392ebainbridgecom_
+Content-Type: multipart/alternative;
+	boundary="_002_05c3f0ebcc04467997fd6346c867392ebainbridgecom_"
+
+--_002_05c3f0ebcc04467997fd6346c867392ebainbridgecom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Nick Chini
+   Subject: Fwd: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY K=
+NOWLEDGE OR CONSENT [ 153974/2020 ]
+   Sent: Friday, September 2, 2022 3:02:43 PM (UTC-08:00) Pacific Time (US =
+& Canada)
+
+ was read on Friday, September 2, 2022 3:12:49 PM (UTC-08:00) Pacific Time =
+(US & Canada).
+
+--_002_05c3f0ebcc04467997fd6346c867392ebainbridgecom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Nick Chini<br>
+&nbsp;&nbsp; Subject: Fwd: II. VIDEOTAPED THE &quot;INTERIOR OF MY APARTMEN=
+T&quot; WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 3:02:43 PM (UTC-08:00) Pacific=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 3:12:49 PM (UTC-08:00) Pacific =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_05c3f0ebcc04467997fd6346c867392ebainbridgecom_--
+
+--_000_05c3f0ebcc04467997fd6346c867392ebainbridgecom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; nchini@bainbridge.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 5+ueYcBXxUS4m4eTqW3BLQ==
+Original-Message-ID: <5062711f-1c6a-c97f-29be-a81a42e4b223@yahoo.com>
+X-Display-Name: Nick Chini
+
+
+--_000_05c3f0ebcc04467997fd6346c867392ebainbridgecom_--

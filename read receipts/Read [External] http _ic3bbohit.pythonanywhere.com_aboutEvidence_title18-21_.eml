@@ -1,0 +1,218 @@
+From - Fri Sep  2 19:16:36 2022
+X-Account-Key: account1
+X-UIDL: AKRjHCAyYfTQYxKbcwafULa8z44
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.32.140
+ by atlas305.free.mail.bf1.yahoo.com with HTTPS; Sat, 3 Sep 2022 00:10:27 +0000
+Return-Path: <prvs=12453eb0dd=vvigluicci@portageco.com>
+X-Originating-Ip: [173.243.133.48]
+Received-SPF: pass (domain of portageco.com designates 173.243.133.48 as permitted sender)
+Authentication-Results: atlas305.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@portageco.com header.s=selector1;
+ spf=pass smtp.mailfrom=portageco.com;
+ dmarc=pass(p=REJECT) header.from=portageco.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 3 Sep 2022 00:10:27 +0000
+X-YMailAVSC: DxRXO0g3bBu8gXNXYl94fwaUbBlNEie39Agy9Srlnmlaq5p
+ wz42XV47266LTTRZ7k5sUiGwSygN3uIVnyV3H5zSEwwvq7LHh7bqiRGcil7s
+ ZUyEzPZ1wGCG845tYsSXvBRwH2b3HETw9f3IyYeHavDIkdyaYKCGL6cbNTAG
+ xv6nvxO5piE8RBtHbrTq.11_deSWFDw7wUEMe7SaGZejTqroLQa.NXWFVIkv
+ dirgifeX5OjJpw5I1YKk1E_sKpAZsmldCCjBOoaTfBImqVKovXh8VbAg2Dhh
+ QZz0uLcCk__bhbqaWlvvSxLwk61CTpb15fc59uKQbnq4Wv0kMh6uqwqUu.08
+ JIL6_SfFw9kmfSjblERH8a_mXbEn4DHA0ZWE7h.hRYCZrg4ZbuKbbCl82Gq_
+ nCIQiRFJWBcFgH_6Tv1uSVCC3lHhVN_QcG3nt8qGi6bIvcaereanVOOGCh7f
+ duEiDprbhzmMOXLDB3z9i3KvmPCoJDWgO6jNcvIZ1zOD6Nn44D9qUZqKbjKf
+ ojVFKJOUmspjV8C_elyO9hWkkpdBNbJIwkbtAXboDFXLcR9N3WsQybeV7N5d
+ W89s2L83KcVL3vBlR_NU5DbfRMK8BiQQHPM4bzpebKJUhcBNrR2ex045k00C
+ mz2mNxbL7ICO.HRFMP31w6ofRMwRg5KoahcpkrjKSx6svBtN2fE8owabIkcQ
+ UyI3UHt55ds7ilmAa6RanlgGv3wsK8_JZci6sqoW5mUanKgPWTbPBf8hUWik
+ fjItxKktLRq3uHHroLDfEcGnz6vBWb3BNPqmEm8c7alHjuyMShYUahoofwIV
+ isoFqmfAmlUi6yRzJ1gFjLX4rZH2whnOmy0I__983qBToaoJPGVNIQu6pb8z
+ lfv8gRTxB3WcfU.HShPBgqD0oJf26_n3AmBFIp7i7lPnBU3Rnnz.TbvlbBLC
+ 3GCOdf30Lh_PnmR5dF6840O8DNiVH7rLtVyKw4BDOneck5_ahfCg1LLGJ0Hq
+ FKVypSW3PmoAHTaDBsZgtcVa51n1O3kzCM.I.gVQANTRpjwFtBhdI50CzAm3
+ 2VfEt1PoOVnUiV6xyuBZqIqc3DJ6Z60_Du0cNNXTGyrUZpAo0OTGB2vnGlDq
+ w3j.XNBYcZMhW33lHfZimp0ndx4zdVylvxplZIkHeoXnKZ7LGVTp_9m0MBc7
+ vLwoqfIIOoSYSPoggYKyPGrpXi4kJFQ--
+X-YMailISG: fTetwRQWLDuuIuzDLpI1xcFBcucRBNlFvF_G.xCotOXbWTkv
+ 7dbfK6RNfHHqSaScKhlmfCY.aOZOabrngt.jmYxfPr8X4YneuYiZ3gfrszNs
+ RLTBhSZcP2JFTeu5JHtPEDquzQMR8fO7gAfv3lFY_4vVg4Q1.muc8yEuqopU
+ G9zo7E90aDmZHk2_fnX1oUV243K12YdS3orIcMTPxaxrS7i5DyNa.wq_oU60
+ xVnOxAeANL725BMrJ0pqdqtb3DYPSUQSYVANOdHRHUVSxpD3xtRfLYG5cSnx
+ nQzH37NvcUl7hbgEMHKdZwdSVR7KuqHjHfrUqOOOpPF__5zPUyZBE2UvaxGn
+ Tgjt2NNe0eeLAeQmBCQAG3MJ2WpkN0i.PXvaAQ9LL2NHtSSt5n3Tu3KEn1eN
+ p3e4fzR.fNpYvDIKKYCkGPrmHRp62bp3ns07WXae1DlsbdBySjUw1WYkFFRc
+ RxJBLm0fJVlPnfsGBUOOG6K5VEbLogEOEjknER3A1aQvBdHqt9VY1B0_ZNy6
+ 5BSk..e9KEaG3bwXfNiBvO8Kj3CC2flHjoeqU5n14hk1UrwzCIqs.lGLrb8G
+ mb0BVB6x0r_SzWzuGmP7zM0I7XNBKf9.Ic5H6eylS.l7rjFMYmHCrmKGkbqc
+ 5NsIhwQlCQRuaLG73Zi3YCxrG27LBdSeVoPjAH08wdDOAwbdSqdQIphyuLhN
+ EMm7f6y.q517KbGZMyggaQx0aDj4FpVceVP3fYp67Vh4pvgkkD.3hK0z6xxX
+ 0n_KYKGnqfLcNYw8koaux3B2jH6F_4ql8aJqcPQTB_dAQfWGiGjjbxE3vWM7
+ oS3505cbG4EwY9vZvNcJnUbif1OxrTm2Zlbui5TmGxNlb_q6frWGiMZPEj7.
+ fngLnu4f5___tgx4yn6MUJxD0DKPyTuiziAg90XhUgg8zfegwru8.A9_VfAw
+ 2olByboifwzeHUm_xPfZIZCvRMS83yplxWAQY.mNDRlFSQvNWtyFUhHkpocy
+ lnaGPh54rJoe6nSXiQAQH3kBr9tiaYG0yWLZvY16_EU3P6O7w_Oyui4oPGed
+ ypKTAxXavylK1F8cl9NQKsk4jmssoU96nwdDH16HTjohtlpYLB5ONNEOD1yR
+ lD2_jhVNL0gx4_5hCQrfMXanxvf2AOZglzPeMS4oA6MCC_u5lCuYdYKcc3T5
+ Lm2SUmKr8tyz3mV711qKk_9xuHggxsdZbTawaYWmXVurkcs3AzkB4O5OSB5h
+ 7w--
+Received: from 173.243.133.48 (EHLO gw3048.fortimail.com)
+ by 10.197.32.140 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sat, 03 Sep 2022 00:10:27 +0000
+Received: from GCC02-BL0-obe.outbound.protection.outlook.com (mail-bl2gcc02lp2100.outbound.protection.outlook.com [104.47.64.100])
+	by gw3048.fortimail.com  with ESMTP id 2830APLA018871-2830APLC018871
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=OK)
+	for <ms60710444266@yahoo.com>; Fri, 2 Sep 2022 20:10:25 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=FPsu/CIykJ2UweGO5kOW7SW+KjzHWP1lyKlbZclC2TnuTeIN6iRF9a7wEDJ/cSncGUHXyvjR3lDDU5cSajMjpzzhEWJaaB0MNc3nuI4BpyQqDlofcYypPqW/5ZX5Nfc/e1UT1O5y+ylLhCpiKx8403C+LZJpXKDvx2M7xPkMd67jPI7Tbnd/WCZSPCMsjjx7ou5gCpzmLQ2+1O+4DVaKJZax7gEC6JOoeMKaIdhvvvmEWXo8cLa104YuY8xd7rpuah8kIo8JPIPDG7Pod2fKYTmH+DfvmO9204ZRTkg3zYhSDuQeBkRk6b5JzcPsCyb44M0RkLmhaYIrH1k5RDlehg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=zxh/+UPZqY497CNfGZaBmz8PtM+X0nEZjbN9NsMWzgc=;
+ b=OlCu6ukLezk3EvbkuSP18raeMm3f9/aXBm9A60siCQsd4lsjpCa+vkuuDWP3cLaQnC609WuMKYLUnvfsHpAreS7mEOkxFcs0WQmBx09jGbXBGyXKtfHSmXjVhjftJDCwXt9ECGXTdQHPrwEiVd794E+Yqng6kAgaoCWJ/NUkuVee297kSHs3NhpNcUomoXLdfLZf7cClp4cTccgXyigOGun7QclCVs49f/KbPEkkjUr59li2sThhjgrt09UOeez71OlRWBpk3ijfURMBSj/CibJ+pTgVn3kYsCR9Vjo1aetLmuecS7kwNJgp+TZtcYKYfe4w/0P0ZjymbabJbT8eNA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=portageco.com; dmarc=pass action=none
+ header.from=portageco.com; dkim=pass header.d=portageco.com; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=portageco.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=zxh/+UPZqY497CNfGZaBmz8PtM+X0nEZjbN9NsMWzgc=;
+ b=i+WoVShBHNRzNx0q0+slVOa5EnXa+uBTFkyXSyXi0aBRWM1hiWvnh7TZem8hDvPdqhgK5XnDrSyOiOP0CGdvHZUJd1C9zRAy7LEDEZXWn5ZyhA2H8/U2aqll0sr7d7X5E5Ni0W+xG0r+YX36XAeqI5RalGU6+M5WpoMSQdxJ3kc=
+Received: from DM6PR09MB5045.namprd09.prod.outlook.com (2603:10b6:5:26e::16)
+ by SA1PR09MB9487.namprd09.prod.outlook.com (2603:10b6:806:276::6) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Sat, 3 Sep
+ 2022 00:10:22 +0000
+Received: from DM6PR09MB5045.namprd09.prod.outlook.com
+ ([fe80::a455:760a:676e:2eb5]) by DM6PR09MB5045.namprd09.prod.outlook.com
+ ([fe80::a455:760a:676e:2eb5%3]) with mapi id 15.20.5588.015; Sat, 3 Sep 2022
+ 00:10:22 +0000
+From: Victor Vigluicci <vvigluicci@portageco.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: [External]
+ http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: [External]
+ http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYvwlt+vPhBJU8y02mgOQUfhbiVQ==
+Date: Sat, 3 Sep 2022 00:10:22 +0000
+Message-ID: <32a3d54c77554a45b1774fbdf461b2c7@portageco.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 5edde2b4-e4ba-40da-2f9a-08da8d40b17b
+x-ms-traffictypediagnostic: SA1PR09MB9487:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ hUbGfZRPjLisuahZS94TjqYuHt8ogrilltIf16U7GFMvpVi7G9yIDq5olPAb0swD/cv30b653hb2n69yEZN+KECT75K6o23WBOi35GHbYgw3oEiZVRNRqfTrfF3NarLLCef9UocaOFMLFp/6vA8lil+1JQ7FRJae/1YTdzafLB3h42mFA2k8wK7wYVnyk6zcmeQ75LyygaOeVWz8bM1muEN1iaDvZe4Fj6JhED9TU4qX+XINXn8+v6awqqXe7AQVE7jbWYIZvb/S5mSSxWfmrGHjRNcmOSSwNnaCHeYNp6USJK570gapFb0wyZqSYyxl+9VT3rQQD+BabPgMlKteKmHZyYovCkR5UOQgrDN8iSms4s7+JA6wUCr1LAowwd+Pg31FXdakDZnLcHGF9p8nVzgHrmkDmr1qMKazgp5f4FiRr6H1tNOvZv9851yRKeR1ZvHonJB+ZCOcXjK1uh4bdg==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM6PR09MB5045.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(366004)(86362001)(73894004)(122000001)(2616005)(36756003)(186003)(621065003)(4270600006)(6506007)(6512007)(498600001)(71200400001)(6486002)(108616005)(88996005)(24736004)(6916009)(66446008)(64756008)(8676002)(2906002)(8936002)(66946007)(66476007)(66556008);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?um0ABdgeqYOvZV8m/dsHLR9fic+IcEVcERx5cfsNolpYk+wQQNkka3Cgf41l?=
+ =?us-ascii?Q?+5cisf7n2/dWEt8GMhDfj5OQQsZtVLjdyQN4ohs1SdHKLLdk/wcBhkXUE2ha?=
+ =?us-ascii?Q?8dqYVPQuFHDnEXc0hBYpcfTpqsukNAyJ+kZ+L48eAtPtP6F7yjQ4FW8/v4BQ?=
+ =?us-ascii?Q?FPxMIPw1BjG5GkDHf9WBn9u/x0UqE6qmY1wBOJEoD4mU9w6N/D3OCQTEo8b9?=
+ =?us-ascii?Q?r0BoTg2ztxJmLSKBHfROR9/2T1i9pTT29WXZyuxvuu3unBvS8e/PUIqxGJf7?=
+ =?us-ascii?Q?PnFewzJ0rtTHQImjkvYtPVQRIciJtL0bEbQiKWAoM+JtvLAwVVEw+uEAoM42?=
+ =?us-ascii?Q?xo0pU7wWNQBo9Wt58x5zSDE99TwBmGL9qQjFfjs2GcmCtmXnc/hLNvMsYKP4?=
+ =?us-ascii?Q?PdRtQIVNvNz8j37TDvIau1MWQBzeSKe6eJ7xfo3IK7PbtzRk4oMyPJ2YaNse?=
+ =?us-ascii?Q?xwPPqiTpzPwSZCkCycEbMshrjgZ9XfLRe656ln8VBTyRrm1SmJfBtRKVMW9k?=
+ =?us-ascii?Q?WJ8IenQUqN9Au5SG8i3SaVpiPSZkXCJzlKbWOrKbejKqc43aZr+M6RU/ACEX?=
+ =?us-ascii?Q?7grbH7PceG0RQeZvwY6UKE4ajG2bgouhSmIg26Pj422dan4YGxx/p/UdUEsD?=
+ =?us-ascii?Q?+4k7jZf2dsqi2hI1xd7LlO2e7J8iUBplJgjZVVkyw0UT96Vgnig0lxUipv6S?=
+ =?us-ascii?Q?m8P0kXip4iXMEH33nr0kEKZHn+TvbTR07qRPHz4J/xwUQgCYJ1wnIuqSs12o?=
+ =?us-ascii?Q?j5eo8Jc/UTmG37r8k/sd4H8KLGqnk6pwq+6+1edzvfsoz4W+XKIVM+Ngmy/m?=
+ =?us-ascii?Q?jq7ZeBPYKxcYW4a434jOq0OM/cNBf5wHDRJPNvuWTPBxfYI4Yc7I+fVUL4hy?=
+ =?us-ascii?Q?npQFgpVcEcubjxMWltKMfRMjc3Y7UX3+BAZUR9OeY0Ii0WMRMKOSm6Vzcsv4?=
+ =?us-ascii?Q?N5yK4D5Om3T8kbTHL8aJvzaagJwkhnxjet6Z1lu9gqwPkn3kkMM1sEii/0rY?=
+ =?us-ascii?Q?3HLPiVHbRBuO+06wNX8AOxMOXsEEA/S69iy/f7ooJBAWTlsxeylhPEfysNhk?=
+ =?us-ascii?Q?gmqb7PQZJ10nRaDlPdR4aNmuPH4b59PBRuhHYzTOEDCcTk/0sDDQdza1gXRq?=
+ =?us-ascii?Q?tdBnlUNg1+deizH9tgqHvbMenTYyjftMfZDn57rkyiuBWjjZBaZcIpgwjJdn?=
+ =?us-ascii?Q?PLdCg642WzeA9StEAAJAErzjPcKqueZHZtSNhFtKODFTMwgrkcM+2juvsvZ5?=
+ =?us-ascii?Q?oe+oScmNRYOtYBFBsjR3Q9nNPkx89ZqS4Hwgwtt1Z0VqEUkJeGmxyu0H9tKd?=
+ =?us-ascii?Q?3Y3ZLWFhRSxnWLoajo8rMRKjl4giDcH4ZGH30LPW+UcYRAKrVgwKTRF4cG2Z?=
+ =?us-ascii?Q?3gw7ZdwhVg+YUliffMJQzL2X1DmSMtIpLTwB+47VVybuCUWcOyIoTES8Siy9?=
+ =?us-ascii?Q?S4eP1axq0IRLL7oa9oPMfcAl6VnjFmpZWXFLuE4x8MPub+aJ83JW+A=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_32a3d54c77554a45b1774fbdf461b2c7portagecocom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: portageco.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM6PR09MB5045.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 5edde2b4-e4ba-40da-2f9a-08da8d40b17b
+X-MS-Exchange-CrossTenant-originalarrivaltime: 03 Sep 2022 00:10:22.1253
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: d03ffa92-5b3c-4469-bd5e-028cdceef248
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA1PR09MB9487
+X-FEAS-DKIM: Valid
+Content-Length: 2103
+
+--_000_32a3d54c77554a45b1774fbdf461b2c7portagecocom_
+Content-Type: multipart/alternative;
+	boundary="_002_32a3d54c77554a45b1774fbdf461b2c7portagecocom_"
+
+--_002_32a3d54c77554a45b1774fbdf461b2c7portagecocom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Victor Vigluicci
+   Subject: [External] http://ic3bbohit.pythonanywhere.com/aboutEvidence/ti=
+tle18-21/
+   Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Friday, September 2, 2022 8:10:22 PM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_32a3d54c77554a45b1774fbdf461b2c7portagecocom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Victor Vigluicci<br>
+&nbsp;&nbsp; Subject: [External] <a href=3D"http://ic3bbohit.pythonanywhere=
+.com/aboutEvidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Friday, September 2, 2022 8:10:22 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_32a3d54c77554a45b1774fbdf461b2c7portagecocom_--
+
+--_000_32a3d54c77554a45b1774fbdf461b2c7portagecocom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; vvigluicci@portageco.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: /ejQ11+NwUqeTws2Mh4Dng==
+Original-Message-ID: <acd111ab-80d6-a30a-a6d7-8ec1a9c50cb6@yahoo.com>
+X-Display-Name: Victor Vigluicci
+
+
+--_000_32a3d54c77554a45b1774fbdf461b2c7portagecocom_--
